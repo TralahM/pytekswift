@@ -1,0 +1,5 @@
+include tekswift/data *
+recursive-include tekswift/data
+include LICENSE
+include *.md
+include *.rst
