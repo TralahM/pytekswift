@@ -50,6 +50,7 @@ Where an eight digit code is given, it may be assumed that it refers to the prim
 # How to Install
 ```bash
 # In terminal do:
+$ pip install pytekswift
 ```
 
 ## Building from Source for Developers
@@ -57,6 +58,7 @@ Where an eight digit code is given, it may be assumed that it refers to the prim
 ```console
 $ git clone https://github.com/TralahM/pytekswift.git
 $ cd pytekswift
+$ python setup.py install
 ```
 
 # Contributing
