@@ -1,32 +1,21 @@
 #!/usr/bin/env python
 """PyTekSwift.DataLoader.
 
-=======================================================================
-:AUTHOR:	 Tralah M Brian <briantralah@tralahtek.com>
-:TWITTER: 	 @TralahM <https://twitter.com/TralahM>
-:GITHUB: 	 <https://github.com/TralahM>
-:KAGGLE: 	 <https://kaggle.com/TralahM>
-:COPYRIGHT:  (c) 2020  TralahTek LLC.
-:LICENSE: 	 MIT , see LICENSE for more details.
-:WEBSITE:	<https://www.tralahtek.com>
-:CREATED: 	2020-10-04  00:04
-
-:FILENAME:	dataloader.py
-=======================================================================
-
-
 DESCRIPTION OF dataloader MODULE:
 
-Utilities functions to read from the swift database files, lookup swiftcodes,
+Utility functions to read from the swift database files, lookup swiftcodes,
 and lookup by countries.
 """
 
 from yaml import load  # ,dump
+import os
 
 try:
     from yaml import CLoader as Loader  # CDumper as Dumper
 except ImportError:
     from yaml import Loader  # , Dumper
+
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 class InvalidCountryCode(Exception):
@@ -46,7 +35,10 @@ def build_path(countrycode: str) -> str:
     countrycode = countrycode.lower()
     if not len(countrycode) >= 2:
         raise InvalidCountryCode("CountryCode Too Short <2")
-    return f"data/{countrycode[:2]}.yml"
+    path = os.path.join(CURRENT_DIR, f"data/{countrycode[:2]}.yml")
+    if not os.path.exists(path):
+        raise InvalidCountryCode
+    return path
 
 
 def load_country_data(countrycode):
