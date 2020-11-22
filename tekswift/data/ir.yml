@@ -1,0 +1,3610 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  AYBKIRTH:
+    branch: null
+    city: TEHRAN
+    institution: AYANDEH BANK
+  BEGNIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHAFG:
+    branch: (AFRIGHA)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHART:
+    branch: (ARTESH)
+    city: TABRIZ
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHAZD:
+    branch: (AZADI ISFAHAN)
+    city: ISFAHAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHBSH:
+    branch: (BUSHEHR)
+    city: BUSHEHR
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHESF:
+    branch: (ESFANDYAR)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHFER:
+    branch: (FERDOSI)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHGHD:
+    branch: (GHADIR)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHIKH:
+    branch: (IMAM KHOMEINI)
+    city: MASHHAD
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHKBN:
+    branch: (KHABARNEGAR)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHKSH:
+    branch: (KISH ISLAND BRANCH)
+    city: KISH ISLAND
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHMAR:
+    branch: (ARGENTINA SQUARE)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHMFT:
+    branch: (MOFATTEH BRANCH)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHNFT:
+    branch: (NFT)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHSAA:
+    branch: (SAADAT ABAD  BRANCH)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHSHB:
+    branch: (CMS/ATM)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHSNT:
+    branch: (SANAATGARAN)
+    city: TEHRAN
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHTGH:
+    branch: (TAGHI ABAD)
+    city: MASHHAD
+    institution: BANK EGHTESAD NOVIN
+  BEGNIRTHZND:
+    branch: (ZAND)
+    city: SHIRAZ
+    institution: BANK EGHTESAD NOVIN
+  BKBPIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK PASARGAD
+  BKBPIRTH100:
+    branch: (MASHHAD FOREIGN EXCHANGE MAIN BRANCH)
+    city: MASHHAD
+    institution: BANK PASARGAD
+  BKBPIRTH130:
+    branch: (ISFAHAN FOREIGN EXCHANGE MAIN BRANCH)
+    city: ISFAHAN
+    institution: BANK PASARGAD
+  BKBPIRTH160:
+    branch: (TABRIZ FOREIGN EXCHANGE MAIN BRANCH)
+    city: TABRIZ
+    institution: BANK PASARGAD
+  BKBPIRTH170:
+    branch: (AMOL FOREIGN EXCHANGE MAIN BRANCH)
+    city: AMOL
+    institution: BANK PASARGAD
+  BKBPIRTH201:
+    branch: (CENTRAL BRANCH, NO.430, MIRDAMAD BLVD.,)
+    city: TEHRAN
+    institution: BANK PASARGAD
+  BKBPIRTHIS1:
+    branch: (SAADAT ABAD ST.,)
+    city: ISFAHAN
+    institution: BANK PASARGAD
+  BKBPIRTHKS1:
+    branch: null
+    city: KISH ISLAND
+    institution: BANK PASARGAD
+  BKBPIRTHTRY:
+    branch: (TREASURY DEPT.)
+    city: TEHRAN
+    institution: BANK PASARGAD
+  BKMNIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH111:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH112:
+    branch: (MASHHAD CENTRAL BR.)
+    city: MASHHAD
+    institution: BANK MASKAN
+  BKMNIRTH114:
+    branch: (ISFAHAN CENTRAL BRANCH)
+    city: ISFAHAN
+    institution: BANK MASKAN
+  BKMNIRTH115:
+    branch: (TABRIZ CENTRAL BR.)
+    city: TABRIZ
+    institution: BANK MASKAN
+  BKMNIRTH116:
+    branch: (HAMADAN CENTRAL BR.)
+    city: HAMADAN
+    institution: BANK MASKAN
+  BKMNIRTH117:
+    branch: (SHIRAZ CENTRAL BRANCH)
+    city: SHIRAZ
+    institution: BANK MASKAN
+  BKMNIRTH118:
+    branch: ( KERMANSHAH CENTRAL BR.)
+    city: KERMANSHAH
+    institution: BANK MASKAN
+  BKMNIRTH121:
+    branch: ( QAZVIN CENTRAL BR.)
+    city: QAZVIN
+    institution: BANK MASKAN
+  BKMNIRTH124:
+    branch: ( RASHT CENTRAL BR.)
+    city: RASHT
+    institution: BANK MASKAN
+  BKMNIRTH125:
+    branch: ( YAZD CENTRAL BR.)
+    city: YAZD
+    institution: BANK MASKAN
+  BKMNIRTH128:
+    branch: (KERMAN CENTRAL BR.)
+    city: KERMAN
+    institution: BANK MASKAN
+  BKMNIRTH129:
+    branch: (TOHID BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH141:
+    branch: (ORUMIYEH CENTRAL BR.)
+    city: ORUMIYEH
+    institution: BANK MASKAN
+  BKMNIRTH142:
+    branch: (TEHRAN SHOHADA BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH146:
+    branch: (QOM CENTRAL BRANCH)
+    city: QOM
+    institution: BANK MASKAN
+  BKMNIRTH148:
+    branch: ( SARI CENTRAL BR.)
+    city: SARI
+    institution: BANK MASKAN
+  BKMNIRTH151:
+    branch: (ARDABIL CENTRAL BRANCH)
+    city: ARDABIL
+    institution: BANK MASKAN
+  BKMNIRTH152:
+    branch: ( BUSHEHR CENTRAL BR.)
+    city: BUSHEHR
+    institution: BANK MASKAN
+  BKMNIRTH158:
+    branch: ( ARAK CENTRAL BR.)
+    city: ARAK
+    institution: BANK MASKAN
+  BKMNIRTH171:
+    branch: ( VALIASR SQ. BRANCH )
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH178:
+    branch: ( BANDAR ABBAS CENTRAL BR.)
+    city: BANDAR ABBAS
+    institution: BANK MASKAN
+  BKMNIRTH181:
+    branch: (TADJRISH BR.)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH211:
+    branch: ( KASHAN CENTRAL BR.)
+    city: KASHAN
+    institution: BANK MASKAN
+  BKMNIRTH217:
+    branch: ( KARAJ CENTRAL BR.)
+    city: KARAJ
+    institution: BANK MASKAN
+  BKMNIRTH219:
+    branch: (YOUSEFABAD BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH229:
+    branch: (SHAHREKORD CENTRAL BR.)
+    city: SHAHREKORD
+    institution: BANK MASKAN
+  BKMNIRTH276:
+    branch: (SADAF TRADE CENTRE)
+    city: CHABAHAR PORT
+    institution: BANK MASKAN
+  BKMNIRTH286:
+    branch: (KISH VENOOS BRANCH)
+    city: KISH ISLAND
+    institution: BANK MASKAN
+  BKMNIRTH295:
+    branch: (TEHRAN TALEQANI BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH297:
+    branch: (TEHRAN NARMAK BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH412:
+    branch: (SA'ADAT ABAD BR.)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH417:
+    branch: (ISFAHAN FERDOWSI BRANCH)
+    city: ISFAHAN
+    institution: BANK MASKAN
+  BKMNIRTH421:
+    branch: (TEHRAN SEPAHBOD QARANI BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH454:
+    branch: (ATTAR BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH469:
+    branch: (MIRDAMAD BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH554:
+    branch: (AFRIQA BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH615:
+    branch: (SADJAD BLVD. BR.)
+    city: MASHHAD
+    institution: BANK MASKAN
+  BKMNIRTH661:
+    branch: (MOTAHARI BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH782:
+    branch: (QESHM ISLAND CENTRAL BRANCH)
+    city: QESHM
+    institution: BANK MASKAN
+  BKMNIRTH889:
+    branch: ( VANAK SQ. BRANCH )
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTH942:
+    branch: (KISH CENTRAL BRANCH)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTHACC:
+    branch: (ACCOUNTING DIVISION)
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMNIRTHSHB:
+    branch: null
+    city: TEHRAN
+    institution: BANK MASKAN
+  BKMTIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH011:
+    branch: (ESTEGHLAL SQ. BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH012:
+    branch: (CHAHAR RAHE VALIASR BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH013:
+    branch: (FERDOWSI SQ. BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH014:
+    branch: (DAMESHGH BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH015:
+    branch: (HEJRAT BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH016:
+    branch: (SERAH TALEGHANI BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH017:
+    branch: (VEZARAT NAFT)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH018:
+    branch: (GHOLHAK BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH019:
+    branch: (MARKAZ LALEH MELLAT BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH020:
+    branch: (SANATI FATH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH021:
+    branch: (CHAHAR RAH GOLZAR)
+    city: KARAJ
+    institution: BANK MELLAT
+  BKMTIRTH022:
+    branch: (BAZAR BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH023:
+    branch: (PARSKHODRO BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH024:
+    branch: (VANAK BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH025:
+    branch: (DOLAT BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH026:
+    branch: (MIRDAMAD BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH027:
+    branch: (SEPAHBOD GHARANI BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH028:
+    branch: (CHAHARRAH JOMHORI BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH029:
+    branch: (HAFTE TIR SQ. BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH030:
+    branch: (KHIABAN FAJR)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH031:
+    branch: (MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH032:
+    branch: (ESKAN BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH033:
+    branch: (GOLFAM AFRICA BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH034:
+    branch: (ESLAMBOL BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH035:
+    branch: (KANDOVAN BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH036:
+    branch: (JEYHOON BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH037:
+    branch: (GOLESTANE PASDARAN BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH038:
+    branch: (NARENJESTANE PASDARAN BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH039:
+    branch: (SHAHID SARAFRAZ BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH040:
+    branch: (VALIASR NABSHE DR.BEHESHTI)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH041:
+    branch: (ISFAHAN BRANCH)
+    city: ISFAHAN
+    institution: BANK MELLAT
+  BKMTIRTH042:
+    branch: (MASHHAD BRANCH)
+    city: MASHHAD
+    institution: BANK MELLAT
+  BKMTIRTH043:
+    branch: (TABRIZ BRANCH)
+    city: TABRIZ
+    institution: BANK MELLAT
+  BKMTIRTH044:
+    branch: (AHWAZ BRANCH)
+    city: AHWAZ
+    institution: BANK MELLAT
+  BKMTIRTH045:
+    branch: (QOM)
+    city: QOM
+    institution: BANK MELLAT
+  BKMTIRTH046:
+    branch: (SHIRAZ BRANCH)
+    city: SHIRAZ
+    institution: BANK MELLAT
+  BKMTIRTH047:
+    branch: (SEMNAN BRANCH)
+    city: SEMNAN
+    institution: BANK MELLAT
+  BKMTIRTH048:
+    branch: (ZANJAN BRANCH)
+    city: ZANJAN
+    institution: BANK MELLAT
+  BKMTIRTH049:
+    branch: (ARAK BRANCH)
+    city: ARAK
+    institution: BANK MELLAT
+  BKMTIRTH050:
+    branch: (KERMAN BRANCH)
+    city: KERMAN
+    institution: BANK MELLAT
+  BKMTIRTH051:
+    branch: (RASHT BRANCH)
+    city: RASHT
+    institution: BANK MELLAT
+  BKMTIRTH052:
+    branch: (KARAJ BRANCH)
+    city: KARAJ
+    institution: BANK MELLAT
+  BKMTIRTH053:
+    branch: (BUSHEHR BRANCH)
+    city: BUSHEHR
+    institution: BANK MELLAT
+  BKMTIRTH054:
+    branch: (KISH CENTRAL BRANCH)
+    city: KISH ISLAND
+    institution: BANK MELLAT
+  BKMTIRTH055:
+    branch: (QESHM CENTRAL BRANCH)
+    city: QESHM
+    institution: BANK MELLAT
+  BKMTIRTH056:
+    branch: (CHABAHAR BRANCH)
+    city: CHABAHAR PORT
+    institution: BANK MELLAT
+  BKMTIRTH057:
+    branch: (MARKAZI BRANCH)
+    city: KERMANSHAH
+    institution: BANK MELLAT
+  BKMTIRTH058:
+    branch: (VALI-ASR GORGAN BRANCH)
+    city: GORGAN
+    institution: BANK MELLAT
+  BKMTIRTH059:
+    branch: (ASTANE GHODS BRANCH)
+    city: MASHHAD
+    institution: BANK MELLAT
+  BKMTIRTH060:
+    branch: (SHAHRE SANATI ALBORZ BRANCH)
+    city: QAZVIN
+    institution: BANK MELLAT
+  BKMTIRTH061:
+    branch: (JOMHOURI ESLAMI BLVD.)
+    city: YAZD
+    institution: BANK MELLAT
+  BKMTIRTH062:
+    branch: (DAHOME DEY)
+    city: MASHHAD
+    institution: BANK MELLAT
+  BKMTIRTH063:
+    branch: (MARKAZI BRANCH)
+    city: ORUMIYEH
+    institution: BANK MELLAT
+  BKMTIRTH064:
+    branch: (HORMOZGAN BRANCH)
+    city: BANDAR ABBAS
+    institution: BANK MELLAT
+  BKMTIRTH065:
+    branch: (SHARIATI BOJNOORD)
+    city: BOJNOORD
+    institution: BANK MELLAT
+  BKMTIRTH066:
+    branch: (SARI EMAM SQUARE BRANCH)
+    city: SARI
+    institution: BANK MELLAT
+  BKMTIRTH067:
+    branch: (ZAHEDAN BRANCH)
+    city: ZAHEDAN
+    institution: BANK MELLAT
+  BKMTIRTH068:
+    branch: (SADJAD BLVD. BRANCH)
+    city: MASHHAD
+    institution: BANK MELLAT
+  BKMTIRTH069:
+    branch: (SANANDAJ)
+    city: SANANDAJ
+    institution: BANK MELLAT
+  BKMTIRTH070:
+    branch: (GHASR SHIRIN)
+    city: GHASRSHIRIN
+    institution: BANK MELLAT
+  BKMTIRTH071:
+    branch: (HAMEDAN)
+    city: HAMADAN
+    institution: BANK MELLAT
+  BKMTIRTH073:
+    branch: (ARDABIL)
+    city: ARDABIL
+    institution: BANK MELLAT
+  BKMTIRTH074:
+    branch: (SHEIKH SADOGH)
+    city: ISFAHAN
+    institution: BANK MELLAT
+  BKMTIRTH075:
+    branch: (KHORRAMABAD)
+    city: KHORRAMABAD
+    institution: BANK MELLAT
+  BKMTIRTH076:
+    branch: (SIRJAN BRANCH)
+    city: SIRJAN
+    institution: BANK MELLAT
+  BKMTIRTH077:
+    branch: (SHAHREKORD)
+    city: SHAHREKORD
+    institution: BANK MELLAT
+  BKMTIRTH078:
+    branch: (MEYDANE TOHID)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH079:
+    branch: (MANATEGH NAFT KHIZ JONOB)
+    city: AHWAZ
+    institution: BANK MELLAT
+  BKMTIRTH080:
+    branch: (DR.FATEMI BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH081:
+    branch: (OSTAD NEJATALLAHI SHOMALI)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH082:
+    branch: (CHAHAR RAHE RASHID BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH083:
+    branch: (ZAMYAD BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH084:
+    branch: (ARJANTIN SQUARE BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH085:
+    branch: (MASJED JAME SHAHRAK GHODS BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH086:
+    branch: (BEHDASHT VA DARMAN BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH087:
+    branch: (BORSE KALA)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH088:
+    branch: (GANDI BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH089:
+    branch: (SHAHID MADANI)
+    city: TABRIZ
+    institution: BANK MELLAT
+  BKMTIRTH090:
+    branch: (KASHAN BRANCH)
+    city: KASHAN
+    institution: BANK MELLAT
+  BKMTIRTH091:
+    branch: (FERDOWSI SHOMALI)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH092:
+    branch: (SAADAT ABAD)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH093:
+    branch: (SABZE MEYDAN)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH094:
+    branch: (CHAHAR RAH BASIJ)
+    city: KERMANSHAH
+    institution: BANK MELLAT
+  BKMTIRTH095:
+    branch: (MARKAZ TEJARI)
+    city: KISH ISLAND
+    institution: BANK MELLAT
+  BKMTIRTH096:
+    branch: (BAZAR PARDIS)
+    city: KISH ISLAND
+    institution: BANK MELLAT
+  BKMTIRTH097:
+    branch: (BAZAR ARABHA)
+    city: KISH ISLAND
+    institution: BANK MELLAT
+  BKMTIRTH098:
+    branch: (DR.BEHESHTI)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH099:
+    branch: (VANAK TAK)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH100:
+    branch: (SAZMAN GOSTARESH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTH101:
+    branch: (MEYDAN SA'AT)
+    city: TABRIZ
+    institution: BANK MELLAT
+  BKMTIRTHBBR:
+    branch: (BIRJAND BRANCH)
+    city: BIRJAND
+    institution: BANK MELLAT
+  BKMTIRTHBMN:
+    branch: (MIRDAMAD-NAFT COMMERCIAL BANKING CENTER)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHCOB:
+    branch: (CORPORATE BANKING)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHDTH:
+    branch: (DANESHGAH TEHRAN)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHFAC:
+    branch: (ACCOUNTING AND FOREIGN DEBT. DEPT.)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHFBA:
+    branch: (OVERSEAS BRANCH AFFAIRS AND FOREIGN INVESTMENT DEPT.)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHFIN:
+    branch: (PROJECT FINANCING DEPT.)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHFOD:
+    branch: (FOREIGN OPERATION DEPT..)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHFXD:
+    branch: (FOREIGN EXCHANGE DEPT.)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHGRG:
+    branch: (GORGAN BR.)
+    city: GORGAN
+    institution: BANK MELLAT
+  BKMTIRTHIKH:
+    branch: (IRAN KAVEH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHINT:
+    branch: (INTERNATIONAL DIV)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHLGD:
+    branch: (LETTER OF GUARANTEE DEPT.)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHQZV:
+    branch: (QAZVIN BRANCH)
+    city: GHAZVIN
+    institution: BANK MELLAT
+  BKMTIRTHREL:
+    branch: (INTERNATIONAL RELATION DEPT)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHSQR:
+    branch: (SHAHID SADOUGHI KERMAN)
+    city: KERMAN
+    institution: BANK MELLAT
+  BKMTIRTHSTD:
+    branch: (SETTLEMENT DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHUWS:
+    branch: (FARAZ ASEMAN SAADAT ABAD BRANCH)
+    city: TEHRAN
+    institution: BANK MELLAT
+  BKMTIRTHYSJ:
+    branch: (YASOUJ BRANCH)
+    city: YASUJ
+    institution: BANK MELLAT
+  BKPAIRTH:
+    branch: null
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTH005:
+    branch: (MIRDAMAD SHARGHI BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTH048:
+    branch: (SHIR PASTORIZEH BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHAFS:
+    branch: (AFRIGHAYE SHOMALI)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHAHW:
+    branch: (AHWAZ)
+    city: AHWAZ
+    institution: PARSIAN BANK
+  BKPAIRTHAMH:
+    branch: (AHMAD ABAD MASHHAD)
+    city: MASHHAD
+    institution: PARSIAN BANK
+  BKPAIRTHAPA:
+    branch: (APADANA)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHARJ:
+    branch: (ARJANTIN BRANCH )
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHAZD:
+    branch: (AZADI BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHBTE:
+    branch: (BORJ TEJARAT ELECTRONIC)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHCEN:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHCHT:
+    branch: (CHITGAR)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHCNB:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHDFT:
+    branch: (DOCTOR FATEMI)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHETD:
+    branch: (ETTEHAD BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHFKR:
+    branch: (FERDOWSI KERMANSHAH BRANCH)
+    city: KERMANSHAH
+    institution: PARSIAN BANK
+  BKPAIRTHFRD:
+    branch: (FERDOSI BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHFSH:
+    branch: (FERESHTEH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHGAN:
+    branch: (GANDI)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHHAK:
+    branch: (HAKIM NEZAMI ISFAHAN BRANCH)
+    city: ISFAHAN
+    institution: PARSIAN BANK
+  BKPAIRTHKAM:
+    branch: (KAMRANIEH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHKAS:
+    branch: (AYATOLLAH KASHANI SHARGHI)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHKER:
+    branch: (KERMAN BRANCH)
+    city: KERMAN
+    institution: PARSIAN BANK
+  BKPAIRTHKRZ:
+    branch: (KARIMKHAN ZAND BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHKSH:
+    branch: (KISH BRANCH)
+    city: KISH ISLAND
+    institution: PARSIAN BANK
+  BKPAIRTHLAL:
+    branch: (LALEH BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHMDG:
+    branch: (MIRDAMAD GHARBI BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHMMK:
+    branch: (MEYDAN MADAR KARAJ)
+    city: KARAJ
+    institution: PARSIAN BANK
+  BKPAIRTHMOL:
+    branch: (MOLASADRA BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHMOR:
+    branch: (MOTAHARI RASHT)
+    city: RASHT
+    institution: PARSIAN BANK
+  BKPAIRTHMOT:
+    branch: (MOTAHARI)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHNBI:
+    branch: (DR. NOURBAKHSH)
+    city: ISFAHAN
+    institution: PARSIAN BANK
+  BKPAIRTHNFN:
+    branch: (NAFT SHOMALI)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHORU:
+    branch: (ORUMIYEH)
+    city: ORUMIYEH
+    institution: PARSIAN BANK
+  BKPAIRTHPAS:
+    branch: (PASDARAN BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHPMN:
+    branch: (PAMENAR BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHPSE:
+    branch: (PARK SAEE)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHRSH:
+    branch: (RASHID CROSS)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHSAD:
+    branch: (SADRA BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHSAR:
+    branch: (SARI)
+    city: SARI
+    institution: PARSIAN BANK
+  BKPAIRTHSBB:
+    branch: (TAKHTI BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHSBS:
+    branch: (SHAHID BEHESHTI SHARGHI)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHSGH:
+    branch: (SEPAHBOD GHARANI)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHSHB:
+    branch: (SHETAB BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHSHK:
+    branch: (SHEIKH BAHAEE)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHSHM:
+    branch: (MA-ALI ABAD SHIRAZ)
+    city: SHIRAZ
+    institution: PARSIAN BANK
+  BKPAIRTHSHZ:
+    branch: (GHASRODASHT BRANCH)
+    city: SHIRAZ
+    institution: PARSIAN BANK
+  BKPAIRTHSKH:
+    branch: (SOLEYMAN KHATER)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHTAL:
+    branch: (TALEGHANI BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHTBZ:
+    branch: (TABRIZ BRANCH)
+    city: TABRIZ
+    institution: PARSIAN BANK
+  BKPAIRTHTOH:
+    branch: (TOHID BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BKPAIRTHYZD:
+    branch: (YAZD BRANCH)
+    city: YAZD
+    institution: PARSIAN BANK
+  BKPAIRTHZFR:
+    branch: (ZAFAR BRANCH)
+    city: TEHRAN
+    institution: PARSIAN BANK
+  BMJIIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHACU:
+    branch: (ASIAN CLEARING UNION)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHEXD:
+    branch: (EXPORT DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHFDD:
+    branch: (FOREIGN DEBTS DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHFED:
+    branch: (FOREIGN EXCHANGE DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHGAD:
+    branch: (GENERAL ACCOUNT AND BUDGET DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHGSD:
+    branch: (GENERAL SECRETARIAT DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHHED:
+    branch: (HARDWARE ENGINEERING DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHIFD:
+    branch: (INTERNATIONAL FINANCE DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHINT:
+    branch: (INTERNATIONAL DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHRTD:
+    branch: (RIAL TRANSACTIONS DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BMJIIRTHSHB:
+    branch: (PAYMENT AND SETTLEMENT SYSTEM DEPARTMENT)
+    city: TEHRAN
+    institution: BANK MARKAZI JOMHOURI ISLAMI IRAN
+  BOIMIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHADB:
+    branch: (ARDEBIL)
+    city: ARDABIL
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHAHW:
+    branch: (AHWAZ BRANCH)
+    city: AHWAZ
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHARK:
+    branch: (ARAK)
+    city: ARAK
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHBAN:
+    branch: (BANDAR ABBAS)
+    city: BANDAR ABBAS
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHBOJ:
+    branch: (BOJNOORD)
+    city: BOJNOORD
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHBRJ:
+    branch: (BIRJAND)
+    city: BIRJAND
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHBSH:
+    branch: (BUSHEHR)
+    city: BUSHEHR
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHCEN:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHDKH:
+    branch: (DOKHANIAT BRANCH)
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHFLD:
+    branch: (FOULAD BRANCH)
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHGOR:
+    branch: (GORGAN)
+    city: GORGAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHGSH:
+    branch: (GOSTARESH BRANCH)
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHHAF:
+    branch: (HAFEZ BRANCH)
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHHMD:
+    branch: (HAMEDAN)
+    city: HAMADAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHHQA:
+    branch: (SETAD)
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHILM:
+    branch: (ILAM)
+    city: ILAM
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHISF:
+    branch: (ISFAHAN BRANCH)
+    city: ISFAHAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHKAR:
+    branch: (KARIM KHAN BRANCH)
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHKER:
+    branch: (KERMAN)
+    city: KERMAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHKHO:
+    branch: (KHORAM ABAD)
+    city: KHORRAMABAD
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHKMS:
+    branch: (KERMANSHAH)
+    city: KERMANSHAH
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHKRJ:
+    branch: (KARAJ BRANCH)
+    city: KARAJ
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHKSH:
+    branch: (KISH ISLAND BRANCH)
+    city: KISH ISLAND
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHMSH:
+    branch: (MASHHAD)
+    city: MASHHAD
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHORM:
+    branch: (ORUMYEH)
+    city: ORUMIYEH
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHQIC:
+    branch: (QAZVIN INDUSTRIAL CITY BRANCH)
+    city: QAZVIN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHQOM:
+    branch: (QOM BRANCH)
+    city: QOM
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHQSH:
+    branch: (QESHM)
+    city: QESHM
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHQZN:
+    branch: (QAZVIN)
+    city: QAZVIN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHRSH:
+    branch: (RASHT BRANCH)
+    city: RASHT
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHSAN:
+    branch: (SANAT BRANCH)
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHSEM:
+    branch: (SEMNAN)
+    city: SEMNAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHSHA:
+    branch: (SHAHROOD BRANCH)
+    city: SEMNAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHSHB:
+    branch: (TREASURY DEPARTMENT)
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHSHK:
+    branch: (SHAHREKORD)
+    city: SHAHREKORD
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHSNJ:
+    branch: (SANANDAJ)
+    city: SANANDAJ
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHSQI:
+    branch: (SKOHOUHIE QOM INDUSTRIAL CITY BRANCH)
+    city: QOM
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHSRI:
+    branch: (SARI)
+    city: SARI
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHSRZ:
+    branch: (SHIRAZ)
+    city: SHIRAZ
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHTAB:
+    branch: (TABRIZ)
+    city: TABRIZ
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHTMB:
+    branch: (TOSEE MELLI)
+    city: TEHRAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHYAZ:
+    branch: (YAZD)
+    city: YAZD
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHYSJ:
+    branch: (YASOUJ)
+    city: YASUJ
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHZAH:
+    branch: (ZAHEDAN)
+    city: ZAHEDAN
+    institution: BANK OF INDUSTRY AND MINE
+  BOIMIRTHZNJ:
+    branch: (ZANJAN)
+    city: ZANJAN
+    institution: BANK OF INDUSTRY AND MINE
+  BTEJIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH023:
+    branch: (TELEGHANI BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH051:
+    branch: (IMAM KHOMEINI SQUARE MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH100:
+    branch: (FERDOWSI MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH150:
+    branch: (GHODS MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH200:
+    branch: (GHARANI MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH250:
+    branch: (SAADI MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH300:
+    branch: (VALI-E-ASR MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH350:
+    branch: (MIRDAMAD MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH500:
+    branch: (ESKAN MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH700:
+    branch: (KARIMKHAN MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH802:
+    branch: (CHEETGAR MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTH811:
+    branch: (BAZAR MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTHARD:
+    branch: (ARDABIL BRANCH)
+    city: ARDABIL
+    institution: BANK TEJARAT
+  BTEJIRTHARK:
+    branch: (ARAK MAIN BRANCH)
+    city: ARAK
+    institution: BANK TEJARAT
+  BTEJIRTHAWZ:
+    branch: (CENTRAL BRANCH)
+    city: AHWAZ
+    institution: BANK TEJARAT
+  BTEJIRTHBND:
+    branch: (BANDAR ABBAS MAIN BRANCH)
+    city: BANDAR ABBAS
+    institution: BANK TEJARAT
+  BTEJIRTHBSH:
+    branch: (BUSHEHR MAIN BRANCH)
+    city: BUSHEHR
+    institution: BANK TEJARAT
+  BTEJIRTHGAN:
+    branch: null
+    city: GORGAN
+    institution: BANK TEJARAT
+  BTEJIRTHHAM:
+    branch: (HAMEDAN BRANCH)
+    city: HAMADAN
+    institution: BANK TEJARAT
+  BTEJIRTHHRM:
+    branch: (HORMOZAN MAIN BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTHILM:
+    branch: null
+    city: ILAM
+    institution: BANK TEJARAT
+  BTEJIRTHISF:
+    branch: (CENTRAL BRANCH)
+    city: ISFAHAN
+    institution: BANK TEJARAT
+  BTEJIRTHKER:
+    branch: (KERMAN MAIN BRANCH)
+    city: KERMAN
+    institution: BANK TEJARAT
+  BTEJIRTHKRH:
+    branch: (KERMANSHAH MAIN BRANCH)
+    city: KERMANSHAH
+    institution: BANK TEJARAT
+  BTEJIRTHKRJ:
+    branch: null
+    city: KARAJ
+    institution: BANK TEJARAT
+  BTEJIRTHKSH:
+    branch: (KISH MAIN BRANCH)
+    city: KISH ISLAND
+    institution: BANK TEJARAT
+  BTEJIRTHKSN:
+    branch: (KASHAN BRANCH)
+    city: KASHAN
+    institution: BANK TEJARAT
+  BTEJIRTHLGD:
+    branch: (GUARANTEE DEPARTMENT)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTHMSD:
+    branch: (MASHHAD BRANCH)
+    city: MASHHAD
+    institution: BANK TEJARAT
+  BTEJIRTHORM:
+    branch: (ORUMIYEH MAIN BRANCH)
+    city: ORUMIYEH
+    institution: BANK TEJARAT
+  BTEJIRTHQOM:
+    branch: (QOME MAIN BRANCH)
+    city: QOM
+    institution: BANK TEJARAT
+  BTEJIRTHQZN:
+    branch: (GHAZVIN MAIN BRANCH)
+    city: GHAZVIN
+    institution: BANK TEJARAT
+  BTEJIRTHRAY:
+    branch: (RAY BRANCH)
+    city: TEHRAN
+    institution: BANK TEJARAT
+  BTEJIRTHRSH:
+    branch: (RASHT MAIN BRANCH)
+    city: RASHT
+    institution: BANK TEJARAT
+  BTEJIRTHSAR:
+    branch: (SARI MAIN BRANCH)
+    city: SARI
+    institution: BANK TEJARAT
+  BTEJIRTHSEM:
+    branch: (SEMNAN BRANCH)
+    city: SEMNAN
+    institution: BANK TEJARAT
+  BTEJIRTHSHI:
+    branch: (SHIRAZ MAIN BRANCH)
+    city: SHIRAZ
+    institution: BANK TEJARAT
+  BTEJIRTHSNJ:
+    branch: (SANANDAJ MAIN BRANCH)
+    city: SANANDAJ
+    institution: BANK TEJARAT
+  BTEJIRTHTBR:
+    branch: (HEAD OFFICE)
+    city: TABRIZ
+    institution: BANK TEJARAT
+  BTEJIRTHYAZ:
+    branch: (YAZD MAIN BRANCH)
+    city: YAZD
+    institution: BANK TEJARAT
+  BTEJIRTHZNJ:
+    branch: (ZANJAN MAIN BRANCH)
+    city: ZANJAN
+    institution: BANK TEJARAT
+  BTOSIRTH:
+    branch: null
+    city: TEHRAN
+    institution: CREDIT INSTITUTE FOR DEVELOPMENT
+  BTOSIRTHCNT:
+    branch: (CENTRAL)
+    city: TEHRAN
+    institution: CREDIT INSTITUTE FOR DEVELOPMENT
+  BTOSIRTHISF:
+    branch: (ISFAHAN(201))
+    city: ISFAHAN
+    institution: CREDIT INSTITUTE FOR DEVELOPMENT
+  BTOSIRTHKSH:
+    branch: (KISH BRANCH(601))
+    city: KISH ISLAND
+    institution: CREDIT INSTITUTE FOR DEVELOPMENT
+  BTOSIRTHMAD:
+    branch: (MADAR SQ.,(104))
+    city: TEHRAN
+    institution: CREDIT INSTITUTE FOR DEVELOPMENT
+  BTOSIRTHMSH:
+    branch: (MASHHAD(301))
+    city: MASHHAD
+    institution: CREDIT INSTITUTE FOR DEVELOPMENT
+  BTOSIRTHSAN:
+    branch: (SANAIE(113))
+    city: TEHRAN
+    institution: CREDIT INSTITUTE FOR DEVELOPMENT
+  BTOSIRTHTAB:
+    branch: (TABRIZ)
+    city: TABRIZ
+    institution: CREDIT INSTITUTE FOR DEVELOPMENT
+  CIYBIRTH:
+    branch: null
+    city: TEHRAN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTH201:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTH240:
+    branch: (PAKNEZHAD)
+    city: TEHRAN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTH248:
+    branch: (ARZHANTIN)
+    city: TEHRAN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTH329:
+    branch: (FERDOSI SQ.)
+    city: TEHRAN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTH331:
+    branch: (KAMRANIYEH)
+    city: TEHRAN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTH335:
+    branch: (MOLLA SADRA)
+    city: TEHRAN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTH504:
+    branch: (SHARIATI-MIRDAMAD)
+    city: TEHRAN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTH538:
+    branch: (IRAN ZAMIN-MAHESTAN)
+    city: TEHRAN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTHBSH:
+    branch: (BUSHER)
+    city: BUSHEHR
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTHESF:
+    branch: (ISFAHAN BRANCH)
+    city: ISFAHAN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTHKRJ:
+    branch: (ALBORZ)
+    city: ALBORZ
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTHKSH:
+    branch: (PARDIS BRANCH)
+    city: KISH ISLAND
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTHMAS:
+    branch: (MASHHAD BRANCH)
+    city: MASHHAD
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTHQAZ:
+    branch: (GHAZVIN)
+    city: GHAZVIN
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTHQOM:
+    branch: (QOM)
+    city: QOM
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTHSHI:
+    branch: (KARIM KHAN BRANCH)
+    city: SHIRAZ
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTHTAB:
+    branch: (TABRIZ BRANCH)
+    city: TABRIZ
+    institution: CITY BANK (PUBLIC CORP)
+  CIYBIRTHTRD:
+    branch: (FOREIGN EXCHANGE OPERATION DEPT.)
+    city: TEHRAN
+    institution: CITY BANK (PUBLIC CORP)
+  DAYBIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK DAY
+  EDBIIRTH:
+    branch: null
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHARD:
+    branch: (BRANCH)
+    city: ARDABIL
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHARG:
+    branch: (ARGENTINA SQ.)
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHARK:
+    branch: (ARAK BRANCH)
+    city: ARAK
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHAST:
+    branch: (ASTARA MAIN BRANCH)
+    city: ASTARA
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHAWZ:
+    branch: (AHWAZ MAIN BRANCH)
+    city: AHWAZ
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHBAN:
+    branch: (BANDAR ABBAS MAIN BRANCH)
+    city: BANDAR ABBAS
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHBIR:
+    branch: null
+    city: BIRJAND
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHBLV:
+    branch: (BOULEVARD BRANCH)
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHBOJ:
+    branch: null
+    city: BOJNOORD
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHBSH:
+    branch: (BUSHEHR MAIN BRANCH)
+    city: BUSHEHR
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHCEN:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHCHA:
+    branch: (CHABAHAR MAIN BRANCH)
+    city: CHABAHAR PORT
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHFXD:
+    branch: (TREASURY DEPARTMENT)
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHGOR:
+    branch: (GORGAN MAIN BRANCH)
+    city: GORGAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHHAM:
+    branch: (HAMADAN MAIN BRANCH)
+    city: HAMADAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHILA:
+    branch: (BRANCH)
+    city: ILAM
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHINT:
+    branch: (INTERNATIONAL DEPT.)
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHISF:
+    branch: (ISFAHAN MAIN BRANCH)
+    city: ISFAHAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHKAS:
+    branch: null
+    city: KASHAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHKER:
+    branch: (KERMAN MAIN BRANCH)
+    city: KERMAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHKHO:
+    branch: (KHORRAMABAD MAIN BRANCH)
+    city: KHORRAMABAD
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHKRH:
+    branch: (KERMANSHAH MAIN BRANCH)
+    city: KERMANSHAH
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHKRJ:
+    branch: (KARAJ BRANCH)
+    city: KARAJ
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHKSH:
+    branch: (KISH MAIN BRANCH)
+    city: KISH ISLAND
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHLGD:
+    branch: (LG DEPT.)
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHMIR:
+    branch: (MIRDAMAD BRANCH)
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHMSH:
+    branch: (MASHAD BRANCH)
+    city: MASHHAD
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHORU:
+    branch: (ORUMIYEH MAIN BRANCH)
+    city: ORUMIYEH
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHQAZ:
+    branch: null
+    city: QAZVIN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHQOM:
+    branch: (QOM BRANCH)
+    city: QOM
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHQSH:
+    branch: (QESHM MAIN BRANCH)
+    city: QESHM
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHRSH:
+    branch: (RASHT MAIN BRANCH)
+    city: RASHT
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHSAN:
+    branch: null
+    city: SANANDAJ
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHSAR:
+    branch: (SARI MAIN BRANCH)
+    city: SARI
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHSEM:
+    branch: (SEMNAN BRANCH)
+    city: SEMNAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHSHB:
+    branch: (SHETAB DEPT)
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHSHI:
+    branch: (SHIRAZ BRANCH)
+    city: SHIRAZ
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHSHK:
+    branch: null
+    city: SHAHREKORD
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHTAB:
+    branch: (TABRIZ BRANCH)
+    city: TABRIZ
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHTAJ:
+    branch: (TAJRISH BRANCH)
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHTRF:
+    branch: (TRADE FINANCE OPERATION)
+    city: TEHRAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHYAS:
+    branch: (YASUJ BRANCH)
+    city: YASUJ
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHYAZ:
+    branch: (YAZD MAIN BRANCH)
+    city: YAZD
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHZAH:
+    branch: (ZAHEDAN)
+    city: ZAHEDAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EDBIIRTHZAN:
+    branch: (ZANJAN MAIN BRANCH)
+    city: ZANJAN
+    institution: EXPORT DEVELOPMENT BANK OF IRAN
+  EIHBIRTH:
+    branch: null
+    city: TEHRAN
+    institution: EUROPAEISCH-IRANISCHE HANDELSBANK AG
+  EIHBIRTHKSH:
+    branch: null
+    city: KISH ISLAND
+    institution: EUROPAEISCH-IRANISCHE HANDELSBANK AG
+  EIHBIRTHTEH:
+    branch: (TEHRAN BRANCH)
+    city: TEHRAN
+    institution: EUROPAEISCH-IRANISCHE HANDELSBANK AG
+  FNXCIRT1:
+    branch: null
+    city: ISFAHAN
+    institution: FNXCARD CORPORATION LTD
+  HEKMIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK HEKMAT IRANIAN
+  HIMDIRT1:
+    branch: null
+    city: KARAJ
+    institution: HELAL IRAN MEDICAL DEVICES CO.
+  IVBBIRTH:
+    branch: null
+    city: TEHRAN
+    institution: IRAN VENEZUELA BI-NATIONAL BANK
+  KBIDIRTH:
+    branch: null
+    city: TEHRAN
+    institution: KARAFARIN BANK
+  KBIDIRTH004:
+    branch: (ESFAHAN CENTRAL BRANCH)
+    city: ISFAHAN
+    institution: KARAFARIN BANK
+  KBIDIRTH005:
+    branch: (FARMANIYEH BRANCH)
+    city: TEHRAN
+    institution: KARAFARIN BANK
+  KBIDIRTH008:
+    branch: (CENTRAL BRANCH OF TABRIZ)
+    city: TABRIZ
+    institution: KARAFARIN BANK
+  KBIDIRTH009:
+    branch: (VANAK BRANCH)
+    city: TEHRAN
+    institution: KARAFARIN BANK
+  KBIDIRTH016:
+    branch: (ZAFAR BRANCH)
+    city: TEHRAN
+    institution: KARAFARIN BANK
+  KBIDIRTH018:
+    branch: (MASHHAD CENTRAL BRANCH)
+    city: MASHHAD
+    institution: KARAFARIN BANK
+  KBIDIRTH022:
+    branch: (SEPAHAN BRANCH)
+    city: TEHRAN
+    institution: KARAFARIN BANK
+  KBIDIRTH031:
+    branch: (KISH ISLAND BRANCH)
+    city: KISH ISLAND
+    institution: KARAFARIN BANK
+  KBIDIRTH050:
+    branch: (SHAHIS BEHESHTI BRANCH)
+    city: TEHRAN
+    institution: KARAFARIN BANK
+  KBIDIRTHSHB:
+    branch: null
+    city: TEHRAN
+    institution: KARAFARIN BANK
+  KESHIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH00B:
+    branch: (AMOL BRANCH)
+    city: AMOL
+    institution: BANK KESHAVARZI
+  KESHIRTH01Q:
+    branch: (PALIZI)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH020:
+    branch: (ORUMIYEH)
+    city: ORUMIYEH
+    institution: BANK KESHAVARZI
+  KESHIRTH030:
+    branch: (ISFAHAN BRANCH)
+    city: ISFAHAN
+    institution: BANK KESHAVARZI
+  KESHIRTH040:
+    branch: (TABRIZ BRANCH)
+    city: TABRIZ
+    institution: BANK KESHAVARZI
+  KESHIRTH050:
+    branch: (HAMEDAN)
+    city: HAMADAN
+    institution: BANK KESHAVARZI
+  KESHIRTH070:
+    branch: (KERMAN BRANCH)
+    city: KERMAN
+    institution: BANK KESHAVARZI
+  KESHIRTH100:
+    branch: (QAZVIN BRANCH)
+    city: QAZVIN
+    institution: BANK KESHAVARZI
+  KESHIRTH103:
+    branch: (SHADMEHR BRANCH)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH110:
+    branch: (SHAHRARA)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH130:
+    branch: (YAZD)
+    city: YAZD
+    institution: BANK KESHAVARZI
+  KESHIRTH140:
+    branch: (MASHHAD BRANCH)
+    city: MASHHAD
+    institution: BANK KESHAVARZI
+  KESHIRTH160:
+    branch: null
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH16M:
+    branch: (BUSHEHR)
+    city: BUSHEHR
+    institution: BANK KESHAVARZI
+  KESHIRTH180:
+    branch: (MARKAZ TEJARI GOLESTAN BRANCH)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH18K:
+    branch: (SEMNAN)
+    city: SEMNAN
+    institution: BANK KESHAVARZI
+  KESHIRTH190:
+    branch: (ZANJAN)
+    city: ZANJAN
+    institution: BANK KESHAVARZI
+  KESHIRTH204:
+    branch: (SARI BRANCH)
+    city: SARI
+    institution: BANK KESHAVARZI
+  KESHIRTH210:
+    branch: (RASHT BRANCH)
+    city: RASHT
+    institution: BANK KESHAVARZI
+  KESHIRTH21K:
+    branch: (SHAHROUD)
+    city: SHAHROUD
+    institution: BANK KESHAVARZI
+  KESHIRTH240:
+    branch: (ARAK)
+    city: ARAK
+    institution: BANK KESHAVARZI
+  KESHIRTH300:
+    branch: (KISH BRANCH)
+    city: KISH ISLAND
+    institution: BANK KESHAVARZI
+  KESHIRTH340:
+    branch: (DOLATI BRANCH)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH390:
+    branch: (CHABAHAR BRANCH)
+    city: CHABAHAR PORT
+    institution: BANK KESHAVARZI
+  KESHIRTH440:
+    branch: (VALI-ASR BRANCH)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH450:
+    branch: (PERSIAN GULF)
+    city: BANDAR ABBAS
+    institution: BANK KESHAVARZI
+  KESHIRTH47A:
+    branch: (BAHARESTAN)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH53A:
+    branch: null
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH610:
+    branch: (VANAK)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH620:
+    branch: (TOHID BRANCH)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH63S:
+    branch: (SAADAT ABAD)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH701:
+    branch: (TOHID BRANCH)
+    city: KARAJ
+    institution: BANK KESHAVARZI
+  KESHIRTH703:
+    branch: (QESHM BRANCH)
+    city: QESHM
+    institution: BANK KESHAVARZI
+  KESHIRTH705:
+    branch: (SHIRAZ BRANCH)
+    city: SHIRAZ
+    institution: BANK KESHAVARZI
+  KESHIRTH760:
+    branch: (SIE-TIR)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH810:
+    branch: (QOM BRANCH)
+    city: QOM
+    institution: BANK KESHAVARZI
+  KESHIRTH820:
+    branch: (SHAHID BEHESHTI BRANCH)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH880:
+    branch: null
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KESHIRTH950:
+    branch: (AHWAZ)
+    city: AHWAZ
+    institution: BANK KESHAVARZI
+  KESHIRTH97N:
+    branch: (ARDABIL)
+    city: ARDABIL
+    institution: BANK KESHAVARZI
+  KESHIRTHSHB:
+    branch: (CREDIT CARD SERVICES)
+    city: TEHRAN
+    institution: BANK KESHAVARZI
+  KHMIIRTH:
+    branch: null
+    city: TEHRAN
+    institution: MIDDLE EAST BANK
+  MELIIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH060:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH063:
+    branch: (BAZAR BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH064:
+    branch: (MIRDAMAD)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH068:
+    branch: (NASSER KHOSROW BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH069:
+    branch: (SAADI BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH075:
+    branch: (HAFEZ BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH07I:
+    branch: (KARKHANE ARJ)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH081:
+    branch: (MEYDAN SHOHADA BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH087:
+    branch: (DANESHGHAH BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH08A:
+    branch: (APADANA)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH08I:
+    branch: (ARK)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH090:
+    branch: (VAHDAT BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH091:
+    branch: (SARAYE HAAJ HASSAN BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH093:
+    branch: (ENGHELAB AVE BR)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH098:
+    branch: (PAYAM ENGHELAB)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH102:
+    branch: (AMIRIYEH BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH111:
+    branch: (MOLAVI BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH119:
+    branch: (EMAM HOSSEIN BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH120:
+    branch: (ZAFAR ST. BR)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH137:
+    branch: (FERDOWSI BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH141:
+    branch: (MELLAT BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH142:
+    branch: (DR. SHARIATI BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH159:
+    branch: (NADERI BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH168:
+    branch: (KARIMKHAN ZAND)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH169:
+    branch: (MIRZAYE SHIRAZI ST. )
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH179:
+    branch: (ISSAR BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH183:
+    branch: (PARK AVE. BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH202:
+    branch: (PACHENAR BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH203:
+    branch: (15 KHORDAD BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH208:
+    branch: (AREF BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH212:
+    branch: (DEHKHODA BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH214:
+    branch: (SEYED KHANDAN BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH215:
+    branch: (TEHRANPARS BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH219:
+    branch: (SOUTH MEHRABAD BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH220:
+    branch: (SOHEIL BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH223:
+    branch: (SADEGHIEH BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH225:
+    branch: (ASAD ABADI SQ. BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH228:
+    branch: (TAJRISH BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH230:
+    branch: (BAGH FERDOWS)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH237:
+    branch: (SHAHR-E RAY BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH302:
+    branch: (NOWBAHAR BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH304:
+    branch: (HAJ VA ZIARAT BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH305:
+    branch: (KHIABANE MOGHADASE ARDEBILI)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH328:
+    branch: (BORJE GOLNAR ELAHIEH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH342:
+    branch: (SHAHID FAHMIDEH BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH433:
+    branch: (COLLEDGE BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH444:
+    branch: (HAFTOME TEER BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH501:
+    branch: (EGHBAL)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH526:
+    branch: (IMAM KHOMEINI RELIEF FOUNDATION BR)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH544:
+    branch: (KHASHAYAR BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH546:
+    branch: (SABA BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH559:
+    branch: (VELAYAT BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH721:
+    branch: (MEYDAN JAHAD)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH787:
+    branch: (ARDAKANE YAZD)
+    city: YAZD
+    institution: BANK MELLI IRAN
+  MELIIRTH799:
+    branch: (KHOJASTEH BR)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH817:
+    branch: (BAGHER SHAHR)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH962:
+    branch: (SHAHIN BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH965:
+    branch: (ANAHITA BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH966:
+    branch: (BOZORGRAH AFRIGHA)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH974:
+    branch: (PARSA BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTH999:
+    branch: (ABSHAR VALIASR)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHABN:
+    branch: (ABADAN BRANCH)
+    city: ABADAN
+    institution: BANK MELLI IRAN
+  MELIIRTHAFR:
+    branch: (AFARINESH BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHAHW:
+    branch: (AHWAZ MAIN BRANCH)
+    city: AHWAZ
+    institution: BANK MELLI IRAN
+  MELIIRTHAIC:
+    branch: (ALBORZ INDUSTRIAL CITY BR.)
+    city: QAZVIN
+    institution: BANK MELLI IRAN
+  MELIIRTHAML:
+    branch: ( AMOL BR.)
+    city: AMOL
+    institution: BANK MELLI IRAN
+  MELIIRTHANZ:
+    branch: (BANDAR ANZALI BR.)
+    city: BANDAR ANZALI
+    institution: BANK MELLI IRAN
+  MELIIRTHARD:
+    branch: (ARDABIL BRANCH)
+    city: ARDABIL
+    institution: BANK MELLI IRAN
+  MELIIRTHARK:
+    branch: (ARAK BRANCH)
+    city: ARAK
+    institution: BANK MELLI IRAN
+  MELIIRTHARM:
+    branch: (BORJ -E- ARMITA BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHAST:
+    branch: (ASTARA BRANCH)
+    city: ASTARA
+    institution: BANK MELLI IRAN
+  MELIIRTHBBL:
+    branch: (BABOL BRANCH)
+    city: BABOL
+    institution: BANK MELLI IRAN
+  MELIIRTHBIR:
+    branch: (BIRJAND BRANCH)
+    city: BIRJAND
+    institution: BANK MELLI IRAN
+  MELIIRTHBJN:
+    branch: (BOJNOORD BRANCH)
+    city: BOJNOORD
+    institution: BANK MELLI IRAN
+  MELIIRTHBND:
+    branch: (BANDAR ABBAS BRANCH)
+    city: BANDAR ABBAS
+    institution: BANK MELLI IRAN
+  MELIIRTHBRJ:
+    branch: (BROUJERD BR.)
+    city: BROUJERD
+    institution: BANK MELLI IRAN
+  MELIIRTHBSH:
+    branch: (BANDAR BOUSHEHR BRANCH)
+    city: BUSHEHR
+    institution: BANK MELLI IRAN
+  MELIIRTHEHI:
+    branch: (MEYDAN EMAM HOSSEIN)
+    city: ISFAHAN
+    institution: BANK MELLI IRAN
+  MELIIRTHEKB:
+    branch: (SHAHRAK-E-EKBATAN)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHESK:
+    branch: (ESKAN BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHFYZ:
+    branch: (ISFAHAN FEYZ SQ. BR.)
+    city: ISFAHAN
+    institution: BANK MELLI IRAN
+  MELIIRTHGDR:
+    branch: (GHADIR YAZD BR.)
+    city: YAZD
+    institution: BANK MELLI IRAN
+  MELIIRTHGHM:
+    branch: (GHAEM SHAHR BR.)
+    city: GHAEM SHAHR
+    institution: BANK MELLI IRAN
+  MELIIRTHGNB:
+    branch: (GONBAD-E-KAVOOS BRANCH)
+    city: GONBAD-E QABUS
+    institution: BANK MELLI IRAN
+  MELIIRTHGOB:
+    branch: (GOMROK BANDAR ABBAS BR)
+    city: BANDAR ABBAS
+    institution: BANK MELLI IRAN
+  MELIIRTHGOL:
+    branch: (GOLSAR RASHT BR.)
+    city: RASHT
+    institution: BANK MELLI IRAN
+  MELIIRTHGOR:
+    branch: (GORGAN BRANCH)
+    city: GORGAN
+    institution: BANK MELLI IRAN
+  MELIIRTHHI7:
+    branch: (GHOOCHAN BRANCH)
+    city: QUCHAN
+    institution: BANK MELLI IRAN
+  MELIIRTHHMN:
+    branch: (HAMADAN BRANCH)
+    city: HAMADAN
+    institution: BANK MELLI IRAN
+  MELIIRTHIFN:
+    branch: (ISFAHAN MAIN BRANCH)
+    city: ISFAHAN
+    institution: BANK MELLI IRAN
+  MELIIRTHIIA:
+    branch: (IMAM KHOMEINI AIRPORT BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHILM:
+    branch: (ILAM BR.)
+    city: ILAM
+    institution: BANK MELLI IRAN
+  MELIIRTHINT:
+    branch: (INTERNATIONAL DEPT)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHJIR:
+    branch: (JIROFT BR.)
+    city: KERMAN
+    institution: BANK MELLI IRAN
+  MELIIRTHJKD:
+    branch: (JAHAN KOODAK)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHJLF:
+    branch: (JOLFA BR.)
+    city: JOLFA
+    institution: BANK MELLI IRAN
+  MELIIRTHJSK:
+    branch: (JAHANSHAHR-E-KARAJ BRANCH)
+    city: KARAJ
+    institution: BANK MELLI IRAN
+  MELIIRTHKDM:
+    branch: (KHIYABANE DANESHGAHE MASHAD)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHKER:
+    branch: (KERMAN MAIN BRANCH)
+    city: KERMAN
+    institution: BANK MELLI IRAN
+  MELIIRTHKFI:
+    branch: (ISFAHAN FERDOWSI AVE.)
+    city: ISFAHAN
+    institution: BANK MELLI IRAN
+  MELIIRTHKFS:
+    branch: (SARI FARHANG AVE.)
+    city: SARI
+    institution: BANK MELLI IRAN
+  MELIIRTHKHD:
+    branch: (IRAN KHODROW BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHKHM:
+    branch: (KHORRAM SHAHR BR.)
+    city: KHORRAM SHAHR
+    institution: BANK MELLI IRAN
+  MELIIRTHKHO:
+    branch: (KHORRAM ABAD BR.)
+    city: KHORRAMABAD
+    institution: BANK MELLI IRAN
+  MELIIRTHKIS:
+    branch: (KISH ISLAND BRANCH)
+    city: KISH ISLAND
+    institution: BANK MELLI IRAN
+  MELIIRTHKMN:
+    branch: (KERMANSHAH BRANCH)
+    city: KERMANSHAH
+    institution: BANK MELLI IRAN
+  MELIIRTHKRJ:
+    branch: (KARAJ BRANCH)
+    city: KARAJ
+    institution: BANK MELLI IRAN
+  MELIIRTHKSF:
+    branch: (KASHEF BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHKSI:
+    branch: (ISFAHAN SAADAT ABAD AVE.)
+    city: ISFAHAN
+    institution: BANK MELLI IRAN
+  MELIIRTHKSN:
+    branch: (KASHAN BRANCH)
+    city: KASHAN
+    institution: BANK MELLI IRAN
+  MELIIRTHKSR:
+    branch: (SHIRAZ KOSAR BR.)
+    city: SHIRAZ
+    institution: BANK MELLI IRAN
+  MELIIRTHKZN:
+    branch: (KHORRAM SHAHR ST. BR.)
+    city: ZANJAN
+    institution: BANK MELLI IRAN
+  MELIIRTHLGD:
+    branch: (GUARANTEE DEPT)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHLHJ:
+    branch: (LAHIJAN BR.)
+    city: LAHIJAN
+    institution: BANK MELLI IRAN
+  MELIIRTHMAR:
+    branch: (MARAGHEH BR.)
+    city: MARAGHEH
+    institution: BANK MELLI IRAN
+  MELIIRTHMBD:
+    branch: (MAYBOD BR.)
+    city: MAYBOD
+    institution: BANK MELLI IRAN
+  MELIIRTHMDR:
+    branch: (ORUMIYEH MODARES BR.)
+    city: ORUMIYEH
+    institution: BANK MELLI IRAN
+  MELIIRTHMFA:
+    branch: (VEZARATE OMOURE KHAREJEH BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHMHD:
+    branch: (MASHHAD MAIN BRANCH)
+    city: MASHHAD
+    institution: BANK MELLI IRAN
+  MELIIRTHMHR:
+    branch: (FORODGAH MEHRABAD)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHMKH:
+    branch: (MOKHABERAT BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHMSC:
+    branch: (MOBARAKEH STEEL COMPLEX)
+    city: ISFAHAN
+    institution: BANK MELLI IRAN
+  MELIIRTHMVQ:
+    branch: (QAZVIN VALIASR SQ.)
+    city: QAZVIN
+    institution: BANK MELLI IRAN
+  MELIIRTHNEY:
+    branch: (NEYSHABUR BR.)
+    city: NEYSHABUR
+    institution: BANK MELLI IRAN
+  MELIIRTHNMM:
+    branch: (NEMOUNEH MOMTAZ MELLI)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHNOS:
+    branch: (NOSHAHR BR.)
+    city: NOSHAHR
+    institution: BANK MELLI IRAN
+  MELIIRTHNVR:
+    branch: (NIAVARAN BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHORU:
+    branch: (ORUMIEH BRANCH)
+    city: ORUMIYEH
+    institution: BANK MELLI IRAN
+  MELIIRTHOST:
+    branch: (MEYDAN OSTAD MOEIN BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHPDR:
+    branch: (PARDIS BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHPLT:
+    branch: (PALAYESHGAH-E-TEHRAN BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHQAS:
+    branch: (QASR E SHIRIN BR.)
+    city: QASR E SHIRIN
+    institution: BANK MELLI IRAN
+  MELIIRTHQOM:
+    branch: (QOM BRANCH)
+    city: QOM
+    institution: BANK MELLI IRAN
+  MELIIRTHQSH:
+    branch: (QESHM ISLAND BRANCH)
+    city: QESHM
+    institution: BANK MELLI IRAN
+  MELIIRTHQZN:
+    branch: (QAZVIN BRANCH)
+    city: QAZVIN
+    institution: BANK MELLI IRAN
+  MELIIRTHRHN:
+    branch: (MASHHAD RAHNAMAIE AVE. BR.)
+    city: MASHHAD
+    institution: BANK MELLI IRAN
+  MELIIRTHRSH:
+    branch: (RASHT BRANCH)
+    city: RASHT
+    institution: BANK MELLI IRAN
+  MELIIRTHRSJ:
+    branch: (RAFSANJAN BR.)
+    city: RAFSANJAN
+    institution: BANK MELLI IRAN
+  MELIIRTHSBZ:
+    branch: (SABZEVAR BR.)
+    city: SABZEVAR
+    institution: BANK MELLI IRAN
+  MELIIRTHSDT:
+    branch: (SAADAT-ABAD BRANCH)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHSEM:
+    branch: (SEMNAN BRANCH)
+    city: SEMNAN
+    institution: BANK MELLI IRAN
+  MELIIRTHSHI:
+    branch: (SHIRAZ MAIN BRANCH)
+    city: SHIRAZ
+    institution: BANK MELLI IRAN
+  MELIIRTHSHK:
+    branch: (SHAHREKORD BRANCH)
+    city: SHAHREKORD
+    institution: BANK MELLI IRAN
+  MELIIRTHSJD:
+    branch: (SAJAD BLVD BRANCH)
+    city: MASHHAD
+    institution: BANK MELLI IRAN
+  MELIIRTHSNJ:
+    branch: (SANANDAJ BRANCH)
+    city: SANANDAJ
+    institution: BANK MELLI IRAN
+  MELIIRTHSRI:
+    branch: (SARI BRANCH)
+    city: SARI
+    institution: BANK MELLI IRAN
+  MELIIRTHSRJ:
+    branch: (SIRJAN BR.)
+    city: SIRJAN
+    institution: BANK MELLI IRAN
+  MELIIRTHSVH:
+    branch: (SAVEH BR.)
+    city: SAVEH
+    institution: BANK MELLI IRAN
+  MELIIRTHTBZ:
+    branch: (TABRIZ MAIN BRANCH)
+    city: TABRIZ
+    institution: BANK MELLI IRAN
+  MELIIRTHTIF:
+    branch: (INT'L FAIR BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHTNK:
+    branch: (TONEKABON)
+    city: TONEKABON
+    institution: BANK MELLI IRAN
+  MELIIRTHTTK:
+    branch: (T AMIRAT-E-TAVANIR-E-KARAJ)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHYAZ:
+    branch: (YAZD BRANCH)
+    city: YAZD
+    institution: BANK MELLI IRAN
+  MELIIRTHYSJ:
+    branch: (YASUJ BR.)
+    city: YASUJ
+    institution: BANK MELLI IRAN
+  MELIIRTHZBJ:
+    branch: (ZEBARJAD BR.)
+    city: TEHRAN
+    institution: BANK MELLI IRAN
+  MELIIRTHZHD:
+    branch: (ZAHEDAN BRANCH)
+    city: ZAHEDAN
+    institution: BANK MELLI IRAN
+  MELIIRTHZNJ:
+    branch: (ZANJAN BRANCH)
+    city: ZANJAN
+    institution: BANK MELLI IRAN
+  PBIRIRTH:
+    branch: null
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH016:
+    branch: (EMAM KHOMEYNI)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH031:
+    branch: (MOSTAGHEL)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH079:
+    branch: (VALIASR)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH102:
+    branch: (KHACHANI)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH113:
+    branch: (MARKAZI)
+    city: BUSHEHR
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH129:
+    branch: (MARKAZI)
+    city: MASHHAD
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH147:
+    branch: (AFRIGHA)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH183:
+    branch: (FALLAHI)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH197:
+    branch: (MARKAZI-SHIRAZ)
+    city: SHIRAZ
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH224:
+    branch: (MOLASADRA)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH227:
+    branch: (RASHT)
+    city: RASHT
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH238:
+    branch: (MARKAZI)
+    city: KERMAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH296:
+    branch: (SHARIATI)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH327:
+    branch: (MARKAZI)
+    city: ZAHEDAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH355:
+    branch: (MESBAH KARAJ)
+    city: KARAJ
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH358:
+    branch: (AZADI)
+    city: KERMANSHAH
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH363:
+    branch: (MIRZA-E-SHIRAZI)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH365:
+    branch: (MARKAZI KISH ISLAND)
+    city: KISH ISLAND
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH392:
+    branch: (VANAK)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH407:
+    branch: (POLESADR)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH414:
+    branch: (FERDOWSI BR.)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH423:
+    branch: (MARKAZI TABRIZ)
+    city: TABRIZ
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH653:
+    branch: (GORGAN)
+    city: GORGAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTH803:
+    branch: (MARKAZI)
+    city: ISFAHAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PBIRIRTHSET:
+    branch: (SETTLEMENT DEPARTMENT)
+    city: TEHRAN
+    institution: POST BANK OF IRAN (P.B.I)
+  PSCLIRT1:
+    branch: null
+    city: ISFAHAN
+    institution: PHOENIX SOFT CORP LTD
+  REFAIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH101:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH104:
+    branch: (VEZARATKAR BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH107:
+    branch: (BOULVAR BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH108:
+    branch: (MANZARIEH NIAVARAN BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH110:
+    branch: (MOGHADDAS -E-ARDEBILI BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH112:
+    branch: (ENGHELAB BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH117:
+    branch: (MELLAT BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH124:
+    branch: (OSTAD MOTAHARI)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH126:
+    branch: (PEYKAN SHAHR BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH127:
+    branch: (FALAKEH DOVOM-E- SADEGHIEH BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH140:
+    branch: (PASDARAN BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH144:
+    branch: (PARDIS BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH152:
+    branch: (MIRDAMAD BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH164:
+    branch: (SANDOOGH -E- TOSE E MELLI BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH176:
+    branch: (PARK LALEH BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH197:
+    branch: null
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH201:
+    branch: (ISFAHAN CENTRAL BRANCH)
+    city: ISFAHAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH202:
+    branch: (TABRIZ CENTRAL BRANCH)
+    city: TABRIZ
+    institution: BANK REFAH KARGARAN
+  REFAIRTH205:
+    branch: (AHWAZ CENTRAL BRANCH)
+    city: AHWAZ
+    institution: BANK REFAH KARGARAN
+  REFAIRTH207:
+    branch: (MASHHAD CENTRAL BRANCH)
+    city: MASHHAD
+    institution: BANK REFAH KARGARAN
+  REFAIRTH210:
+    branch: (YAZD BRANCH)
+    city: YAZD
+    institution: BANK REFAH KARGARAN
+  REFAIRTH211:
+    branch: (SHIRAZ CENTRAL BRANCH)
+    city: SHIRAZ
+    institution: BANK REFAH KARGARAN
+  REFAIRTH215:
+    branch: (QAZVIN CENTRAL BRANCH)
+    city: QAZVIN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH216:
+    branch: (RASHT CENTRAL BRANCH)
+    city: RASHT
+    institution: BANK REFAH KARGARAN
+  REFAIRTH217:
+    branch: (ORUMIYEH CENTRAL BRANCH)
+    city: ORUMIYEH
+    institution: BANK REFAH KARGARAN
+  REFAIRTH218:
+    branch: (BANDAR ABBAS CENTRAL BRANCH)
+    city: BANDAR ABBAS
+    institution: BANK REFAH KARGARAN
+  REFAIRTH219:
+    branch: (KASHAN CENTRAL BRANCH)
+    city: KASHAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH220:
+    branch: (ZANJAN CENTRAL BRANCH)
+    city: ZANJAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH221:
+    branch: (HAMADAN CENTRAL BRANCH)
+    city: HAMADAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH222:
+    branch: (ARAK CENTRAL BRANCH)
+    city: ARAK
+    institution: BANK REFAH KARGARAN
+  REFAIRTH225:
+    branch: (ZAHEDAN CENTRAL BRANCH)
+    city: ZAHEDAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH228:
+    branch: (QOM CENTRAL BRANCH)
+    city: QOM
+    institution: BANK REFAH KARGARAN
+  REFAIRTH230:
+    branch: (GORGAN CENTRAL BRANCH)
+    city: GORGAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH232:
+    branch: (SARI CENTRAL BRANCH)
+    city: SARI
+    institution: BANK REFAH KARGARAN
+  REFAIRTH233:
+    branch: (BUSHEHR CENTRAL BRANCH)
+    city: BUSHEHR
+    institution: BANK REFAH KARGARAN
+  REFAIRTH236:
+    branch: (SHAHID BEHESHTI  -E-  GHARBI BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH242:
+    branch: (GHOLHAK BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH243:
+    branch: (JAHANKOODAK BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH246:
+    branch: (SEMNAN CENTRAL BRANCH)
+    city: SEMNAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH255:
+    branch: (SHAHR -E- KORD CENTRAL BRANCH)
+    city: SHAHREKORD
+    institution: BANK REFAH KARGARAN
+  REFAIRTH258:
+    branch: (DR. HESABI BR.)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH328:
+    branch: (SEPAHBOD GHARANI BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH333:
+    branch: (KERMAN KHODRO BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH345:
+    branch: (PARS MINOO BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH368:
+    branch: (VBAGH-E-FERDOWS BRANCH)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH387:
+    branch: (ZAHEDAN ALAVI BRANCH)
+    city: ZAHEDAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH46F:
+    branch: null
+    city: ZANJAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH477:
+    branch: (SHAHID SADOUGHI -E- KERMAN BRANCH)
+    city: KERMAN
+    institution: BANK REFAH KARGARAN
+  REFAIRTH493:
+    branch: (KISH CENTRAL BRANCH)
+    city: KISH ISLAND
+    institution: BANK REFAH KARGARAN
+  REFAIRTH571:
+    branch: (PEZESHKAN BRANCH)
+    city: TABRIZ
+    institution: BANK REFAH KARGARAN
+  REFAIRTH800:
+    branch: (MASHHAD KHAYAM BRANCH)
+    city: MASHHAD
+    institution: BANK REFAH KARGARAN
+  REFAIRTH877:
+    branch: (KARAJ BRANCH)
+    city: ALBORZ
+    institution: BANK REFAH KARGARAN
+  REFAIRTHCBR:
+    branch: (CORRESPONDING BANKING RELATIONS)
+    city: TEHRAN
+    institution: BANK REFAH KARGARAN
+  SABCIRTH:
+    branch: null
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8AF:
+    branch: (AFRIGHA BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8AG:
+    branch: (AGHDASIEH BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8AI:
+    branch: (ARIKE IRANIAN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8AJ:
+    branch: (ARJANTIN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8AL:
+    branch: null
+    city: ALBORZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8AS:
+    branch: (ASEF BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8AY:
+    branch: (AJUDANIYE BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8AZ:
+    branch: (AZARBAYJAN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8BA:
+    branch: (BAGH FERDOWS BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8BD:
+    branch: (BOLVAR DARYA)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8BF:
+    branch: (BOZORGRAH FATH BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8BH:
+    branch: (BEHESHTI BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8BM:
+    branch: (24 METRI SAADABAD BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8BZ:
+    branch: (BAZAR BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8CB:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8CD:
+    branch: (CORPORATE)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8DS:
+    branch: (DEZASHIB BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8DT:
+    branch: (DOWLAT)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8EK:
+    branch: (EKBATAN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8EL:
+    branch: (ELAHIYEH BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8ET:
+    branch: (EKHTIYARIYEH BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8EV:
+    branch: (EVIN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8FA:
+    branch: (FATEMI )
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8FM:
+    branch: (FOROUDGAHE MEHRABAD BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8FT:
+    branch: (FALAK-E-AVAL-E-TEHRANPARS BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8GI:
+    branch: (GISHA BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8GL:
+    branch: (GHOLHAK BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8HA:
+    branch: (HOSSEINABAD SQ. BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8HS:
+    branch: (HYPERSTAR BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8IZ:
+    branch: (IRAN ZAMIN )
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8JA:
+    branch: (JANNAT ABAD)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8JJ:
+    branch: (JAM-E-JAM BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8JM:
+    branch: (SEYED JAMALEDDIN-E- ASADABADI)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8JN:
+    branch: (JOMHURI-ABUREYHAN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8KJ:
+    branch: (KARAJ BRANCH)
+    city: KARAJ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8KZ:
+    branch: (KARIMKHAN E ZAND BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8LA:
+    branch: (LAVASANI BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8MD:
+    branch: (MIRDAMAD BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8ME:
+    branch: (MELLAT-E-EKBATAN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8ML:
+    branch: (MOLLASADRA BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8MN:
+    branch: (MAHAN)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8MO:
+    branch: (MONIRIEH BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8MR:
+    branch: (BOLVAR MARZDARAN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8MV:
+    branch: (MOLAVI BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8NA:
+    branch: (AFRIQA SHOMALI BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8NB:
+    branch: (MEYDAN-E-NOBOVAT BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8NI:
+    branch: (NIAVARAN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8NK:
+    branch: (KAREGAR E SHOMALI BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8NR:
+    branch: (AMIN HOZUR BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8OL:
+    branch: (OLYMPIC BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8PA:
+    branch: (PASDARAN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8PI:
+    branch: (PIROUZI BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8PR:
+    branch: (POL-E-ROOMI BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8PS:
+    branch: (PARK-E-SAEI BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8QE:
+    branch: (QEYTARIEH BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8RH:
+    branch: (SHAHRAK-E-RAHAHAN BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8SA:
+    branch: null
+    city: SADEGHIE
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8SD:
+    branch: (SAADAT ABAD)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8SE:
+    branch: (SAMAN EXCHANGE BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8SH:
+    branch: null
+    city: SHAHRAK GHARB
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8SK:
+    branch: (SHAHR-E-KORD BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8SR:
+    branch: (SHAHR-E-REY BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8ST:
+    branch: (STOCK MARKET)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8SV:
+    branch: (SARV BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8TP:
+    branch: (FALAKE SEVOM TEHRAN PARS)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8VJ:
+    branch: (VELENJAK BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8VN:
+    branch: (VANAK BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8YF:
+    branch: (YAFTABAD BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH8ZV:
+    branch: (VALIASR ZARTOSHT BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9AH:
+    branch: (AHWAZ BRANCH)
+    city: AHWAZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9AK:
+    branch: (ARAK)
+    city: ARAK
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9AM:
+    branch: (AMOL BRANCH)
+    city: AMOL
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9AR:
+    branch: (ARDEBIL BRANCH)
+    city: ARDABIL
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9BL:
+    branch: (BABOL BRANCH)
+    city: BABOL
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9BR:
+    branch: (BUSHEHR BRANCH)
+    city: BUSHEHR
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9BS:
+    branch: (BANDAR ABBAS)
+    city: BANDAR ABBAS
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9BT:
+    branch: (BAZAR-E-TABRIZ BRANCH)
+    city: TABRIZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9CE:
+    branch: (UNIT 1 CORPORATION BRANCH)
+    city: ISFAHAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9CH:
+    branch: (CHAHAR BAGH-E-BALA BRANCH)
+    city: ISFAHAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9CM:
+    branch: (UNIT 2 CORPORATION BRANCH)
+    city: MASHHAD
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9CT:
+    branch: (UNIT 3 CORPORATION BRANCH)
+    city: TABRIZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9ES:
+    branch: (ISFAHAN BRANCH)
+    city: ISFAHAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9FS:
+    branch: (FALAK-E-GAZ-E-SHIRAZ BRANCH)
+    city: SHIRAZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9GH:
+    branch: (GHAZVIN)
+    city: GHAZVIN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9GO:
+    branch: (GORGAN)
+    city: GORGAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9GS:
+    branch: (GHASR-E-DASHT-E- SHIRAZ BRANCH)
+    city: SHIRAZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9HA:
+    branch: (HAMEDAN)
+    city: HAMADAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9HE:
+    branch: (HAFEZ ISFAHAN BRANCH)
+    city: ISFAHAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9JK:
+    branch: (JAHANSHAHR-E-KARAJ)
+    city: KARAJ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9JQ:
+    branch: (FALAKE JAHAD QOM BRANCH)
+    city: QOM
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9JY:
+    branch: (BULVAR-E-JOMHURIYE YAZD BRANCH)
+    city: YAZD
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9KE:
+    branch: (KERMAN BRANCH)
+    city: KERMAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9KI:
+    branch: (KISH BRANCH)
+    city: KISH ISLAND
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9KM:
+    branch: (KERMANSHAH BRANCH)
+    city: KERMANSHAH
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9MA:
+    branch: (MASHHAD BRANCH)
+    city: MASHHAD
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9MI:
+    branch: (MIRZAY-E-SHIRAZI BRANCH)
+    city: SHIRAZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9MM:
+    branch: (MODARRES MASHHAD BRANCH)
+    city: MASHHAD
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9NM:
+    branch: (NISHABOUR MASHHAD BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9OR:
+    branch: (OROUMIEH BRANCH)
+    city: ORUMIYEH
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9QM:
+    branch: (QESHM)
+    city: QESHM
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9QO:
+    branch: (QOM)
+    city: QOM
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9RA:
+    branch: (RASHT BRANCH)
+    city: RASHT
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9SH:
+    branch: null
+    city: SHIRAZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9SM:
+    branch: (SAJJAD-E- MASHHAD BRANCH)
+    city: MASHHAD
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9SN:
+    branch: (SANANDAJ)
+    city: SANANDAJ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9SO:
+    branch: (SARDARAN-E-OROUMIEH)
+    city: ORUMIYEH
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9SR:
+    branch: (SHAHRIAR)
+    city: SHAHRIARI
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9SY:
+    branch: (SARY)
+    city: SARI
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9TA:
+    branch: (TABRIZ BRANCH)
+    city: TABRIZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9TS:
+    branch: (SHAHRIYAR-E-TABRIZ BRANCH)
+    city: TABRIZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9VS:
+    branch: (BAZAR-E-VAKIL-E-SHIRAZ BRANCH)
+    city: SHIRAZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9VT:
+    branch: (VALI-E-ASR TABRIZ BRANCH)
+    city: TABRIZ
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9YZ:
+    branch: (YAZD BRANCH)
+    city: YAZD
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9ZA:
+    branch: (ZANJAN BRANCH)
+    city: ZANJAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9ZE:
+    branch: (ZAYANDEH ROOD BRANCH)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTH9ZN:
+    branch: (ZAHEDAN)
+    city: ZAHEDAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTHFXD:
+    branch: (FOREIGN EXCHANGE DEPT.)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTHSEP:
+    branch: (SAMAN EXCHANGE PASDARAN)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SABCIRTHSHB:
+    branch: (CREDIT CARD SERVICES)
+    city: TEHRAN
+    institution: SAMAN BANK CORPORATION
+  SEPBIRTH:
+    branch: null
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH001:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH002:
+    branch: (BAZAR BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH004:
+    branch: (KHAYAM BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH005:
+    branch: (ARAK BRANCH)
+    city: ARAK
+    institution: BANK SEPAH
+  SEPBIRTH006:
+    branch: null
+    city: ISFAHAN
+    institution: BANK SEPAH
+  SEPBIRTH007:
+    branch: (AHWAZ BRANCH)
+    city: AHWAZ
+    institution: BANK SEPAH
+  SEPBIRTH009:
+    branch: null
+    city: TABRIZ
+    institution: BANK SEPAH
+  SEPBIRTH012:
+    branch: (RASHT BRANCH)
+    city: RASHT
+    institution: BANK SEPAH
+  SEPBIRTH014:
+    branch: (ORUMIYEH BRANCH)
+    city: ORUMIYEH
+    institution: BANK SEPAH
+  SEPBIRTH015:
+    branch: null
+    city: BANDAR ABBAS
+    institution: BANK SEPAH
+  SEPBIRTH016:
+    branch: null
+    city: SHIRAZ
+    institution: BANK SEPAH
+  SEPBIRTH017:
+    branch: (QAZVIN BRANCH)
+    city: QAZVIN
+    institution: BANK SEPAH
+  SEPBIRTH018:
+    branch: (QOM BRANCH)
+    city: QOM
+    institution: BANK SEPAH
+  SEPBIRTH019:
+    branch: (KERMAN BRANCH)
+    city: KERMAN
+    institution: BANK SEPAH
+  SEPBIRTH020:
+    branch: (KERMANSHAH BRANCH)
+    city: KERMANSHAH
+    institution: BANK SEPAH
+  SEPBIRTH026:
+    branch: null
+    city: YAZD
+    institution: BANK SEPAH
+  SEPBIRTH040:
+    branch: (SEPBIRTH040)
+    city: KASHAN
+    institution: BANK SEPAH
+  SEPBIRTH044:
+    branch: (BUSHEHR BRANCH)
+    city: BUSHEHR
+    institution: BANK SEPAH
+  SEPBIRTH050:
+    branch: (ENGHELAB BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH054:
+    branch: (KARAJ BRANCH)
+    city: KARAJ
+    institution: BANK SEPAH
+  SEPBIRTH057:
+    branch: (DANESHGAH BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH102:
+    branch: (SAIPA BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH115:
+    branch: (KISH BRANCH)
+    city: KISH ISLAND
+    institution: BANK SEPAH
+  SEPBIRTH123:
+    branch: (MIRDAMAD SHARGHI BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH124:
+    branch: (KHALED SLAMBOLI BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH131:
+    branch: (SERAH AZARI)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH160:
+    branch: (SIE TIR BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH177:
+    branch: (CHAMRAN BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH185:
+    branch: (AHMAD GHASIR BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH200:
+    branch: (TAVANIR-VALIASR)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH238:
+    branch: (MASHHAD BRANCH)
+    city: MASHHAD
+    institution: BANK SEPAH
+  SEPBIRTH324:
+    branch: (AZADI BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH387:
+    branch: (DR. FATEMI STREET)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH396:
+    branch: (CHAHARAHE COLLEGE BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH459:
+    branch: (OSTAD MOTAHARI GHARBI BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH539:
+    branch: (SYED KHANDAN BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH677:
+    branch: (MEYDANE VANAK BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTH776:
+    branch: (7TIR BR.)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTHBEY:
+    branch: (BEYHAGHI BRANCH)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTHFEX:
+    branch: null
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTHNEG:
+    branch: (SEPBIRTHNEG)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTHSHB:
+    branch: (ABER BANK DEPARTMENT)
+    city: TEHRAN
+    institution: BANK SEPAH
+  SEPBIRTHTMK:
+    branch: (GHARAN SARI BR.)
+    city: SARI
+    institution: BANK SEPAH
+  SINAIRTH:
+    branch: null
+    city: TEHRAN
+    institution: SINA BANK
+  SINAIRTH418:
+    branch: (KISH  ISLAND BRANCH)
+    city: KISH ISLAND
+    institution: SINA BANK
+  SRMBIRTH:
+    branch: null
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH002:
+    branch: (NORTH SHIRAZ)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH004:
+    branch: (SARMAYE SAADAT ABAD BRANCH)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH014:
+    branch: (SARMAYEH MOTAHARI BRANCH)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH034:
+    branch: (SARMAYEH MIRDAMAD BRANCH)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH035:
+    branch: (SARMAYEH AFRICA BOULEVARD BRANCH)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH038:
+    branch: (SARMAYEH ARGENTINA SQUARE BRANCH)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH056:
+    branch: (NAHID BRANCH)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH300:
+    branch: (VALIASR TABRIZ)
+    city: TABRIZ
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH301:
+    branch: (OSTAD SHAHRYAR)
+    city: TABRIZ
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH342:
+    branch: (SARMAYE SHIRAZ BRANCH)
+    city: SHIRAZ
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH373:
+    branch: (SARMAYE FARHANG SARI BRANCH)
+    city: SARI
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH384:
+    branch: (SARMAYE HAMEDAN BRANCH)
+    city: HAMADAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH401:
+    branch: (KISH)
+    city: KISH ISLAND
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTH601:
+    branch: (SHEYKH SADOGH)
+    city: ISFAHAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTHASF:
+    branch: (ASEF)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTHCNT:
+    branch: (CENTRAL BRANCH)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTHELH:
+    branch: (ELAHIYE BRANCH)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTHESF:
+    branch: (ISFAHAN BRANCH)
+    city: ISFAHAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTHESK:
+    branch: (ESKAN BRANCH)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTHFAT:
+    branch: (FATEMI BRANCH)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTHKAR:
+    branch: (KARIM KHAN)
+    city: TEHRAN
+    institution: SARMAYE BANK (P.J.S.C)
+  SRMBIRTHMSH:
+    branch: (AHMADABAD BRANCH)
+    city: MASHHAD
+    institution: SARMAYE BANK (P.J.S.C)
+  TOSMIRTH:
+    branch: null
+    city: TEHRAN
+    institution: TOURISM BANK
+  TTBIIRTH:
+    branch: null
+    city: TEHRAN
+    institution: TOSEE TAAVON BANK
+  XTEHIRT1:
+    branch: null
+    city: TEHRAN
+    institution: TEHERAN STOCK EXCHANGE

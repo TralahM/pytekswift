@@ -1,0 +1,10 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  BDILPMPM:
+    branch: null
+    city: SAINT PIERRE ET MIQUELON
+    institution: CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DE SAINT-PIERRE ET MIQUELON)
+  CIPMPMP1:
+    branch: null
+    city: SAINT PIERRE ET MIQUELON
+    institution: CISPM

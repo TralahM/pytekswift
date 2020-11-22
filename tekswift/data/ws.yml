@@ -1,0 +1,34 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ANZBWSWW:
+    branch: null
+    city: APIA
+    institution: ANZ BANK (SAMOA) LTD
+  BATSWSA1:
+    branch: null
+    city: APIA
+    institution: BRITISH AMERICAN TOBACCO (SAMOA) LIMITED
+  BOSPWSWS:
+    branch: null
+    city: APIA
+    institution: BANK SOUTH PACIFIC (SAMOA) LIMITED
+  CBSAWSWS:
+    branch: null
+    city: APIA
+    institution: CENTRAL BANK OF SAMOA
+  IBBIWSW1:
+    branch: null
+    city: APIA
+    institution: INTERNATIONAL BUSINESS BANK CORPORATION LTD.
+  ININWSW1:
+    branch: null
+    city: APIA
+    institution: INDEPENDENT INVESTMENT BANK LTD.
+  NBSLWSWS:
+    branch: null
+    city: APIA
+    institution: NATIONAL BANK OF SAMOA LIMITED
+  SCOBWSWS:
+    branch: null
+    city: APIA
+    institution: SAMOA COMMERCIAL BANK LIMITED

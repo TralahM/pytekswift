@@ -1,0 +1,26 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ANZBTONN:
+    branch: null
+    city: NUKU'ALOFA
+    institution: ANZ BANKING GROUP LIMITED
+  BATSTOA1:
+    branch: null
+    city: TONGA
+    institution: BAT TONGA
+  BOSPTONU:
+    branch: null
+    city: NUKU'ALOFA
+    institution: BANK OF SOUTH PACIFIC TONGA LIMITED
+  MBFMTONU:
+    branch: null
+    city: NUKU'ALOFA
+    institution: MBF BANK LIMITED
+  NRBTTONU:
+    branch: null
+    city: NUKU'ALOFA
+    institution: NATIONAL RESERVE BANK OF TONGA
+  TODETONU:
+    branch: null
+    city: NUKU'ALOFA
+    institution: TONGA DEVELOPMENT BANK

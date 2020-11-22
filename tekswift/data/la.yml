@@ -1,0 +1,158 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ACLBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: ACLEDA BANK (LAO) LTD
+  AGPBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: AGRICULTURAL PROMOTION BANK
+  ANZBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: ANZ BANK (LAO) LIMITED
+  AYUDLALA:
+    branch: null
+    city: VIENTIANE
+    institution: BANK OF AYUDHYA PCL VIENTIANE BRANCH
+  BFLLLALA:
+    branch: null
+    city: VIENTIANE
+    institution: BANQUE FRANCO-LAO LTD
+  BKCHLALA:
+    branch: null
+    city: VIENTIANE
+    institution: BANK OF CHINA LIMITED VIENTIANE BRANCH
+  BKKBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: BANGKOK BANK PLC, VIENTIANE BRANCH
+  CADILALA:
+    branch: null
+    city: VIENTIANE
+    institution: CANADIA BANK LAO CO LTD.
+  COEBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC
+  COEBLALACPS:
+    branch: (CHAMPASACK BRANCH)
+    city: PAKSE
+    institution: BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC
+  COEBLALAKMN:
+    branch: (KHAMMOUANE BRANCH)
+    city: KHAMMOUANE
+    institution: BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC
+  COEBLALALBP:
+    branch: (LUANGPRABANG BRANCH)
+    city: LUANGPRABANG
+    institution: BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC
+  COEBLALALNT:
+    branch: (LUANGNAMTHA BRANCH)
+    city: LUANGNAMTHA
+    institution: BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC
+  COEBLALAODX:
+    branch: (OUDOMXAY BRANCH)
+    city: OUDOMXAY
+    institution: BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC
+  COEBLALASVN:
+    branch: (SAVANNAKHET BRANCH)
+    city: SAVANNAKHET
+    institution: BANQUE POUR LE COMMERCE EXTERIEUR LAO PUBLIC
+  FCBKLALA:
+    branch: null
+    city: VIENTIANE
+    institution: FIRST COMMERCIAL BANK LTD, VIENTIANE BRANCH
+  ICBKLALA:
+    branch: null
+    city: VIENTIANE
+    institution: INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED VIENTIANE BRANCH
+  ICBVLALA:
+    branch: null
+    city: VIENTIANE
+    institution: VIETINBANK LAO LIMITED
+  IDCBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: INDOCHINA BANK LTD
+  JDBKLALA:
+    branch: null
+    city: VIENTIANE
+    institution: JOINT DEVELOPMENT BANK
+  KASILALA:
+    branch: null
+    city: VIENTIANE
+    institution: KASIKORNTHAI BANK LIMITED
+  LAOVLALA:
+    branch: null
+    city: VIENTIANE
+    institution: LAO-VIET BANK
+  LAOVLALACPS:
+    branch: (CHAMPASAK BRANCH)
+    city: CHAMPASAK
+    institution: LAO-VIET BANK
+  LCBVLALA:
+    branch: null
+    city: VIENTIANE
+    institution: LAO CONSTRUCTION BANK
+  LCNBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: LAO CHINA BANK CO., LTD.
+  LCONLAL1:
+    branch: null
+    city: VIENTIANE
+    institution: LAO CONSTRUCTION BANK LIMITED
+  LDBBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: LAO DEVELOPMENT BANK
+  LICBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: INTERNATIONAL COMMERCIAL BANK (LAO) LTD
+  LPDRLALA:
+    branch: null
+    city: VIENTIANE
+    institution: BANK OF THE LAO P.D.R.
+  MBBELALA:
+    branch: null
+    city: VIENTIANE
+    institution: MAYBANK LAO
+  MGPRLAL1:
+    branch: null
+    city: VIENTIANE
+    institution: MAGNATE PREMIER PB LIMITED
+  MJBLLALA:
+    branch: null
+    city: VIENTIANE
+    institution: MARUHAN JAPAN BANK LAO CO., LTD
+  PBBELALA:
+    branch: null
+    city: VIENTIANE
+    institution: PUBLIC BANK, VIENTIANE BRANCH, LAO P.D.R.
+  PSVBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: PHONGSAVANH BANK LTD
+  RHBBLALA:
+    branch: null
+    city: VIENTIANE
+    institution: RHB BANK LAO LIMITED
+  SECTLA21:
+    branch: null
+    city: VIENTIANE
+    institution: LAO SAMSUNG ELECTRONICS SOLE CO., LTD.
+  SHBALALA:
+    branch: null
+    city: CHAMPASAK
+    institution: SAIGON HANOI COMMERCIAL JOINT STOCK BANK LAOS BRANCH
+  SICOLALA:
+    branch: null
+    city: VIENTIANE
+    institution: SIAM COMMERCIAL BANK PCL., THE
+  STBDLALA:
+    branch: null
+    city: VIENTIANE
+    institution: ST BANK CO. LTD

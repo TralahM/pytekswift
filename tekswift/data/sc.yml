@@ -1,0 +1,62 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  BAEZSCS1:
+    branch: null
+    city: VICTORIA
+    institution: BARONS DE EZE LIMITED
+  BAHLSCSC:
+    branch: null
+    city: VICTORIA
+    institution: BANK AL HABIB LIMITED
+  BARBSCSC:
+    branch: null
+    city: VICTORIA
+    institution: BANK OF BARODA
+  BARCSCSC:
+    branch: null
+    city: VICTORIA
+    institution: BARCLAYS BANK (SEYCHELLES) LTD
+  BCEYSCSC:
+    branch: null
+    city: VICTORIA
+    institution: BANK OF CEYLON, SEYCHELLES BRANCH
+  BMUSSCSC:
+    branch: null
+    city: PROVIDENCE MAHE
+    institution: AL SALAM BANK SEYCHELLES LIMITED
+  HABBSCSC:
+    branch: null
+    city: VICTORIA
+    institution: HABIB BANK LIMITED
+  INHLSCS1:
+    branch: null
+    city: PROVIDENCE MAHE
+    institution: RM INTERNATIONAL HOLDINGS AG
+  MARVSCS1:
+    branch: null
+    city: VICTORIA
+    institution: MAGNATE PREMIER PRIVATE BANK LIMITED
+  MCBLSCSC:
+    branch: null
+    city: VICTORIA
+    institution: MCB SEYCHELLES
+  MLLSSCS1:
+    branch: null
+    city: PROVIDENCE MAHE
+    institution: MILS CORP LIMITED
+  NOVHSCSC:
+    branch: null
+    city: VICTORIA
+    institution: NOUVOBANQ
+  SEYSSCSC:
+    branch: null
+    city: VICTORIA
+    institution: SEYCHELLES COMMERCIAL BANK
+  SSCBSCSC:
+    branch: null
+    city: VICTORIA
+    institution: CENTRAL BANK OF SEYCHELLES
+  STCBSCSC:
+    branch: null
+    city: VICTORIA
+    institution: SBM BANK (SEYCHELLES) LIMITED.

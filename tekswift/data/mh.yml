@@ -1,0 +1,18 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ANHDMH22:
+    branch: null
+    city: MAJURO
+    institution: ANAMETRICS HOLDINGS LIMITED
+  BOHIMH21:
+    branch: null
+    city: MAJURO
+    institution: BANK OF HAWAII
+  BOMDMH22:
+    branch: null
+    city: MAJURO
+    institution: BANK OF MARSHALL ISLANDS
+  WACPMH21:
+    branch: null
+    city: MAJURO
+    institution: WADIAH CAPITAL LTD

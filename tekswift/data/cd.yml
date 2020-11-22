@@ -1,0 +1,126 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ABNGCDKI:
+    branch: null
+    city: KINSHASA
+    institution: ACCESS BANK CONGO DR
+  ACRBCDK1:
+    branch: null
+    city: KINSHASA
+    institution: BANQUE DU CREDIT AGRICOLE 'B.C.A.'
+  ADVBCDKX:
+    branch: null
+    city: KINSHASA
+    institution: ADVANS BANQUE CONGO
+  AFCDCDKI:
+    branch: null
+    city: KINSHASA
+    institution: AFRILAND FIRST BANK CONGO DEMOCRATIQUE
+  AFRICDKS:
+    branch: null
+    city: KINSHASA
+    institution: BANK OF AFRICA-RDC
+  BCCGCDK2:
+    branch: null
+    city: KINSHASA
+    institution: BANQUE CENTRALE DU CONGO
+  BCCGCDKS:
+    branch: null
+    city: KINSHASA
+    institution: BANQUE CENTRALE DU CONGO
+  BCDCCDKI:
+    branch: null
+    city: KINSHASA
+    institution: BANQUE COMMERCIALE DU CONGO
+  BCDCCDKI03L:
+    branch: null
+    city: LUBUMBASHI
+    institution: BANQUE COMMERCIALE DU CONGO
+  BGFICDKI:
+    branch: null
+    city: KINSHASA
+    institution: BGFIBANK RDC
+  BIACCDKI:
+    branch: null
+    city: KINSHASA
+    institution: BANQUE INTERNATIONALE POUR L'AFRIQUE AU CONGO (BIAC)
+  BICDCDKI:
+    branch: null
+    city: KINSHASA
+    institution: FBNBANK DRC SA
+  BKINCDK1:
+    branch: null
+    city: KINSHASA
+    institution: NOUVELLE BANQUE DE KINSHASA
+  BYBACDKI:
+    branch: null
+    city: KINSHASA
+    institution: BYBLOS BANK RDC
+  CCNCCDK1:
+    branch: null
+    city: KINSHASA
+    institution: CAISSE CENTRALE DE COOPERATION ECONOMIQUE
+  CITICDKX:
+    branch: null
+    city: KINSHASA
+    institution: CITIBANK CONGO
+  CLUXCDK1:
+    branch: null
+    city: KINSHASA
+    institution: BANQUE CONTINENTALE AFRICAINE (ZAIRE) SARL
+  DMEXCDK1:
+    branch: null
+    city: KINSHASA
+    institution: DMEXCHANGE SPRL
+  DMEXCDK1AIP:
+    branch: null
+    city: LUBUMBASHI
+    institution: DMEXCHANGE SPRL
+  ECOCCDKI:
+    branch: null
+    city: KINSHASA
+    institution: ECOBANK REPUBLIQUE DEMOCRATIQUE DU CONGO SA
+  FRZSCDK1:
+    branch: null
+    city: KINSHASA
+    institution: FRANSABANK (CONGO) SARL
+  PRCBCDKI:
+    branch: null
+    city: KINSHASA
+    institution: PROCREDIT BANK CONGO SA
+  RAWBCDKI:
+    branch: null
+    city: KINSHASA
+    institution: RAWBANK SA
+  SBICCDKX:
+    branch: null
+    city: KINSHASA
+    institution: STANDARD BANK RDC SA
+  SFBXCDKI:
+    branch: null
+    city: KINSHASA
+    institution: SOFIBANQUE SA
+  SWTTCD31:
+    branch: null
+    city: LUBUMBASHI
+    institution: SWITAP
+  TRMSCD3K:
+    branch: null
+    city: KINSHASA
+    institution: TRUST MERCHANT BANK SARL
+  TRMSCD3L:
+    branch: null
+    city: LUBUMBASHI
+    institution: TRUST MERCHANT BANK SA
+  UNAFCDKS:
+    branch: null
+    city: KINSHASA
+    institution: UNITED BANK FOR AFRICA RDC SARL
+  UZBACDK1:
+    branch: null
+    city: KINSHASA
+    institution: UNION ZAIROISE DE BANQUES
+  ZAEXCD31:
+    branch: null
+    city: LUBUMBASHI
+    institution: BANQUE ZAIROISE DU COMMERCE EXTERIEUR

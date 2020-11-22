@@ -1,0 +1,342 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ARBXSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: ARAB BANK-SYRIA
+  BASYSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: BANK AUDI SYRIA S.A.
+  BBSFSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: BANQUE BEMO SAUDI FRANSI S.A.
+  BBSYSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: AL BARAKA BANK SYRIA
+  BJORSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: BANK OF JORDAN-SYRIA-
+  BSOMSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: BANK OF SYRIA AND OVERSEAS
+  BYBASYDA:
+    branch: null
+    city: DAMASCUS
+    institution: BYBLOS BANK SYRIA SA
+  CBSYSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: CENTRAL BANK OF SYRIA
+  CHMMSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: CHAM BANK
+  CMSYSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAAFZ:
+    branch: (ALEPPO FREE ZONE BRANCH)
+    city: ALEPPO
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAAL1:
+    branch: (ALEPPO 1 BRANCH)
+    city: ALEPPO
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAAL2:
+    branch: (ALEPPO 2 BRANCH)
+    city: ALEPPO
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAAL3:
+    branch: (ALEPPO 3 BRANCH)
+    city: ALEPPO
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAAL4:
+    branch: (ALEPPO BRANCH NR.4)
+    city: ALEPPO
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAAL5:
+    branch: (ALEPPO BRANCH NR.5)
+    city: ALEPPO
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAAL6:
+    branch: (ALEPPO 6 BRANCH)
+    city: ALEPPO
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAAL7:
+    branch: (ALEPPO BRANCH NR.7)
+    city: ALEPPO
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAAL8:
+    branch: (ALEPPO 8 BRANCH)
+    city: ALEPPO
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDABA1:
+    branch: (MASAKIN BARZEH BR)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDABK1:
+    branch: (BOU KAMAL)
+    city: DEIR ALZZOR
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDABM1:
+    branch: null
+    city: TARTOUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDABS1:
+    branch: null
+    city: TARTOUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD10:
+    branch: (BRANCH NR.10 DAMASCUS)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD11:
+    branch: (BRANCH NR.11 DAMASCUS)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD12:
+    branch: (BRANCH NR.12 DAMASCUS)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD13:
+    branch: (BRANCH NR.13 DAMASCUS)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD14:
+    branch: null
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD15:
+    branch: (BRANCH NR.15 DAMASCUS)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD16:
+    branch: (DAMASCUS 16 BRANCH)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD17:
+    branch: (DAMASCUS 17 BRANCH)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD18:
+    branch: (BRANCH NR.18 DAMASCUS)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD21:
+    branch: (MALLIEH BR)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD24:
+    branch: (DAHET ASSAD BR)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD25:
+    branch: (DEIR ATTIEH BR)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD26:
+    branch: null
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD27:
+    branch: null
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAD28:
+    branch: null
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADA1:
+    branch: (DAMASCUS 1 BRANCH)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADA2:
+    branch: (DAMASCUS 2 BRANCH)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADA3:
+    branch: (DAMASCUS 3 BRANCH)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADA4:
+    branch: (DAMASCUS 4 BRANCH)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADA5:
+    branch: (DAMASCUS 5 BRANCH)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADA6:
+    branch: (DAMASCUS 6 BRANCH)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADA7:
+    branch: (BRANCH NR.7 DAMASCUS)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADA8:
+    branch: (BRANCH NR.8 DAMASCUS)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADA9:
+    branch: (BRANCH NR.9 DAMASCUS)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADFZ:
+    branch: (DAMASCUS FREE ZONE BRANCH)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADK1:
+    branch: (DREIKISH BR)
+    city: TARTOUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADR1:
+    branch: (DARAA BRANCH)
+    city: DARAA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADUM:
+    branch: (DOUMA BRANCH)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDADZ1:
+    branch: (DEIR ALZZOR BRANCH)
+    city: DEIR ALZZOR
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAHA1:
+    branch: (HAMA 1 BRANCH)
+    city: HAMA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAHA2:
+    branch: (HAMA BRANCH NR.2)
+    city: HAMA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAHA3:
+    branch: (HAMA BRANCH NR.3)
+    city: HAMA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAHA4:
+    branch: null
+    city: HAMA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAHO1:
+    branch: (HOMS 1 BRANCH)
+    city: HOMS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAHO2:
+    branch: (BRANCH NR.2 HOMS)
+    city: HOMS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAHO3:
+    branch: (BRANCH NR.3 HOMS)
+    city: HOMS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAHO4:
+    branch: (BRANCH NR.4 HOMS)
+    city: HOMS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAHS1:
+    branch: (HASSAKAH BRANCH)
+    city: HASSAKAH
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAID1:
+    branch: (IDLIB BRANCH)
+    city: IDLIB
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAJA1:
+    branch: (JABLEH BR)
+    city: LATAKIA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAKA1:
+    branch: (KAMECHLI BRANCH)
+    city: KAMECHLI
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDALA1:
+    branch: (LATAKIA 1 BRANCH)
+    city: LATAKIA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDALA2:
+    branch: (LATAKIA BRANCH NR.2)
+    city: LATAKIA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDALA3:
+    branch: (LATAKIA BRANCH NR.3)
+    city: LATAKIA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDALA4:
+    branch: null
+    city: LATAKIA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDALFZ:
+    branch: (LATAKIA FREE ZONE BRANCH)
+    city: LATAKIA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAMA1:
+    branch: (MAYADINE)
+    city: DEIR ALZZOR
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDARK1:
+    branch: (AL RAKKA BRANCH)
+    city: AL RAKKA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDASA1:
+    branch: (SAFITA)
+    city: TARTOUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDASW1:
+    branch: (AL SUWAIDA BRANCH)
+    city: AL SUWAIDA
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDATA1:
+    branch: (TARTOUS 1 BRANCH)
+    city: TARTOUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDATA2:
+    branch: (TARTOUS BRANCH NR.2)
+    city: TARTOUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDATFZ:
+    branch: (TARTOUS FREE ZONE BRANCH)
+    city: TARTOUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDATL1:
+    branch: (AL TEL)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  CMSYSYDAZA1:
+    branch: (ZABADANI)
+    city: DAMASCUS
+    institution: COMMERCIAL BANK OF SYRIA
+  FSBSSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: FRANSABANK SYRIA SA
+  GBTFSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: INTERNATIONAL BANK FOR TRADE AND FINANCE, THE
+  QNBASYDA:
+    branch: null
+    city: DAMASCUS
+    institution: QNB
+  REBSSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: REAL ESTATE BANK
+  SGBSSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: SYRIA GULF BANK, S.A.
+  SHRQSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: BANK AL-SHARQ S.A.
+  SIIBSYDA:
+    branch: null
+    city: DAMASCUS
+    institution: SYRIA INTERNATIONAL ISLAMIC BANK

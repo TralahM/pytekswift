@@ -1,0 +1,50 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  BTBBVCVC:
+    branch: null
+    city: KINGSTOWN
+    institution: B2B BANK LIMITED
+  CADTVC21:
+    branch: null
+    city: KINGSTOWN
+    institution: CARIBBEAN AND OVERSEAS TRUST BANK
+  EPBLVCVC:
+    branch: null
+    city: KINGSTOWN
+    institution: EURO PACIFIC BANK LIMITED
+  FCIBVCVC:
+    branch: null
+    city: KINGSTOWN
+    institution: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED
+  GVVGVCVC:
+    branch: null
+    city: KINGSTOWN
+    institution: GOVERNMENT OF ST.VINCENT AND THE GRENADINES
+  LOYAVCVX:
+    branch: null
+    city: KINGSTOWN
+    institution: LOYAL BANK LIMITED
+  NCBVVC22:
+    branch: null
+    city: KINGSTOWN
+    institution: BANK OF ST. VINCENT AND THE GRENADINES LTD.
+  NOSCVCVC:
+    branch: null
+    city: KINGSTOWN
+    institution: BANK OF NOVA SCOTIA,THE
+  RBTTVCVC:
+    branch: null
+    city: KINGSTOWN
+    institution: RBTT BANK CARRIBEAN LIMITED
+  RBTTVCVC022:
+    branch: null
+    city: BEQUIA
+    institution: RBTT BANK CARRIBEAN LIMITED
+  STBSVCV1:
+    branch: null
+    city: KINGSTOWN
+    institution: STB SWISS TRUST BANK LTD
+  VDBLVCV1:
+    branch: null
+    city: KINGSTOWN
+    institution: VANILLA DIRECT BANK LTD.

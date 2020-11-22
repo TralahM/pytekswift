@@ -1,0 +1,114 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  AGRNMD2X:
+    branch: null
+    city: CHISINAU
+    institution: BC MOLDOVA - AGROINDBANK S.A.
+  AGRRMD21:
+    branch: null
+    city: TIRASPOL
+    institution: CJSC AGROPROMBANK'
+  AGRRMD21BEN:
+    branch: (BENDERY BRANCH)
+    city: BENDERY
+    institution: CJSC AGROPROMBANK'
+  AGRRMD21DNK:
+    branch: (DNESTROVSK BRANCH)
+    city: DNESTROVSK
+    institution: CJSC AGROPROMBANK'
+  AGRRMD21DUB:
+    branch: (DUBOSSARY BRANCH)
+    city: DUBOSSARY
+    institution: CJSC AGROPROMBANK'
+  AGRRMD21GRI:
+    branch: (GRIGORIOPOL BRANCH)
+    city: GRIGORIOPOL
+    institution: CJSC AGROPROMBANK'
+  AGRRMD21KAM:
+    branch: (KAMENKA BRANCH)
+    city: KAMENKA
+    institution: CJSC AGROPROMBANK'
+  AGRRMD21RYB:
+    branch: (RYBNITSA BRANCH)
+    city: RYBNITSA
+    institution: CJSC AGROPROMBANK'
+  AGRRMD21SLB:
+    branch: (SLOBODZEYA BRANCH)
+    city: SLOBODZEYA
+    institution: CJSC AGROPROMBANK'
+  ARLCMD2X:
+    branch: null
+    city: CHISINAU
+    institution: ARTOSIS LLC
+  BENRMD21:
+    branch: null
+    city: BENDERY
+    institution: BENDERYSOCBANK
+  CJSMMD21:
+    branch: null
+    city: TIRASPOL
+    institution: CLOSED JOINT STOCK COMPANY (CJSC) 'TRANS-DNIESTER SAVINGS BANK' ('SBERBANK')
+  CJTIMD21:
+    branch: null
+    city: TIRASPOL
+    institution: CJSC TIRASPROMSTROYBANK
+  CMTBMD2X:
+    branch: null
+    city: CHISINAU
+    institution: BANCA COMERCIALA 'COMERTBANK' S.A.
+  ECBMMD2X:
+    branch: null
+    city: CHISINAU
+    institution: BC EUROCREDITBANK S.A.
+  ENEGMD22:
+    branch: null
+    city: CHISINAU
+    institution: BC ENERGBANK S.A.
+  EXMMMD22:
+    branch: null
+    city: CHISINAU
+    institution: BANCA COMERCIALA EXIMBANK-GRUPPO VENETO BANCA S.A.
+  FTMDMD2X:
+    branch: null
+    city: CHISINAU
+    institution: BANCA DE FINANTE SI COMERT S.A. (FINCOMBANK S.A.)
+  GAJCMD21:
+    branch: null
+    city: TIRASPOL
+    institution: JOINT-STOCK COMPANY THE EXPORT-IMPORT BANK
+  IPOJMD21:
+    branch: null
+    city: TIRASPOL
+    institution: JSCB IPOTECHNIY
+  MOBBMD22:
+    branch: null
+    city: CHISINAU
+    institution: BC 'MOBIASBANCA-GROUPE SOCIETE GENERALE' S.A.
+  MOLDMD2X:
+    branch: null
+    city: CHISINAU
+    institution: MOLDINDCONBANK
+  NBMDMD2X:
+    branch: (HEAD OFFICE)
+    city: CHISINAU
+    institution: NATIONAL BANK OF MOLDOVA
+  PMODMD21:
+    branch: null
+    city: CHISINAU
+    institution: STATE ENTERPRISE 'POSTA MOLDOVEI'
+  PRBTMD21:
+    branch: null
+    city: TIRASPOL
+    institution: TRANS-DNIESTER REPUBLICAN BANK
+  PRCBMD22:
+    branch: null
+    city: CHISINAU
+    institution: BC PROCREDIT BANK S.A.
+  RNCBMD2X:
+    branch: null
+    city: CHISINAU
+    institution: ROMANIAN COMMERCIAL BANK CHISINAU S.A.
+  VICBMD2X:
+    branch: null
+    city: CHISINAU
+    institution: JOINT-STOCK COMMERCIAL VICTORIABANK

@@ -1,0 +1,134 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  BCOMMOMX:
+    branch: null
+    city: MACAU
+    institution: BANCO COMMERCIAL PORTUGUES
+  BEASMOMX:
+    branch: null
+    city: MACAU
+    institution: THE BANK OF EAST ASIA,LIMITED MACAU BRANCH
+  BESCMOMX:
+    branch: null
+    city: MACAU
+    institution: BANCO WELL LINK, S.A.
+  BKCHMOMX:
+    branch: null
+    city: MACAU
+    institution: BANK OF CHINA, MACAU BRANCH
+  BKCHMOMX868:
+    branch: (RENMINBI CLEARING CENTRE)
+    city: MACAU
+    institution: BANK OF CHINA, MACAU BRANCH
+  BNULMOMX:
+    branch: null
+    city: MACAU
+    institution: BANCO NACIONAL ULTRAMARINO, SA
+  CCBQMOMX:
+    branch: null
+    city: MACAU
+    institution: CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH
+  CCBQMOMXRTL:
+    branch: (RETAIL AND COMMERCIAL)
+    city: MACAU
+    institution: CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH
+  CGDIMOMX:
+    branch: null
+    city: MACAU
+    institution: CAIXA GERAL DE DEPOSITOS, SA - SUCURSAL OFFSHORE DE MACAU
+  CIEPMOMX:
+    branch: null
+    city: MACAU
+    institution: CAIXA ECONOMICA POSTAL
+  CITIMOMX:
+    branch: null
+    city: MACAU
+    institution: CITIBANK NA, MACAU
+  CMACMOMX:
+    branch: null
+    city: MACAU
+    institution: BANCO COMERCIAL DE MACAU, S.A.
+  COMMMOMX:
+    branch: null
+    city: MACAU
+    institution: BANK OF COMMUNICATIONS CO.,LTD. MACAU BRANCH
+  DABGMOMX:
+    branch: null
+    city: MACAU
+    institution: BANCO DELTA ASIA S.A.
+  DBSSMOMX:
+    branch: null
+    city: MACAU
+    institution: DBS BANK (HONG KONG) LIMITED, MACAU BRANCH
+  DEUTMOM1:
+    branch: null
+    city: MACAU
+    institution: DEUTSCHE BANK AG
+  FCBKMOMX:
+    branch: null
+    city: MACAU
+    institution: FIRST COMMERCIAL BANK, MACAU BRANCH
+  GDBKMOMX:
+    branch: null
+    city: MACAU
+    institution: CHINA GUANGFA BANK CO., LTD MACAU BRANCH
+  HASEMOMX:
+    branch: null
+    city: MACAU
+    institution: HANG SENG BANK LIMITED,MACAU BRANCH
+  HNBKMOMX:
+    branch: null
+    city: MACAU
+    institution: HUA NAN COMMERCIAL BANK,LTD. MACAU BRANCH
+  HSBCMOMX:
+    branch: null
+    city: MACAU
+    institution: THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED
+  HSBCMOMXAAM:
+    branch: null
+    city: MACAU
+    institution: THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED
+  ICBKMOMX:
+    branch: null
+    city: MACAU
+    institution: INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU) LIMITED
+  KWHKMOMX:
+    branch: null
+    city: MACAU
+    institution: CHINA CITIC BANK INTERNATIONAL LIMITED MACAU BRANCH
+  LCHBMOMX:
+    branch: null
+    city: MACAU
+    institution: CHONG HING BANK LIMITED MACAU BRANCH
+  LUSOMOMX:
+    branch: null
+    city: MACAU
+    institution: LUSO INTERNATIONAL BANKING LTD.
+  MCHNMOMX:
+    branch: null
+    city: MACAU
+    institution: THE MACAU CHINESE BANK LIMITED
+  MFAMMOMX:
+    branch: null
+    city: MACAU
+    institution: AUTORIDADE MONETARIA DE MACAU
+  SCBLMOMX:
+    branch: null
+    city: MACAU
+    institution: STANDARD CHARTERED BANK
+  SINOMOMX:
+    branch: null
+    city: MACAU
+    institution: BANK SINOPAC (FORMERLY INT'L BANK OF TAIPEI)
+  TFBLMOMX:
+    branch: null
+    city: MACAU
+    institution: TAI FUNG BANK LIMITED
+  WIHBMOMX:
+    branch: null
+    city: MACAU
+    institution: OCBC WING HANG BANK LIMITED
+  WUBAMOMX:
+    branch: null
+    city: MACAU
+    institution: WING LUNG BANK LIMITED MACAU BRANCH

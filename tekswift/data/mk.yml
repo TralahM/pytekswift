@@ -1,0 +1,194 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  BATSMK21:
+    branch: null
+    city: SKOPJE
+    institution: TDR SKOPJE D.O.O.E.L.
+  BDBKMK21:
+    branch: null
+    city: SKOPJE
+    institution: BRO-DEAL, INC
+  CDHVMK21:
+    branch: null
+    city: SKOPJE
+    institution: CENTRAL SECURITIES DEPOSITORY JSC
+  CECBMK22:
+    branch: null
+    city: SKOPJE
+    institution: CENTRAL COOPERATIVE BANK AD SKOPJE
+  ESWBMK22:
+    branch: null
+    city: SKOPJE
+    institution: EUROSTANDARD BANK AD
+  EXPCMK22:
+    branch: null
+    city: SKOPJE
+    institution: HALKBANK AD SKOPJE
+  FLAMMK21:
+    branch: null
+    city: SKOPJE
+    institution: FERSPED - BROKER AD
+  HIFDMK21:
+    branch: null
+    city: SKOPJE
+    institution: HEALTH INSURANCE FUND OF MACEDONIA
+  INPBMK21:
+    branch: null
+    city: SKOPJE
+    institution: CAPITAL BANK AD
+  INSBMK22:
+    branch: null
+    city: SKOPJE
+    institution: SPARKASSE BANK MAKEDONIJA AD SKOPJE
+  KAPBMK22:
+    branch: null
+    city: SKOPJE
+    institution: KAPITAL BANKA AD SKOPJE
+  KBBRMK21:
+    branch: null
+    city: SKOPJE
+    institution: BROKERAGE HOUSE KB BROKER INC.SKOPJE
+  KIBSMK21:
+    branch: null
+    city: SKOPJE
+    institution: CLEARING HOUSE INTERBANK CLEARING SYSTEMS
+  KMBPMK21:
+    branch: null
+    city: SKOPJE
+    institution: ZAVOD ZA PLATEN PROMET
+  KOBSMK2X:
+    branch: null
+    city: SKOPJE
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XBTB:
+    branch: null
+    city: BITOLA
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XGVB:
+    branch: null
+    city: GOSTIVAR
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XKOB:
+    branch: null
+    city: KOCANI
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XKUB:
+    branch: null
+    city: KUMANOVO
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XKVB:
+    branch: null
+    city: KAVADARCI
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XOHB:
+    branch: null
+    city: OHRID
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XPRB:
+    branch: null
+    city: PRILEP
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XSRB:
+    branch: null
+    city: STRUMICA
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XSTB:
+    branch: null
+    city: STIP
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XTEB:
+    branch: null
+    city: TETOVO
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KOBSMK2XVEB:
+    branch: null
+    city: VELES
+    institution: KOMERCIJALNA BANKA AD SKOPJE
+  KRSKMK2X:
+    branch: null
+    city: SKOPJE
+    institution: SILK ROAD BANK AD SKOPJE
+  MBBRMK21:
+    branch: null
+    city: SKOPJE
+    institution: MAK BROKER AD
+  MBDPMK22:
+    branch: null
+    city: SKOPJE
+    institution: MACEDONIAN BANK FOR DEVELOPMENT PROMOTION
+  MIBRMK21:
+    branch: null
+    city: SKOPJE
+    institution: BROKERAGE HOUSE MAKOS-INVEST BROKER INC
+  NBRMMK2A:
+    branch: null
+    city: SKOPJE
+    institution: NATIONAL BANK OF THE REPUBLIC OF MACEDONIA
+  NBRMMK2X:
+    branch: null
+    city: SKOPJE
+    institution: NATIONAL BANK OF THE REPUBLIC OF MACEDONIA
+  NPKMMK21:
+    branch: null
+    city: SKOPJE
+    institution: NATIONAL PAYMENT CARD AD
+  OHRDMK22:
+    branch: null
+    city: SKOPJE
+    institution: OHRIDSKA BANKA A.D. SKOPJE
+  PELAMK21:
+    branch: null
+    city: PRILEP
+    institution: PELAGONISKA BANKA AD
+  POBRMK21:
+    branch: null
+    city: SKOPJE
+    institution: BROKER HOUSE POSTEL-BROKER A.D
+  PPHVMK21:
+    branch: null
+    city: SKOPJE
+    institution: MONEY MARKET AND SHORT-TERM SECURITIES OF THE REP. OF MACEDONIA
+  PRBUMK22:
+    branch: null
+    city: SKOPJE
+    institution: PROCREDIT BANK, MACEDONIA (FORMERLY PRO BUSINESS BANK A.D. SKOPJE)
+  SBSBMK21:
+    branch: null
+    city: SKOPJE
+    institution: BROKER-SB A.D. SKOPJE BROKERAGE HOUSE OF STOPANSKA BANKA AD SKOPJE
+  SKBRMK21:
+    branch: null
+    city: SKOPJE
+    institution: SAKSES BROKERS INC
+  STBBMK22:
+    branch: null
+    city: BITOLA
+    institution: STOPANSKA BANKA AD BITOLA
+  STOBMK2X:
+    branch: null
+    city: SKOPJE
+    institution: STOPANSKA BANKA A.D.
+  TTXBMK2X:
+    branch: null
+    city: SKOPJE
+    institution: TTK BANKA AD SKOPJE
+  TUTNMK22:
+    branch: null
+    city: SKOPJE
+    institution: NLB BANKA AD SKOPJE
+  UIBMMK22:
+    branch: null
+    city: SKOPJE
+    institution: UNIVERSAL INVESTMENT BANK AD SKOPJE (UNIBANK)
+  USINMK21:
+    branch: null
+    city: SKOPJE
+    institution: ARCELORMITTAL SKOPJE (CRM)
+  XMAEMK21:
+    branch: null
+    city: SKOPJE
+    institution: MACEDONIAN STOCK EXCHANGE AD
+  ZEMBMK21:
+    branch: null
+    city: SKOPJE
+    institution: ZEMJODELSKA BANKA A.D.

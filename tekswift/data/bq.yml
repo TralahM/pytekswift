@@ -1,0 +1,34 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  BDCCBQBN:
+    branch: null
+    city: KRALENDIJK
+    institution: BANCO DI CARIBE N.V. BONAIRE
+  GIRCBQBN:
+    branch: null
+    city: KRALENDIJK
+    institution: GIROBANK NV BONAIRE BRANCH
+  MCBKBQBN:
+    branch: null
+    city: KRALENDIJK
+    institution: MADURO AND CURIEL'S BANK (BONAIRE) NV
+  ORBABQBN:
+    branch: null
+    city: KRALENDIJK
+    institution: ORCO BANK N.V. BONAIRE
+  ORIBBQC1:
+    branch: null
+    city: KRALENDIJK
+    institution: BANCO DEL ORINOCO N.V.
+  RBTTBQBN:
+    branch: null
+    city: BONAIRE
+    institution: RBC ROYAL BANK N.V.(FORMERLY RBTT BANK N.V.)
+  RBTTBQSA:
+    branch: null
+    city: SABA
+    institution: RBC ROYAL BANK N.V. (FORMERLY RBTT BANK N.V.)
+  WISBBQEE:
+    branch: null
+    city: SAINT EUSTATIUS
+    institution: THE WINDWARD ISLANDS BANK LTD ST.EUSTATIUS

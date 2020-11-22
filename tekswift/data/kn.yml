@@ -1,0 +1,70 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  BAUOKNN1:
+    branch: null
+    city: CHARLESTOWN
+    institution: BANCLEAR TRUST CORPORATION
+  BNEIKNNE:
+    branch: null
+    city: CHARLESTOWN
+    institution: BANK OF NEVIS INTERNATIONAL LIMITED
+  BNEVKNNE:
+    branch: null
+    city: CHARLESTOWN
+    institution: BANK OF NEVIS, THE
+  CNLLKNN1:
+    branch: null
+    city: CHARLESTOWN
+    institution: CENTERLINK, LLC
+  ECCBKNSK:
+    branch: null
+    city: BASSETERRE
+    institution: EASTERN CARIBBEAN CENTRAL BANK
+  ECMTKNS1:
+    branch: null
+    city: CHARLESTOWN
+    institution: EUROWIRE CASH MANAGEMENT TRUST
+  ECSXKNSK:
+    branch: null
+    city: BASSETERRE
+    institution: EASTERN CARIBBEAN SECURITIES EXCHANGE LTD
+  EULOKNS1:
+    branch: null
+    city: CHARLESTOWN
+    institution: EUROWIRE CLEARING CORPORATION
+  FCIBKNSK:
+    branch: null
+    city: BASSETERRE
+    institution: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED
+  GLTAKNS1:
+    branch: null
+    city: BASSETERRE
+    institution: GLOBAL TRADE AIM LIMITED
+  GVKNKNSK:
+    branch: null
+    city: BASSETERRE
+    institution: GOVERMENT OF ST. KITTS AND NEVIS
+  KNANKNSK:
+    branch: null
+    city: BASSETERRE
+    institution: ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK
+  MAMSKNS1:
+    branch: null
+    city: BASSETERRE
+    institution: MAGNATE PREMIER INVESTMENT BANK LIMITED
+  MGPMKNS1:
+    branch: null
+    city: BASSETERRE
+    institution: MAGNATE PREMIER LIMITED
+  NOSCKNSK:
+    branch: null
+    city: BASSETERRE
+    institution: BANK OF NOVA SCOTIA,THE
+  RBTTKNNE:
+    branch: null
+    city: CHARLESTOWN
+    institution: RBTT BANK (SKN) LIMITED
+  ROYCKNSK:
+    branch: null
+    city: BASSETERRE
+    institution: ROYAL BANK OF CANADA

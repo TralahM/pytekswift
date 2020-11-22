@@ -1,0 +1,390 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ACTZTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: ACCESSBANK TANZANIA LTD
+  ADVBTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: ADVANS BANK TANZANIA
+  AFDETZT1:
+    branch: null
+    city: DAR ES SALAAM
+    institution: EAST AFRICAN DEVELOPMENT BANK
+  AKCOTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: AKIBA COMMERCIAL BANK PLC
+  AMNNTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: AMANA BANK LIMITED
+  AZANTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: AZANIA BANK LIMITED
+  BARBTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: BANK OF BARODA (TANZANIA) LTD
+  BARCTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: BARCLAYS BANK TANZANIA LTD
+  BKIDTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: BANK OF INDIA (TANZANIA) LIMITED
+  BKMYTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: INTERNATIONAL COMMERCIAL BANK (TANZANIA) LIMITED
+  BNKMTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: BANK M TANZANIA PLC
+  CBAFTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: COMMERCIAL BANK OF AFRICA (TANZANIA) LTD
+  CBFWTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: COVENANT BANK FOR WOMEN (TANZANIA) LIMITED
+  CFLLTZT1:
+    branch: null
+    city: DAR ES SALAAM
+    institution: CROWN FINANCE AND LEASING LIMITED
+  CHLMTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: CHINA COMMERCIAL BANK LIMITED
+  CITITZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: CITIBANK TANZANIA LTD
+  CNRBTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: CANARA BANK  (TANZANIA) LTD
+  CORUTZT10T2:
+    branch: (LUMUMBA BRANCH)
+    city: DAR ES SALAAM
+    institution: CRDB BANK LIMITED
+  CORUTZT10T3:
+    branch: null
+    city: TANGA
+    institution: CRDB BANK LIMITED
+  CORUTZT10T4:
+    branch: null
+    city: ARUSHA
+    institution: CRDB BANK LIMITED
+  CORUTZT10T5:
+    branch: null
+    city: MWANZA
+    institution: CRDB BANK LIMITED
+  CORUTZT10T6:
+    branch: null
+    city: SHINYANGA
+    institution: CRDB BANK LIMITED
+  CORUTZT10TD:
+    branch: (AZIKIWE BRANCH)
+    city: DAR ES SALAAM
+    institution: CRDB BANK LIMITED
+  CORUTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: CRDB BANK LIMITED
+  DASUTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: DAR ES SALAAM COMMUNITY BANK LTD
+  DSTXTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: DAR ES SALAAM STOCK EXCHANGE
+  DTKETZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: DIAMOND TRUST BANK TANZANIA LTD
+  ECOCTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: ECOBANK TANZANIA LIMITED
+  EFABTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: EFATHA BANK LIMITED
+  EQBLTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: EQUITY BANK TANZANIA LIMITED
+  EUAFTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: BOA BANK TANZANIA
+  EXTNTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: EXIMBANK (TANZANIA) LTD
+  FIRNTZTX:
+    branch: null
+    city: DAR ES SALAAM
+    institution: FIRST NATIONAL BANK OF TANZANIA
+  FMBZTZTX:
+    branch: null
+    city: DAR ES SALAAM
+    institution: AFRICAN BANKING CORPORATION TANZANIA LIMITED
+  FNMITZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: FINCA MICROFINANCE BANK LIMITED
+  HABLTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: HABIB AFRICAN BANK
+  IMBLTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: I AND M BANK (T) LIMITED
+  KACLTZT1:
+    branch: null
+    city: DAR ES SALAAM
+    institution: KARADHA COMPANY LTD
+  KCBLTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: KCB BANK TANZANIA LIMITED
+  KLMJTZTZ:
+    branch: null
+    city: MOSHI
+    institution: KILIMANJARO CO-OPERATIVE BANK LTD
+  MBTLTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: MAENDELEO BANK LTD
+  MCBNTZTZ:
+    branch: null
+    city: ARUSHA
+    institution: MERU COMMUNITY BANK LTD
+  MKCBTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: MKOMBOZI COMMERCIAL BANK LTD
+  MUOBTZTZ:
+    branch: null
+    city: IRINGA
+    institution: MUCOBA BANK PLC
+  MWCBTZTZ:
+    branch: null
+    city: MOSHI
+    institution: MWANGA COMMUNITY BANK LTD
+  MWCOTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: MWALIMU COMMERCIAL BANK PLC
+  NABHTZT1:
+    branch: null
+    city: DAR ES SALAAM
+    institution: TWIGA BANCORP LIMITED
+  NLCBTZT10T6:
+    branch: (BANK HOUSE BRANCH)
+    city: DAR ES SALAAM
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZT10T7:
+    branch: (MASDO HOUSE BRANCH)
+    city: DAR ES SALAAM
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTX:
+    branch: (HEADOFFICE)
+    city: DAR ES SALAAM
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTX0T3:
+    branch: (CORPORATE BRANCH)
+    city: DAR ES SALAAM
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTX0T4:
+    branch: (ARUSHA BRANCH)
+    city: ARUSHA
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTX0T5:
+    branch: (MWANZA BRANCH)
+    city: MWANZA
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTX0T8:
+    branch: (SAMORA BRANCH)
+    city: DAR ES SALAAM
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTX0TM:
+    branch: (MOSHI BRANCH)
+    city: MOSHI
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTXFIN:
+    branch: (FINANCIAL DEPARTMENT-NBC HOUSE)
+    city: DAR ES SALAAM
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTXIND:
+    branch: (INDUSTRIAL BRANCH)
+    city: DAR ES SALAAM
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTXKIC:
+    branch: (KICHWELE BRANCH)
+    city: DAR ES SALAAM
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTXMBE:
+    branch: (MBEYA BRANCH)
+    city: MBEYA
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTXMNA:
+    branch: (MNAZI MMOJA BRANCH)
+    city: DAR ES SALAAM
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTXMOR:
+    branch: (MOROGORO BRANCH)
+    city: MOROGORO
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTXTAN:
+    branch: (TANGA BRANCH)
+    city: TANGA
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NLCBTZTXZAN:
+    branch: (ZANZIBAR BRANCH-UNGUJA)
+    city: ZANZIBAR
+    institution: NATIONAL BANK OF COMMERCE, THE
+  NMIBTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: NMB BANK PLC
+  ORSUTZT1:
+    branch: null
+    city: DAR ES SALAAM
+    institution: ORBIT SECURITES CO LTD
+  PBZATZTZ:
+    branch: null
+    city: ZANZIBAR
+    institution: PEOPLE'S BANK OF ZANZIBAR, THE
+  PBZATZTZCHK:
+    branch: (CHAKE CHAKE BRANCH)
+    city: ZANZIBAR
+    institution: PEOPLE'S BANK OF ZANZIBAR, THE
+  PBZATZTZNWK:
+    branch: (MWANAKWEREKWE BRANCH)
+    city: ZANZIBAR
+    institution: PEOPLE'S BANK OF ZANZIBAR, THE
+  SABMTZT1:
+    branch: null
+    city: DAR ES SALAAM
+    institution: SABMILLER TANZANIA
+  SABMTZT1TBL:
+    branch: null
+    city: DAR ES SALAAM
+    institution: SABMILLER TANZANIA
+  SABMTZT1TDL:
+    branch: null
+    city: DAR ES SALAAM
+    institution: SABMILLER TANZANIA
+  SBICTZTX:
+    branch: null
+    city: DAR ES SALAAM
+    institution: STANBIC BANK TANZANIA LIMITED
+  SBINTZT1:
+    branch: null
+    city: DAR ES SALAAM
+    institution: STATE BANK OF INDIA
+  SCBLTZTX:
+    branch: null
+    city: DAR ES SALAAM
+    institution: STANDARD CHARTERED BANK TANZANIA LTD
+  SCBLTZTXSSU:
+    branch: (SECURITIES SERVICES UNIT)
+    city: DAR ES SALAAM
+    institution: STANDARD CHARTERED BANK TANZANIA LTD
+  SFICTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: NIC BANK (TANZANIA) LIMITED
+  TAHOTZT1:
+    branch: (CITY BRANCH)
+    city: DAR ES SALAAM
+    institution: TANZANIA HOUSING BANK
+  TAHOTZT10T2:
+    branch: (HIFADHI BRANCH)
+    city: DAR ES SALAAM
+    institution: TANZANIA HOUSING BANK
+  TAHOTZT10T3:
+    branch: (TANGA BRANCH)
+    city: TANGA
+    institution: TANZANIA HOUSING BANK
+  TAHOTZT10T4:
+    branch: (DODOMA BRANCH)
+    city: DODOMA
+    institution: TANZANIA HOUSING BANK
+  TAHOTZT10T5:
+    branch: (MWANZA BRANCH)
+    city: MWANZA
+    institution: TANZANIA HOUSING BANK
+  TAHOTZT10T6:
+    branch: (MBEYA BRANCH)
+    city: MBEYA
+    institution: TANZANIA HOUSING BANK
+  TAHOTZT10T7:
+    branch: (MOROGORO BRANCH)
+    city: MOROGORO
+    institution: TANZANIA HOUSING BANK
+  TAHOTZT10T8:
+    branch: (MOSHI BRANCH)
+    city: MOSHI
+    institution: TANZANIA HOUSING BANK
+  TAHOTZT10TA:
+    branch: (ZANZIBAR BRANCH)
+    city: ZANZIBAR
+    institution: TANZANIA HOUSING BANK
+  TAINTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: TIB CORPORATE BANK LIMITED
+  TANZTZTX:
+    branch: null
+    city: DAR ES SALAAM
+    institution: BANK OF TANZANIA
+  TAPBTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: TPB BANK PLC
+  TARATZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: TANZANIA REVENUE AUTHORITY
+  TRBATZT1:
+    branch: null
+    city: DAR ES SALAAM
+    institution: TRUST BANK (TANZANIA) LIMITED
+  TWBLTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: TANZANIA WOMEN'S BANK LTD
+  TWIGTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: TWIGA BANCORP LIMITED
+  TZADTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: TANZANIA AGRICULTURAL DEVELOPMENT BANK
+  UCCTTZTZ:
+    branch: null
+    city: MOSHI
+    institution: UCHUMI COMMERCIAL BANK LTD
+  ULCTTZT1:
+    branch: null
+    city: DAR ES SALAAM
+    institution: ULC (TANZANIA) LTD
+  UNAFTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: UNITED BANK FOR AFRICA (TANZANIA) LIMITED
+  UNILTZTZ:
+    branch: null
+    city: DAR ES SALAAM
+    institution: UBL BANK (TANZANIA) LIMITED

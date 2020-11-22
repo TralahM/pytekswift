@@ -1,0 +1,194 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ABBNCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: ABB INVESTMENT N.V.
+  ABNACWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: ABN-AMRO TRUST COMPANY
+  BALICWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: BANCO ALIADO INTERNACIONAL NV
+  BAMRCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: BANCO MERCANTIL
+  BBICCWCW:
+    branch: null
+    city: WILLEMSTAD
+    institution: BLUE BANK INTERNATIONAL N.V.
+  BDCCCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: BANCO DI CARIBE N.V.
+  BMIDCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: MIDPACIFIC BANK N.V.
+  BPOCCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: BANCO PROVINCIAL OVERSEAS N.V.
+  BPROCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: BANCO PROVINCIAL
+  CARACWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: BANCARIBE CURACAO BANK N.V.
+  CBCSCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: CENTRALE BANK VAN CURACAO EN SINT MAARTEN
+  CITCCWCC:
+    branch: null
+    city: WILLEMSTAD
+    institution: VIDANOVA BANK N.V. (FORMERLY S.F.T. BANK)
+  CITCCWCU:
+    branch: (HEAD OFFICE)
+    city: WILLEMSTAD
+    institution: CITCO BANKING CORPORATION N.V.
+  CITCCWCUDSK:
+    branch: (DEALING ROOM)
+    city: WILLEMSTAD
+    institution: CITCO BANKING CORPORATION N.V.
+  COOVCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: BANCO CONTINENTAL OVERSEAS N.V.
+  DEFBCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: DEUTSCHE BANK FINANCE N.V.
+  DVKBCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: DVB BANK AMERICA N.V.
+  EBNVCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: EBNA BANK N.V.
+  EINBCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: EXPRINTER INTERNATIONAL BANK N.V.
+  FCIBCWC2:
+    branch: null
+    city: WILLEMSTAD
+    institution: FIRSTCARIBBEAN INTERNATIONAL BANK (CURACAO) N.V.
+  FCIBCWCD:
+    branch: null
+    city: WILLEMSTAD
+    institution: FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN LTD) CURACAO BRANCH
+  FCIBCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN LTD) CURACAO BRANCH
+  FCURCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: FIRST CURACAO INTERNATIONAL BANK N.V.
+  GIRCCWCC:
+    branch: null
+    city: WILLEMSTAD
+    institution: GIROBANK INTERNATIONAL N.V.
+  GIRCCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: GIROBANK N.V.
+  HBBOCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: HB SUBHOLDING B.V.
+  HOLUCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: HOLLANDSCHE BANK-UNIE (INTERNATIONA L) N.V.
+  INANCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: INTERUNION BANK (ANTILLES)
+  IRPPCWCW:
+    branch: null
+    city: WILLEMSTAD
+    institution: ADAMA IRVITA N.V.
+  ITCOCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: INTERPRO BANK AND TRUST COMPANY
+  MCBKCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: MADURO AND CURIEL'S BANK N.V.
+  MIDCCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: MIDDENBANK CURACAO N.V.
+  MLIVCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: MERRILL LYNCH INTERNATIONAL AND CO. C.V.
+  MOCNCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: MOORE GLOBAL FIXED INCOME FUND LTD.
+  NCBCCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: NETHERLANDS CARIBBEAN BANK, N.V.
+  NCRTCWCA:
+    branch: null
+    city: WILLEMSTAD
+    institution: BANCO NACIONAL DE CREDITO, C.A. B U, SRCSAL CURACAO
+  NRROCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: NORO BANK N.V.
+  ORBACWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: ORCO BANK N.V.
+  ORIBCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: BANCO DEL ORINOCO
+  PBBPCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: PSB BANK N.V.
+  RBTTCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: RBC ROYAL BANK N.V. (FORMERLY RBTT BANK N.V.)
+  RGRRCWC1:
+    branch: null
+    city: WILLEMSTAD
+    institution: RORENTO N.V.
+  RIBKCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: REPUBLIC INTERNATIONAL BANK, N.V.
+  SAINCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: SOUTH AMERICAN INTERNATIONAL BANK OF CURACAO
+  SFANCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: SOCIETE FINANCIERE DES ANTILLES N.V
+  SKYBCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: BNC INTERNATIONAL BANK NV
+  TOTLCWCU:
+    branch: null
+    city: SCHARLOO
+    institution: TOTALBANK CURACAO N.V.
+  UDIBCWCU:
+    branch: null
+    city: WILLEMSTAD
+    institution: UNITED INTERNATIONAL BANK N.V.

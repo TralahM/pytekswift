@@ -1,0 +1,46 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  AGRIRERX:
+    branch: null
+    city: SAINT DENIS
+    institution: CREDIT AGRICOLE
+  AGRIRERXLEO:
+    branch: null
+    city: LE PORT
+    institution: CREDIT AGRICOLE
+  AGRIRERXSNL:
+    branch: (LA REUNION BRANCH)
+    city: SAINT LOUIS
+    institution: CREDIT AGRICOLE
+  BFCORERX:
+    branch: null
+    city: SAINT DENIS
+    institution: BANQUE FRANCAISE COMMERCIALE DE L'OCEAN INDIEN
+  BNPARERX:
+    branch: null
+    city: SAINT DENIS
+    institution: BNP PARIBAS LA REUNION
+  BNPARERXPOR:
+    branch: null
+    city: LE PORT
+    institution: BNP PARIBAS LA REUNION
+  CGRARER1:
+    branch: null
+    city: SAINT DENIS
+    institution: CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE LA REUNION
+  OCLRRER1:
+    branch: null
+    city: SAINT DENIS
+    institution: OCEOR LEASE REUNION
+  REUBRERX:
+    branch: null
+    city: SAINT DENIS
+    institution: CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DE LA REUNION)
+  SODIRER1:
+    branch: null
+    city: SAINT DENIS
+    institution: SOCIETE FINANCIERE POUR LE DEVELOPPEMENT DE LA REUNION
+  SORFRER1:
+    branch: null
+    city: SAINT DENIS
+    institution: SOCIETE REUNIONNAISE DE FINT-SOREFI

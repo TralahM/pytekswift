@@ -1,0 +1,1091 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ABOCKRSE:
+    branch: null
+    city: SEOUL
+    institution: AGRICULTURAL BANK OF CHINA SEOUL BRANCH
+  AIKRKRS1:
+    branch: null
+    city: SEOUL
+    institution: AIA INTERNATIONAL, KOREA BRANCH
+  AITMKRS1:
+    branch: null
+    city: SEOUL
+    institution: ANG INVESTMENT TRUST MANAGEMENT COMPANY
+  ANZBKRSX:
+    branch: null
+    city: SEOUL
+    institution: AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED
+  ASNMKRS1:
+    branch: null
+    city: SEOUL
+    institution: HI ASSET MANAGEMENT
+  AUVKKRS1:
+    branch: null
+    city: SEOUL
+    institution: AUDI VOLKSWAGEN KOREA LTD.
+  BATSKR21:
+    branch: null
+    city: SACHEON-SI
+    institution: BAT KOREA MANUFACTURING LTD
+  BATSKR31:
+    branch: null
+    city: SEOUL
+    institution: ROTHMANS FAR EAST B.V. KOREA
+  BATSKRS1:
+    branch: null
+    city: SEOUL
+    institution: BRITISH AMERICAN TOBACCO KOREA
+  BKCHKRSE:
+    branch: null
+    city: SEOUL
+    institution: BANK OF CHINA SEOUL BRANCH
+  BKCHKRSEANS:
+    branch: (ANSAN BRANCH)
+    city: ANSAN
+    institution: BANK OF CHINA SEOUL BRANCH
+  BKCHKRSEDAE:
+    branch: (DAEGU BRANCH)
+    city: DAEGU
+    institution: BANK OF CHINA SEOUL BRANCH
+  BKCHKRSEGRO:
+    branch: (GURO BRANCH)
+    city: SEOUL
+    institution: BANK OF CHINA SEOUL BRANCH
+  BKCHKRSEGUR:
+    branch: (GURO BRANCH)
+    city: SEOUL
+    institution: BANK OF CHINA SEOUL BRANCH
+  BKCHKRSEICN:
+    branch: (INCHEON BRANCH)
+    city: INCHEON
+    institution: BANK OF CHINA SEOUL BRANCH
+  BKMTKRSE:
+    branch: null
+    city: SEOUL
+    institution: BANK MELLAT, SEOUL BRANCH
+  BKTIKRS1:
+    branch: null
+    city: SEOUL
+    institution: BANKERS TRUST INTERNATIONAL
+  BNINKRSE:
+    branch: null
+    city: SEOUL
+    institution: BANK NEGARA INDONESIA SEOUL BRANCH
+  BNPAKRSE:
+    branch: null
+    city: SEOUL
+    institution: BNP PARIBAS SEOUL BRANCH
+  BOFAKR2102P:
+    branch: null
+    city: PUSAN
+    institution: BANK OF AMERICA, N.A. PUSAN
+  BOFAKR2X:
+    branch: null
+    city: SEOUL
+    institution: BANK OF AMERICA, N.A. SEOUL BRANCH
+  BOKRKRSE:
+    branch: null
+    city: SEOUL
+    institution: BANK OF KOREA, THE
+  BOKRKRST:
+    branch: null
+    city: SEOUL
+    institution: BANK OF KOREA
+  BOOSKRS1:
+    branch: null
+    city: SEOUL
+    institution: BOOKOOK SECURITIES CO LTD
+  BOTKKRSX:
+    branch: (SEOUL BRANCH)
+    city: SEOUL
+    institution: BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE
+  BPPSKRS1:
+    branch: null
+    city: SEOUL
+    institution: BNP PARIBAS SECURITIES KOREA CO., LTD.
+  BRIUKRS1:
+    branch: null
+    city: SEOUL
+    institution: BARO INVESTMENT SECURITIES
+  BRNAKRS1:
+    branch: null
+    city: SEOUL
+    institution: KTB INVESTMENT AND SECURITIES CO., LTD
+  BSKLKRS1:
+    branch: null
+    city: SEOUL
+    institution: MACQUARIE SECURITIES KOREA LIMITED
+  BZSEKRS1:
+    branch: null
+    city: SEOUL
+    institution: BZW SECURITIES LTD.
+  BZWSKRS1:
+    branch: null
+    city: SEOUL
+    institution: BARCLAYS DE ZOETE WEDD SECURITIES LTD.
+  CHASKRSE:
+    branch: null
+    city: SEOUL
+    institution: J.P. MORGAN SECURITIES (FAR EAST) LTD
+  CHASKRSEENQ:
+    branch: (TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)
+    city: SEOUL
+    institution: J.P. MORGAN SECURITIES (FAR EAST) LTD
+  CHASKRSEKEY:
+    branch: (TEST KEY AND BKE ADMINISTRATION)
+    city: SEOUL
+    institution: J.P. MORGAN SECURITIES (FAR EAST) LTD
+  CHASKRSX:
+    branch: null
+    city: SEOUL
+    institution: JPMORGAN CHASE BANK, N.A., SEOUL BRANCH
+  CHASKRSXENQ:
+    branch: (TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)
+    city: SEOUL
+    institution: JPMORGAN CHASE BANK, N.A., SEOUL BRANCH
+  CHASKRSXKEY:
+    branch: (TEST KEY AND BKE ADMINISTRATION)
+    city: SEOUL
+    institution: JPMORGAN CHASE BANK, N.A., SEOUL BRANCH
+  CHHEKRS1:
+    branch: null
+    city: SEOUL
+    institution: CHO HUNG SECURITIES CORPORATION
+  CITIKRSX:
+    branch: null
+    city: SEOUL
+    institution: CITIBANK KOREA INC
+  CITIKRSXKAK:
+    branch: (CITI KR KAKAO)
+    city: SEOUL
+    institution: CITIBANK KOREA INC
+  CITIKRSXKBA:
+    branch: (CITIBANK KOREA INC  K BANK)
+    city: SEOUL
+    institution: CITIBANK KOREA INC
+  CITIKRSXWLS:
+    branch: (WORLDLINK OPERATION)
+    city: SEOUL
+    institution: CITIBANK KOREA INC
+  CIWWKRSE:
+    branch: null
+    city: SEOUL
+    institution: CHEIL WORLDWIDE, INC
+  CJCCKRSS:
+    branch: null
+    city: SEOUL
+    institution: CJ CHEILJEDANG CORPORATION
+  CLSAKRS1:
+    branch: null
+    city: SEOUL
+    institution: CLSA SECURITIES KOREA LTD.
+  CNORKRSE:
+    branch: null
+    city: SEOUL
+    institution: THE NORTHERN TRUST COMPANY, SEOUL BRANCH
+  COMMKRSE:
+    branch: null
+    city: SEOUL
+    institution: BANK OF COMMUNICATIONS CO. LTD SEOUL BRANCH
+  COMMKRSE888:
+    branch: (SEOUL BRANCH (RMB CLEARING BANK))
+    city: SEOUL
+    institution: BANK OF COMMUNICATIONS CO. LTD SEOUL BRANCH
+  CRESKRSE:
+    branch: null
+    city: SEOUL
+    institution: CREDIT SUISSE AG, SEOUL BRANCH
+  CRLYKRSE:
+    branch: null
+    city: SEOUL
+    institution: CREDIT AGRICOLE CIB
+  CSFBKRSE:
+    branch: null
+    city: SEOUL
+    institution: CREDIT SUISSE SECURITIES (EUROPE) LIMITED, SEOUL BRANCH
+  CSKRKRS1:
+    branch: null
+    city: SEOUL
+    institution: CIMB SECURITIES LTD., KOREA BRANCH
+  CZNBKRSE:
+    branch: (HEAD OFFICE)
+    city: SEOUL
+    institution: KOOKMIN BANK
+  CZNBKRSECLS:
+    branch: (CLS DIVISION)
+    city: SEOUL
+    institution: KOOKMIN BANK
+  CZNBKRSECTD:
+    branch: (CUSTODY DEPARTMENT)
+    city: SEOUL
+    institution: KOOKMIN BANK
+  CZNBKRSEWLS:
+    branch: (WLS DIVISION)
+    city: SEOUL
+    institution: KOOKMIN BANK
+  DAEBKR22:
+    branch: null
+    city: DAEGU
+    institution: DAEGU BANK, LTD.,THE
+  DAEBKR22SEL:
+    branch: null
+    city: SEOUL
+    institution: DAEGU BANK, LTD.,THE
+  DAECKRS1:
+    branch: null
+    city: SEOUL
+    institution: DAE YU SECURITIES CO. LTD.
+  DAHUKRS1:
+    branch: null
+    city: SEOUL
+    institution: DAE HAN SECURITIES CO LTD
+  DAMGKRS1:
+    branch: null
+    city: SEOUL
+    institution: DONGBU ASSET MANAGEMENT
+  DAMSKRS1:
+    branch: null
+    city: SEOUL
+    institution: DAISHIN ASSET MANAGEMENT
+  DASGKRS1:
+    branch: null
+    city: SEOUL
+    institution: DREAM ASSET MANAGEMENT CO., LTD
+  DBSSKRSE:
+    branch: null
+    city: SEOUL
+    institution: DBS BANK LTD, SEOUL BRANCH
+  DBSSKRSEIBD:
+    branch: (SEOUL BRANCH)
+    city: SEOUL
+    institution: DBS BANK LTD, SEOUL BRANCH
+  DEUTKRS102P:
+    branch: null
+    city: PUSAN
+    institution: DEUTSCHE BANK AG
+  DEUTKRSE:
+    branch: null
+    city: SEOUL
+    institution: DEUTSCHE BANK AG, SEOUL BRANCH
+  DOSEKRS1:
+    branch: null
+    city: SEOUL
+    institution: DONGSUH SECURITIES CO LTD.
+  DOSUKRS1:
+    branch: null
+    city: SEOUL
+    institution: DONGWON SECURITIES
+  DOSUKRS1186:
+    branch: (INTERNATIONAL INVESTMENT DEPARTMENT)
+    city: SEOUL
+    institution: DONGWON SECURITIES
+  DSALKRS1:
+    branch: null
+    city: SEOUL
+    institution: DEUTSCHE SECURITIES KOREA CO.
+  DSCCKRS1:
+    branch: null
+    city: SEOUL
+    institution: DAIWA SECURITIES CAPITAL MARKETS KOREA CO.,LTD.
+  DSEUKRS1:
+    branch: null
+    city: SEOUL
+    institution: DONG BU SECURITIES CO. LTD.
+  DSSCKRSE:
+    branch: null
+    city: SEOUL
+    institution: DAISHIN SECURITES CO., LTD
+  DTKRKRSE:
+    branch: null
+    city: SEOUL
+    institution: DAIMLER TRUCKS KOREA LTD.
+  ELGTKRSE:
+    branch: null
+    city: SEOUL
+    institution: ELAND WORLD LIMITED
+  EPACKRSE:
+    branch: null
+    city: SEOUL
+    institution: EPAYKOREA CO.,LTD.
+  ETSIKRS1:
+    branch: null
+    city: SEOUL
+    institution: E TRADE KOREA CO., LTD.
+  EVERKRSE:
+    branch: null
+    city: SEOUL
+    institution: CHINA EVERBRIGHT BANK SEOUL BRANCH
+  EXIKKRSE:
+    branch: null
+    city: SEOUL
+    institution: THE EXPORT-IMPORT BANK OF KOREA
+  EXIKKRSEFEF:
+    branch: (FOREIGH EXCHANGE EQUILIZATION FUND)
+    city: SEOUL
+    institution: THE EXPORT-IMPORT BANK OF KOREA
+  EXIKKRSEIFD:
+    branch: (KEXIM INTERANTIONAL FINANCE DEPARTMENT)
+    city: SEOUL
+    institution: THE EXPORT-IMPORT BANK OF KOREA
+  FIRSKRS1:
+    branch: null
+    city: SEOUL
+    institution: FIRST SECURITIES CO LTD
+  FPASKRS1:
+    branch: null
+    city: SEOUL
+    institution: FPB ASIA LIMITED
+  FRIPKRS1:
+    branch: null
+    city: SEOUL
+    institution: FITCH RATINGS LTD (KOREA BRANCH)
+  GSALKRSE:
+    branch: null
+    city: SEOUL
+    institution: GOLDMAN SACHS (ASIA) L.L.C. SEOUL BRANCH
+  GSIBKRSE:
+    branch: null
+    city: SEOUL
+    institution: GOLDMAN SACHS INTERNATIONAL BANK, SEOUL BRANCH
+  HAFVKRS1:
+    branch: null
+    city: SEOUL
+    institution: HANA FINANCIAL INVESTMENT CO., LTD.
+  HAFVKRS3:
+    branch: null
+    city: SEOUL
+    institution: HANA FINANCIAL INVESTMENT CO., LTD.
+  HAITKRS1:
+    branch: null
+    city: SEOUL
+    institution: HANWHA INVESTMENT TRUST MANAGEMENT
+  HANEKRS1:
+    branch: null
+    city: SEOUL
+    institution: HANIL SECURITIES CO. LTD
+  HASNKRS1:
+    branch: null
+    city: SEOUL
+    institution: HANMAG SECURITIES CORPORATION
+  HAYSKRS1:
+    branch: null
+    city: SEOUL
+    institution: HAN YANG SECURITY CO. LTD.
+  HEKOKRS1:
+    branch: null
+    city: SEOUL
+    institution: HEWLETT-PACKARD KOREA LTD.
+  HESTKRS1:
+    branch: null
+    city: SEOUL
+    institution: HEUNGKUK SECURITIES
+  HIFKKRSE:
+    branch: null
+    city: SEOUL
+    institution: HSBC FUND SERVICES (KOREA) LIMITED
+  HISOKRS1:
+    branch: null
+    city: SEOUL
+    institution: KB INVESTMENT AND SECURITIES CO., LTD.
+  HJCEKRS1:
+    branch: null
+    city: SEOUL
+    institution: THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED
+  HNISKRS1:
+    branch: null
+    city: SEOUL
+    institution: NH INVESTMENT AND SECURITIES CO.,LTD
+  HNSEKRS1:
+    branch: null
+    city: SEOUL
+    institution: HANSHIN SECURITIES CO. LTD.
+  HNWSKRS1:
+    branch: null
+    city: SEOUL
+    institution: HANWHA SECURITIES SEOUL
+  HSBCKRSE:
+    branch: null
+    city: SEOUL
+    institution: THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH
+  HSBCKRSEBSN:
+    branch: (BUSAN BRANCH)
+    city: BUSAN
+    institution: THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH
+  HSBCKRSECLS:
+    branch: null
+    city: SEOUL
+    institution: THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH
+  HSECKRS1:
+    branch: null
+    city: SEOUL
+    institution: HANYANG SECURITIES CO. LTD.
+  HVBKKRSE:
+    branch: null
+    city: SEOUL
+    institution: WOORI BANK, SEOUL
+  HWLIKRSE:
+    branch: null
+    city: SEOUL
+    institution: HANWHA LIFE INSURANCE
+  HYAMKRS1:
+    branch: null
+    city: SEOUL
+    institution: HYUNDAI ASSET MANAGEMENT
+  HYMOKRSE:
+    branch: null
+    city: SEOUL
+    institution: HYUNDAI MOBIS, CO., LTD.
+  HYSEKRSE:
+    branch: null
+    city: SEOUL
+    institution: KB SECURITIES CO., LTD.
+  IBKOKRSE:
+    branch: (HEAD OFFICE SEOUL)
+    city: SEOUL
+    institution: INDUSTRIAL BANK OF KOREA
+  IBKSKRS1:
+    branch: null
+    city: SEOUL
+    institution: IBK SECURITIES CO., LTD.
+  ICBKKRSE:
+    branch: null
+    city: SEOUL
+    institution: INDUSTRIAL AND COMMERCIAL BANK OF CHINA SEOUL BRANCH
+  INGBKRSE:
+    branch: null
+    city: SEOUL
+    institution: ING BANK N.V.
+  INGBKRSS:
+    branch: null
+    city: SEOUL
+    institution: ING BANK N.V., SEOUL SECURITIES
+  IOBAKRSE:
+    branch: null
+    city: SEOUL
+    institution: INDIAN OVERSEAS BANK, SEOUL BRANCH
+  IRVTKRSX:
+    branch: null
+    city: SEOUL
+    institution: THE BANK OF NEW YORK MELLON, SEOUL BRANCH
+  JEONKRS1022:
+    branch: null
+    city: JEONJU
+    institution: JEONBUK BANK
+  JEONKRSE:
+    branch: null
+    city: SEOUL
+    institution: JEONBUK BANK
+  JEONKRSECLS:
+    branch: (CLS DIVISION)
+    city: SEOUL
+    institution: JEONBUK BANK
+  JHSWKRS1:
+    branch: null
+    city: SEOUL
+    institution: J. HENRY SCHRODER WAGG AND CO LTD
+  JJBKKR22:
+    branch: null
+    city: JEJU
+    institution: JEJU BANK
+  JMSAKRS1:
+    branch: null
+    city: SEOUL
+    institution: J.P. MORGAN SECURITIES ASIA LTD
+  KAIGKRS1:
+    branch: null
+    city: SEOUL
+    institution: KYOBO AXA INVESTMENT MANAGERS CO., LTD.
+  KBAMKRS1:
+    branch: null
+    city: SEOUL
+    institution: KB ASSET MANAGEMENT
+  KBSSKRS1:
+    branch: null
+    city: SEOUL
+    institution: CITIGROUP GLOBAL MARKETS KOREA SECURITIES LIMITED
+  KCGCKRSE:
+    branch: null
+    city: SEOUL
+    institution: CONSTRUCTION GUARANTEE COOPERATIVE
+  KDAMKRS1:
+    branch: null
+    city: SEOUL
+    institution: KDB ASSET MANAGEMENT
+  KDBSKRS1:
+    branch: null
+    city: SEOUL
+    institution: KDB SECURITIES CO. LTD.
+  KEUNKR21:
+    branch: null
+    city: DAEGU
+    institution: KEIMYUNG UNIVERSITY
+  KEXIKRSE:
+    branch: null
+    city: SEOUL
+    institution: KOREA TRADE INSURANCE CORPORATION
+  KFBCKRSE:
+    branch: null
+    city: SEOUL
+    institution: MERITZ SECURITIES CO.,LTD
+  KFTCKRS1:
+    branch: null
+    city: SEOUL
+    institution: KOREA FINANCIAL TELECOMMUNICATIONS AND CLEARING INSTITUTE
+  KHMBKRSE:
+    branch: null
+    city: SEOUL
+    institution: WOORI INVESTMENT BANK
+  KISEKRSE:
+    branch: null
+    city: SEOUL
+    institution: KOREA INVESTMENT AND SECURITIES CO., LTD.
+  KITNKRS1:
+    branch: null
+    city: SEOUL
+    institution: KOREA INVESTMENT TRUST MANAGEMENT CO
+  KIWCKRS1:
+    branch: null
+    city: SEOUL
+    institution: KIWOOM SECURITIES CO,. LTD.
+  KIWSKRS1:
+    branch: null
+    city: SEOUL
+    institution: KIWOOM SECURITIES
+  KLBCKRS1:
+    branch: null
+    city: SEOUL
+    institution: KLEINWORT BENSON LTD
+  KLTEKRS1:
+    branch: null
+    city: SEOUL
+    institution: KOREA LONG TERM BANK SECURITIES
+  KODBKRSE:
+    branch: null
+    city: SEOUL
+    institution: KOREA DEVELOPMENT BANK, THE
+  KODBKRSE001:
+    branch: (INTERNATIONAL DEPARTMENT)
+    city: SEOUL
+    institution: KOREA DEVELOPMENT BANK, THE
+  KOEXKRSE:
+    branch: null
+    city: SEOUL
+    institution: KEB HANA BANK
+  KOEXKRSECLS:
+    branch: (CLS CONTROL DESK)
+    city: SEOUL
+    institution: KEB HANA BANK
+  KOEXKRSEFCL:
+    branch: (KOREA EXCHANGE BANK FCL DIVISION)
+    city: SEOUL
+    institution: KEB HANA BANK
+  KOEXKRSEFCN:
+    branch: (KOREA EXCHANGE BANK FCN DIVISION)
+    city: SEOUL
+    institution: KEB HANA BANK
+  KOPOKRS1:
+    branch: null
+    city: SEOUL
+    institution: THE KOREA POST
+  KORXKR21:
+    branch: null
+    city: BUSAN
+    institution: KOREA EXCHANGE
+  KOSFKRS1:
+    branch: null
+    city: SEOUL
+    institution: KOREA SECURITIES FINANCE CORPORATION (KSFC)
+  KSDCKRSE:
+    branch: null
+    city: SEOUL
+    institution: KOREA SECURITIES DEPOSITORY
+  KSDCKRSEFOT:
+    branch: (FUNDOPERATIOM TEAM)
+    city: SEOUL
+    institution: KOREA SECURITIES DEPOSITORY
+  KSDCKRSEFUN:
+    branch: (FUND SETTLEMENT TEAM)
+    city: SEOUL
+    institution: KOREA SECURITIES DEPOSITORY
+  KSDCKRSEKDR:
+    branch: (KDR TEAM)
+    city: SEOUL
+    institution: KOREA SECURITIES DEPOSITORY
+  KSDCKRSESLB:
+    branch: (SECURITIES LENDING AND BORROWING)
+    city: SEOUL
+    institution: KOREA SECURITIES DEPOSITORY
+  KSGIKRSE:
+    branch: null
+    city: SEOUL
+    institution: SEOUL GUARANTEE INSURANCE COMPANY
+  KTAMKRS1:
+    branch: null
+    city: SEOUL
+    institution: KTB ASSET MANAGEMENT
+  KWABKRSE:
+    branch: null
+    city: SEOUL
+    institution: KWANGJU BANK LTD, THE
+  KYBOKRSE:
+    branch: null
+    city: SEOUL
+    institution: KYOBO LIFE INSURANCE CO., LTD.
+  KYNAKR22:
+    branch: null
+    city: CHANGWON
+    institution: KYONGNAM BANK
+  KYNAKR22ITL:
+    branch: (INTERNATIONAL DEPARTMENT SEOUL)
+    city: SEOUL
+    institution: KYONGNAM BANK
+  KYOBKRS1:
+    branch: null
+    city: SEOUL
+    institution: KYOBO SECURITIES CO., LTD.
+  LADMKR22:
+    branch: null
+    city: UIWANG-SI
+    institution: LOTTE ADVANCED MATERIALS CO. LTD.
+  LDFSKRSE:
+    branch: null
+    city: SEOUL
+    institution: HOTEL LOTTE CO.,LTD. (DUTY FREE)
+  LGCNKRS1:
+    branch: null
+    city: SEOUL
+    institution: LG CNS CO.,LTD
+  LGDTKRSE:
+    branch: null
+    city: SEOUL
+    institution: LG DISPLAY
+  LGETKRSE:
+    branch: null
+    city: SEOUL
+    institution: LG ELECTRONICS INC.
+  LISCKRS1:
+    branch: null
+    city: SEOUL
+    institution: LEADING INVESTMENT AND SECURITIES C O., LTD
+  LOYDKRS1:
+    branch: null
+    city: SEOUL
+    institution: LLOYDS BANK PLC
+  LTCHKRSE:
+    branch: null
+    city: SEOUL
+    institution: LOTTE CHEMICAL CORPORATION
+  LUSEKRS1:
+    branch: null
+    city: SEOUL
+    institution: LUCKY SECURITIES CO. LTD.
+  MACQKRSE:
+    branch: null
+    city: SEOUL
+    institution: MACQUARIE BANK LIMITED, SEOUL BRANCH
+  MALSKRS1:
+    branch: null
+    city: SEOUL
+    institution: MIRAE ASSET MAPS GLOBAL INVESTMENTS
+  MAONKRS1:
+    branch: null
+    city: SEOUL
+    institution: MIRAE ASSET GLOBAL INVESTMENTS
+  MAVAKRS1:
+    branch: null
+    city: SEOUL
+    institution: MIRAE ASSET INVESTMENT MANAGEMENT CO LTD.
+  MBFKKRSE:
+    branch: null
+    city: SEOUL
+    institution: MERCEDES-BENZ FINANCIAL SERVICES KOREA LTD.
+  MBKRKRSE:
+    branch: null
+    city: SEOUL
+    institution: MERCEDES-BENZ KOREA LIMITED
+  MBTCKRSE:
+    branch: null
+    city: SEOUL
+    institution: METROPOLITAN BANK AND TRUST COMPANY
+  MEEMKRS1:
+    branch: null
+    city: SEOUL
+    institution: MERITZ ASSET MANAGEMENT
+  MGCOKRS1:
+    branch: null
+    city: SEOUL
+    institution: MORGAN GRENFELL
+  MHCBKRSE:
+    branch: null
+    city: SEOUL
+    institution: MIZUHO BANK, LTD., SEOUL BRANCH
+  MIAEKRSE:
+    branch: null
+    city: SEOUL
+    institution: MIRAE ASSET DAEWOO CO., LTD.
+  MLCOKRS1:
+    branch: null
+    city: SEOUL
+    institution: MERRILL LYNCH AND COMPANY INC.
+  MLKRKRS1:
+    branch: null
+    city: SEOUL
+    institution: MERRILL LYNCH INTERNATIONAL, SEOUL OFFICE
+  MLKRKRSE:
+    branch: null
+    city: SEOUL
+    institution: MERRILL LYNCH INTERNATIONAL LLC, SEOUL BRANCH
+  MRFSKRSE:
+    branch: null
+    city: SEOUL
+    institution: MIRAE ASSET FUND SERVICES
+  MSBKKRSE:
+    branch: null
+    city: SEOUL
+    institution: MORGAN STANLEY BANK INTERNATIONAL LIMITED, SEOUL BRANCH
+  MSKRKRSX:
+    branch: null
+    city: SEOUL
+    institution: MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH
+  MSKRKRSXGPR:
+    branch: (GLOBAL PAYROLL)
+    city: SEOUL
+    institution: MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH
+  MSKRKRSXTSY:
+    branch: null
+    city: SEOUL
+    institution: MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH
+  MSNYKRS1:
+    branch: null
+    city: SEOUL
+    institution: MORGAN STANLEY AND CO INC.
+  NACEKRS1:
+    branch: null
+    city: SEOUL
+    institution: NATIONAL AGRICUTURAL COOPERATIVE FEDERATION
+  NACFKRSE:
+    branch: null
+    city: SEOUL
+    institution: NONGHYUP BANK (FORMERLY KNOWN AS NATIONAL AGRICULTURAL COOPERATIVE
+      FEDERATION)
+  NACIKRS1:
+    branch: null
+    city: SEOUL
+    institution: NACFCA ITMC
+  NBPAKRSI:
+    branch: null
+    city: SEOUL
+    institution: NATIONAL BANK OF PAKISTAN, SEOUL BRANCH KOREA
+  NFFCKRSE:
+    branch: null
+    city: SEOUL
+    institution: SUHYUP BANK
+  NFIKKRSE:
+    branch: null
+    city: SEOUL
+    institution: NOMURA FINANCIAL INVESTMENT (KOREA) CO., LTD.
+  NHAMKRS1:
+    branch: null
+    city: SEOUL
+    institution: NH-CA ASSET MANAGEMENT
+  NIKEKRS1:
+    branch: null
+    city: SEOUL
+    institution: NIKE SPORTS KOREA CO., LTD.
+  NINPKRSE:
+    branch: null
+    city: SEOUL
+    institution: E9PAY CO. LTD
+  NJSCKRS1:
+    branch: null
+    city: SEOUL
+    institution: NEW JAPAN SECURITIES CO LTD
+  NOSCKRSE:
+    branch: null
+    city: SEOUL
+    institution: BANK OF NOVA SCOTIA, THE, SEOUL BRANCH
+  NPSFKRS1:
+    branch: null
+    city: SEOUL
+    institution: NATIONAL PENSION SERVICE FUND MANAGEMENT CENTER MANAGEMENT CENTER
+  OCBCKRSE:
+    branch: null
+    city: SEOUL
+    institution: OVERSEA-CHINESE BANKING COPORATION LIMITED, SEOUL BRANCH
+  PAPFKRSE:
+    branch: null
+    city: SEOUL
+    institution: PAN-PACIFIC CO., LTD.
+  PBSIKRS1:
+    branch: null
+    city: SEOUL
+    institution: PRUDENTIAL SECURITIES INC.
+  PCBCKRSE:
+    branch: null
+    city: SEOUL
+    institution: CHINA CONSTRUCTION BANK SEOUL BRANCH
+  PCORKRSS:
+    branch: null
+    city: SEOUL
+    institution: PAYGATE CO., LTD.
+  PNBPKRSX:
+    branch: null
+    city: SEOUL
+    institution: WELLS FARGO BANK, N.A., SEOUL BRANCH
+  PUSBKR2P:
+    branch: null
+    city: BUSAN
+    institution: BUSAN BANK
+  PUSBKR2PINT:
+    branch: (INTERNATIONAL DEPARTMENT SEOUL)
+    city: SEOUL
+    institution: BUSAN BANK
+  PUSBKR2PMAS:
+    branch: (MASAN BRANCH)
+    city: MASAN
+    institution: BUSAN BANK
+  PUSBKR2PSEL:
+    branch: (SEOUL BRANCH)
+    city: SEOUL
+    institution: BUSAN BANK
+  SAMCKRS1:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG SECURITIES CO.,LTD.
+  SAMCKRS1DER:
+    branch: (DERIVATES SALES TEAM)
+    city: SEOUL
+    institution: SAMSUNG SECURITIES CO.,LTD.
+  SAMCKRS1PRT:
+    branch: (PROPRIETARY TRADING)
+    city: SEOUL
+    institution: SAMSUNG SECURITIES CO.,LTD.
+  SAMCKRSL:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG SECURITIES CO.,LTD
+  SANSKRS1:
+    branch: null
+    city: SEOUL
+    institution: KFB SECURITIES CO. LTD.
+  SBINKRSE:
+    branch: null
+    city: SEOUL
+    institution: STATE BANK OF INDIA
+  SBOSKRSE:
+    branch: null
+    city: SEOUL
+    institution: STATE STREET BANK AND TRUST COMPANY, KOREA BRANCH
+  SBPAKRS1:
+    branch: null
+    city: SEOUL
+    institution: SHINAN BNP PARIBAS ASSET MANAGEMENT CO., LTD.
+  SCBLKRSE:
+    branch: null
+    city: SEOUL
+    institution: STANDARD CHARTERED BANK KOREA LIMITED
+  SCBLKRSEEQI:
+    branch: (CUSTODIAL SERVICES DEPARTMENT)
+    city: SEOUL
+    institution: STANDARD CHARTERED BANK KOREA LIMITED
+  SCKRKRS1:
+    branch: null
+    city: SEOUL
+    institution: STANDARD CHARTERED SECURITIES KOREA LIMITED
+  SCNTKRSE:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG C AND T CORPORATION
+  SCNTKRST:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG C AND T CORPORATION TRADING AND INVESTMENT
+  SECTKRSE:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG ELECTRONICS CO., LTD.
+  SEMTKR22:
+    branch: null
+    city: SUWON-SI
+    institution: SAMSUNG ELECTRO-MECHANICS CO., LTD
+  SEOSKRS1:
+    branch: null
+    city: SEOUL
+    institution: EUGENE INVESTMENT AND SECURITIES CO.,LTD.
+  SFMIKRSE:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG FIRE AND MARINE INSURANCE CO., LTD
+  SGSEKRS1:
+    branch: null
+    city: SEOUL
+    institution: SG SECURITIES KOREA CO LTD
+  SGSEKRSL:
+    branch: null
+    city: SEOUL
+    institution: SG SECURITIES KOREA CO., LTD.
+  SHBKKRSE:
+    branch: null
+    city: SEOUL
+    institution: SHINHAN BANK
+  SHBKKRSECLS:
+    branch: null
+    city: SEOUL
+    institution: SHINHAN BANK
+  SHBKKRSECUS:
+    branch: null
+    city: SEOUL
+    institution: SHINHAN BANK
+  SHBKKRSEKPO:
+    branch: (KOREA POST OFFICE)
+    city: SEOUL
+    institution: SHINHAN BANK
+  SHBKKRSETST:
+    branch: (TST)
+    city: SEOUL
+    institution: SHINHAN BANK
+  SHFAKRSE:
+    branch: null
+    city: SEOUL
+    institution: SHINHAN AITAS CO., LTD.
+  SHHEKRS1:
+    branch: null
+    city: SEOUL
+    institution: HMC INVESTMENT SECURITIES CO., LTD.
+  SHHSKRS1:
+    branch: null
+    city: SEOUL
+    institution: SHIN HAN SECURITIES CO. LTD.
+  SHLBKRS1:
+    branch: null
+    city: SEOUL
+    institution: SHEARSON LEHMAN BROTHERS
+  SHSEKRS1:
+    branch: null
+    city: SEOUL
+    institution: SHINYOUNG SECURITIES CO. LTD.
+  SITAKRS1:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG ASSET MANAGEMENT CO., LTD.
+  SITAKRS2:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG ASSET MANAGEMENT CO.,LTD.
+  SKSEKRS1:
+    branch: null
+    city: SEOUL
+    institution: SK SECURITIES CO., LTD
+  SMBCKRSE:
+    branch: null
+    city: SEOUL
+    institution: SUMITOMO MITSUI BANKING CORPORATION
+  SMSGKRSE:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG ENGINEERING CO., LTD
+  SOGEKRSE:
+    branch: null
+    city: SEOUL
+    institution: SOCIETE GENERALE, SEOUL BRANCH
+  SOLAKRSE:
+    branch: null
+    city: SEOUL
+    institution: LANDESBANK BADEN-WUERTTEMBERG, SEOUL
+  SSDIKR22:
+    branch: null
+    city: YONGIN-SI
+    institution: SAMSUNG SDI CO.,LTD.
+  SSDSKRSE:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG SDS CO., LTD.
+  SSHIKRSE:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG HEAVY INDUSTRIES
+  SSISKRS1:
+    branch: null
+    city: SEOUL
+    institution: SHINHAN INVESTMENT CORP.
+  SSISKRS1BKO:
+    branch: (BACK OFFICE)
+    city: SEOUL
+    institution: SHINHAN INVESTMENT CORP.
+  SSISKRS1GEB:
+    branch: (GENERAL)
+    city: SEOUL
+    institution: SHINHAN INVESTMENT CORP.
+  SSISKRS1MGT:
+    branch: (MANAGEMENT)
+    city: SEOUL
+    institution: SHINHAN INVESTMENT CORP.
+  SSISKRSS:
+    branch: null
+    city: SEOUL
+    institution: SHINHAN INVESTMENT CORP.
+  SSLIKRSE:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG LIFE INSURANCE CO., LTD
+  SSTWKR22:
+    branch: null
+    city: SEONGNAM
+    institution: SAMSUNG TECHWIN CO., LTD.
+  SWEIKRSE:
+    branch: null
+    city: SEOUL
+    institution: SAMSUNG WELSTORY INCORPORATED
+  TOYIKRS1:
+    branch: null
+    city: SEOUL
+    institution: TONG YANG INVESTMENT TRUST MANAGEMENT
+  TRTMKRS1:
+    branch: null
+    city: SEOUL
+    institution: TRUSTON ASSET MANAGEMENT
+  TYAMKRS1:
+    branch: null
+    city: SEOUL
+    institution: TONG YANG ASSET MANAGEMENT CORP.
+  TYITKRS1:
+    branch: null
+    city: SEOUL
+    institution: TONG YANG INVESTMENT TRUST MANAGEMENT COMPANY
+  TYMBKRSE:
+    branch: null
+    city: SEOUL
+    institution: YUANTA SECURITIES KOREA CO.,LTD
+  TYSEKRS1:
+    branch: null
+    city: SEOUL
+    institution: TONG YANG INVESTMENT BANK
+  UBAFKRSX:
+    branch: null
+    city: SEOUL
+    institution: U.B.A.F.-UNION DE BANQUES ARABES ET FRANCAISES
+  UBSWKRSE:
+    branch: null
+    city: SEOUL
+    institution: UBS AG SEOUL BRANCH
+  UOVBKRSE:
+    branch: null
+    city: SEOUL
+    institution: UNITED OVERSEAS BANK LIMITED, SEOUL BRANCH
+  WAREKRS1:
+    branch: (SEOUL BRANCH)
+    city: SEOUL
+    institution: UBS SECURITIES PTE. LTD. SEOUL BRANCH
+  WICAKRS1:
+    branch: null
+    city: SEOUL
+    institution: W.I. CARR (FAR EAST) LIMITED
+  WISHKRSE:
+    branch: null
+    city: SEOUL
+    institution: NH INVESTMENT AND SECURITIES CO.,LTD.
+  YMBKKR2P:
+    branch: null
+    city: PUSAN
+    institution: YAMAGUCHI BANK, LTD., THE, BUSAN BRANCH

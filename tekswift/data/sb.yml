@@ -1,0 +1,26 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ANZBSBSB:
+    branch: null
+    city: HONIARA
+    institution: AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED
+  BATSSBA1:
+    branch: null
+    city: HONIARA
+    institution: SOLOMON ISLANDS TOBACCO COMPANY LIMITED
+  BOSPSBSB:
+    branch: null
+    city: HONIARA
+    institution: BANK OF SOUTH PACIFIC LIMITED
+  BREDSBSB:
+    branch: null
+    city: HONIARA
+    institution: BRED BANK SOLOMON
+  CBSISBSB:
+    branch: null
+    city: HONIARA
+    institution: CENTRAL BANK OF SOLOMON ISLANDS
+  POBBSBSB:
+    branch: null
+    city: HONIARA
+    institution: PAN OCEANIC BANK LIMITED

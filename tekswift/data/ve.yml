@@ -1,0 +1,385 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ACONVEC1:
+    branch: null
+    city: CARACAS
+    institution: ARRENDADORA CONSOLIDADO
+  ACTIVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO ACTIVO, C.A. BANCO UNIVERSAL
+  AORIVEC1:
+    branch: null
+    city: CARACAS
+    institution: ARRENDADORA DEL ORINOCO, CA
+  ARAFVEC1:
+    branch: null
+    city: CARACAS
+    institution: ARAVEN FINANCE LTD.
+  ARBZVEC1:
+    branch: null
+    city: CARACAS
+    institution: ARRENDADORA DE VENEZUELA BANVENEZ, SACA
+  ARPRVEC1:
+    branch: null
+    city: CARACAS
+    institution: ARRENDADORA PROVINCIAL
+  ASDCVEC1:
+    branch: null
+    city: CARACAS
+    institution: ACTIVALORES SOCIEDAD DE CORRETAJE S.A.,
+  BAMRVECA:
+    branch: null
+    city: CARACAS
+    institution: MERCANTIL C.A. BANCO UNIVERSAL
+  BAMTVEC1:
+    branch: null
+    city: CARACAS
+    institution: BAMERINVEST
+  BANFVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANCO FINANCIERO
+  BANFVEC1022:
+    branch: null
+    city: BARQUISIMETO
+    institution: BANCO FINANCIERO
+  BANFVEC102C:
+    branch: null
+    city: PUERTO LA CRUZ
+    institution: BANCO FINANCIERO
+  BANFVEC102M:
+    branch: null
+    city: MARACAIBO
+    institution: BANCO FINANCIERO
+  BANFVEC102P:
+    branch: null
+    city: PORLAMAR
+    institution: BANCO FINANCIERO
+  BAVEVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANCO AGRICOLA DE VENEZUELA, C.A. BANCO UNIVERSAL
+  BCBOVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANCARACAS CASA DE BOLSA, C.A.
+  BCEVVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO DE COMERCIO EXTERIOR
+  BCVEVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO CENTRAL DE VENEZUELA
+  BDAGVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANCO DE DESARROLLO AGROPECUARIO
+  BDTEVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO DEL TESORO, C.A. BANCO UNIVERSAL
+  BECUVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO DE EXPORTACION Y COMERCIO C.A.
+  BEHRVECA:
+    branch: null
+    city: CARACAS
+    institution: BANPLUS BANCO UNIVERSAL, C.A.
+  BESCVECA:
+    branch: null
+    city: CARACAS
+    institution: NOVO BANCO S.A. SUCURSAL VENEZUELA, BANCO UNIVERSAL
+  BEXTVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO EXTERIOR, C.A. BANCO UNIVERSAL
+  BFANVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO DE LA FUERZA ARMADA NACIONAL BOLIVARIANA, BANCO UNIVERSAL,
+      C.A. (BANFANB)
+  BFRAVE21:
+    branch: null
+    city: SAN CRISTOBAL
+    institution: BANCO DE FOMENTO REGIONAL LOS ANDES
+  BFRCVE21:
+    branch: null
+    city: CORO
+    institution: BANCO DE FOMENTO REGIONAL CORO, C.A.
+  BHARVEC1:
+    branch: null
+    city: MARACAY
+    institution: BANCO HIPOTECARIO DE ARAGUA
+  BHCOVEC1:
+    branch: null
+    city: CARACAS
+    institution: CORP HIPOTECARIO CA
+  BHVEVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANCO HIPOTECARIO VENEZOLANO, C.A.
+  BHVIVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANCO HIPOTECARIO DE LA VIVIENDA
+  BHZUVE21:
+    branch: null
+    city: MARACAIBO
+    institution: BANCO HIPOTECARIO DEL ZULIA C A
+  BIAPVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANCO INTERAMERICANO DE AHORRO Y PRESTAMO, S A
+  BMDCVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANEX MERCADO DE CAPITALES SA
+  BMIGVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCAMIGA BANCO MICROFINANCIERO
+  BNAPVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANCO NACIONAL DE AHORRO Y PRESTAMO
+  BNOVVE21:
+    branch: null
+    city: PUERTO LA CRUZ
+    institution: BANCO NOR-ORIENTAL DE VENEZUELA
+  BOCAVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANCO CANARIAS DE VENEZUELA C.A.
+  BODEVE2M:
+    branch: null
+    city: MARACAIBO
+    institution: BANCO OCCIDENTAL DE DESCUENTO BU C.A.
+  BODEVE2MCCS:
+    branch: (SUCURSAL CARACAS)
+    city: CARACAS
+    institution: BANCO OCCIDENTAL DE DESCUENTO BU C.A.
+  BPROVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO PROVINCIAL S.A. BANCO UNIVERSAL
+  BPROVECAMAR:
+    branch: null
+    city: MARACAIBO
+    institution: BANCO PROVINCIAL S.A. BANCO UNIVERSAL
+  BPROVECAPZO:
+    branch: null
+    city: PUERTO ORDAZ
+    institution: BANCO PROVINCIAL S.A. BANCO UNIVERSAL
+  BPROVECASUC:
+    branch: null
+    city: CARACAS
+    institution: BANCO PROVINCIAL S.A.
+  CAFCVECA:
+    branch: null
+    city: CARACAS
+    institution: CORPORACION ANDINA DE FOMENTO
+  CARBVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO DEL CARIBE C.A. BANCO UNIVERSAL
+  CAROVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO CARONI, C.A. BANCO UNIVERSAL
+  CAROVECA022:
+    branch: null
+    city: PUERTO ORDAZ
+    institution: BANCO CARONI, C.A. BANCO UNIVERSAL
+  CCERVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCRECER S.A. BANCO MICROFINANCIERO
+  CITIVEC102M:
+    branch: null
+    city: MARACAIBO
+    institution: CITIBANK N.A. SUCURSAL VENEZUELA
+  CITIVEC102V:
+    branch: null
+    city: VALENCIA
+    institution: CITIBANK N.A. SUCURSAL VENEZUELA
+  CITIVECA:
+    branch: null
+    city: CARACAS
+    institution: CITIBANK N.A. SUCURSAL VENEZUELA
+  CONDVECP:
+    branch: null
+    city: CARACAS
+    institution: BANCO BICENTENARIO DEL PUEBLO DE LA CLASE OBRERA, MUJER Y COMUNAS
+      BANCO UNIVERSAL
+  CVVCVEA1:
+    branch: null
+    city: CARACAS
+    institution: CAJA VENEZOLANA DE VALORES, S.A.
+  DSURVECP:
+    branch: null
+    city: PUERTO ORDAZ
+    institution: DEL SUR BANCO UNIVERSAL, C.A.
+  FIVAVEC1:
+    branch: null
+    city: CARACAS
+    institution: FINANCORP VALORES, C.A
+  FIVVVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO DE DESARROLLO ECONOMICO Y SOCIAL DE VENEZUELA
+  FNCOVECA:
+    branch: null
+    city: CARACAS
+    institution: 100 0/0 BANCO, BANCO UNIVERSAL, C.A.
+  FRIPVEC1:
+    branch: null
+    city: CARACAS
+    institution: FITCH VENEZUELA, SOCIEDAD CALIFICADORA DE RIESGO, S.A.
+  HBORVEC1:
+    branch: null
+    city: PUERTO ORDAZ
+    institution: BANCO HIPOTECARIO DEL ORINOCO, C.A
+  ICBOVEC1:
+    branch: null
+    city: CARACAS
+    institution: INVERCAPITAL CASA DE BOLSA C.A.
+  IMDCVEC1:
+    branch: null
+    city: CARACAS
+    institution: INTERACCIONES MERCADO DE CAPITALES S.A.
+  INDSVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO INDUSTRIAL DE VENEZUELA, C.A.
+  ITALVEB1:
+    branch: null
+    city: CARACAS
+    institution: ITALCAMBIO, C.A
+  ITALVECA:
+    branch: null
+    city: CARACAS
+    institution: ITALCAMBIO, C.A.
+  ITBUVEC1:
+    branch: null
+    city: CARACAS
+    institution: ITALBURSATIL CASA DE BOLSA, C.A.
+  LLBAVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO DEL ALBA
+  MMCBVECA:
+    branch: null
+    city: CARACAS
+    institution: MERCANTIL MERINVEST CASA DE BOLSA
+  MPPIVEC1:
+    branch: null
+    city: CARACAS
+    institution: MINISTRY OF THE POPULAR POWER FOR BANKING AND FINANCES PUBLIC CREDIT
+      NATIONAL BUREAU
+  MSDEVEC1:
+    branch: null
+    city: SAN BERNARDINO
+    institution: MERINVEST SOCIEDAD DE CORRETAJE C.A.
+  NCRTVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO NACIONAL DE CREDITO, C.A.
+  NCRTVECA001:
+    branch: (SUCURSAL 001)
+    city: CARACAS
+    institution: BANCO NACIONAL DE CREDITO, C.A.
+  PLZAVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO PLAZA
+  PRBAVEC1:
+    branch: null
+    city: CARACAS
+    institution: BANCO DE LA PROVINCIA DE BUENOS AIRES
+  PVALVEC1:
+    branch: null
+    city: CARACAS
+    institution: PROVINCIAL DE VALORES CASA DE BOLSA, C.A.
+  REPBVECA:
+    branch: null
+    city: CARACAS
+    institution: BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL
+  SFCRVEC1:
+    branch: null
+    city: CARACAS
+    institution: SOFICREDITO
+  SFOCVE21:
+    branch: null
+    city: MARACAIBO
+    institution: SOCIEDAD FINANCIERA DE OCCIDENTE
+  SFPRVEC1:
+    branch: null
+    city: CARACAS
+    institution: PROVINCIAL BANCO DE INVERSION, S.A.
+  SFTAVE22:
+    branch: null
+    city: SAN CRISTOBAL
+    institution: BANCO SOFITASA
+  SFVAVEC1:
+    branch: null
+    city: CARACAS
+    institution: SOCIEDAD FINANCIERA VALINVENCA
+  SFVEVEC1:
+    branch: null
+    city: CARACAS
+    institution: SOCIEDAD FINANCIERA DE VENEZUELA CA
+  SOFCVEC1:
+    branch: null
+    city: CARACAS
+    institution: SOCIEDAD FINANCIERA CONSOLIDADA
+  SOFCVEC102V:
+    branch: null
+    city: VALENCIA
+    institution: SOCIEDAD FINANCIERA CONSOLIDADA
+  SOMEVEC1:
+    branch: null
+    city: CARACAS
+    institution: SOFIMERCA CASA DE BOLSA, C.A.
+  TRBRVEC1:
+    branch: null
+    city: CARACAS
+    institution: TRADIMPEX BIENES RAICES C.A.
+  TSORVEC1:
+    branch: null
+    city: CARACAS
+    institution: MINISTERIO DEL PP PARA LA ECONOMIA Y FINANZAS
+  UNIOVECA:
+    branch: null
+    city: CARACAS
+    institution: BANESCO BANCO UNIVERSAL C.A.
+  VALKVEC1:
+    branch: null
+    city: CARACAS
+    institution: VALINBANK
+  VAVEVEC1:
+    branch: null
+    city: CARACAS
+    institution: VALORES VENCRED SA
+  VECOVEC1:
+    branch: null
+    city: CARACAS
+    institution: VESTCORPARTNERS C.A.
+  VSCCVEC1:
+    branch: null
+    city: CARACAS
+    institution: VALORES SANTANDER CASA DE CORRETAJE
+  VZCRVECA:
+    branch: null
+    city: CARACAS
+    institution: VENEZOLANO DE CREDITO, S.A. BANCO UNIVERSAL
+  VZLAVECA:
+    branch: null
+    city: CARACAS
+    institution: BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL
+  XCARVEC1:
+    branch: null
+    city: CARACAS
+    institution: CARACAS STOCK EXCHANGE

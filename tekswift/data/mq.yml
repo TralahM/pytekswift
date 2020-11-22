@@ -1,0 +1,51 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  AGRIMQMX:
+    branch: null
+    city: FORT DE FRANCE
+    institution: CREDIT AGRICOLE
+  AGRIMQMXLEL:
+    branch: null
+    city: LE LAMENTIN
+    institution: CREDIT AGRICOLE
+  BNPAMQMX:
+    branch: null
+    city: FORT DE FRANCE
+    institution: BANQUE NATIONALE DE PARIS SUCCURSALE DE FORT DE FRANCE
+  CAEQMQM1:
+    branch: null
+    city: FORT DE FRANCE
+    institution: CAISSE EPARGNE MARTINIQUE
+  CCNGMQM1:
+    branch: null
+    city: FORT DE FRANCE
+    institution: C.C.P.B ANTILLE GUYANE
+  CERIMQM1:
+    branch: null
+    city: FORT DE FRANCE
+    institution: CAISSE EPARGNE PREVOYANCE MARTINIQUE
+  CGRLMQM1:
+    branch: null
+    city: LE LAMENTIN
+    institution: CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE LA MARTINIQUE ET DE
+      LA GUYANE
+  CMCIMQM1:
+    branch: null
+    city: FORT DE FRANCE
+    institution: CREDIT MUTUEL-CAISSE FEDERALE ANTILLES GUYANE
+  GBHAMQMM:
+    branch: null
+    city: LE LAMENTIN
+    institution: GROUPE BERNARD HAYOT
+  SMFSMQM1:
+    branch: null
+    city: LE LAMENTIN
+    institution: SOCIETE MARTINIQUAISE DE FINT-SOMAFI
+  SOAIMQM1:
+    branch: null
+    city: FORT DE FRANCE
+    institution: SOFIAG
+  SOGEMQM1:
+    branch: null
+    city: FORT DE FRANCE
+    institution: SOCIETE GENERALE DE BANQUE AUX ANTILLES

@@ -1,0 +1,6599 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  ABOCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: AGRICULTURAL BANK OF CHINA (MOSCOW) LIMITED
+  ABSLRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ABSOLUT BANK
+  ADAMRU81:
+    branch: null
+    city: VLADIKAVKAZ
+    institution: ONEBANK
+  AEGBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: AMERICAN EXPRESS BANK LLC
+  AGCORUMM:
+    branch: null
+    city: MOSCOW
+    institution: JOINT-STOCK COMMERCIAL BANK AGROPROMCREDIT
+  AGHIRUM1:
+    branch: null
+    city: MOSCOW
+    institution: AGROKHIM BANK
+  AGRYRUM1:
+    branch: null
+    city: MOSCOW
+    institution: AGROSOYUZ BANK
+  AGSZRU31ORB:
+    branch: (ORENBURG BRANCH)
+    city: ORENBURG
+    institution: AGROSOYUZ BANK
+  AGSZRU31SPB:
+    branch: (ST.PETERBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: AGROSOYUZ BANK
+  AGSZRU33:
+    branch: null
+    city: MOSCOW
+    institution: AGROSOYUZ BANK
+  AGZARUM1:
+    branch: null
+    city: SARATOV
+    institution: BANK 'AGROROS' ZAO
+  AJICRU81:
+    branch: null
+    city: BLAGOVESHCHENSK
+    institution: ASIA-PACIFIC BANK AO
+  AJSCRU55:
+    branch: null
+    city: NOVOSIBIRSK
+    institution: BANK ACCEPT JSC
+  AKBVRU21:
+    branch: null
+    city: VOLGOGRAD
+    institution: AKB VOLGO-DON BANK
+  AKCARU21:
+    branch: null
+    city: ALMETYEVSK
+    institution: AKTSIONEMY, JOINT-STOCK PUBLIC COMPANY
+  AKKORU51:
+    branch: null
+    city: SURGUT
+    institution: AKKOBANK OAO
+  AKOARU22:
+    branch: null
+    city: NABEREZHNYE CHELNY
+    institution: PJSC AKIBANK
+  AKSORU2K:
+    branch: null
+    city: KOSTROMA
+    institution: LLC CB 'AKSONBANK'
+  AKTVRU21:
+    branch: null
+    city: SARANSK
+    institution: AKTIV BANK
+  ALALRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ALJBA ALLIANCE
+  ALCPRUM1:
+    branch: null
+    city: MOSCOW
+    institution: ALFA CAPITAL
+  ALEFRUM1001:
+    branch: (KURGANSKII)
+    city: KURGAN
+    institution: ALEF-BANK
+  ALEFRUM1002:
+    branch: (LEBEDYANSKII )
+    city: LEBEDYAN'
+    institution: ALEF-BANK
+  ALEFRUM1003:
+    branch: (LYSVA)
+    city: LYSVA
+    institution: ALEF-BANK
+  ALEFRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ALEF-BANK
+  ALFARUM1001:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: ALFA-BANK
+  ALFARUM1002:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: ALFA-BANK
+  ALFARUM1006:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: ALFA-BANK
+  ALFARUM1015:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: ALFA-BANK
+  ALFARUM1018:
+    branch: (ROSTOV BRANCH)
+    city: ROSTOV-ON-DON
+    institution: ALFA-BANK
+  ALFARUM1020:
+    branch: (KHABAROVSK BRANCH)
+    city: KHABAROVSK
+    institution: ALFA-BANK
+  ALFARUM1037:
+    branch: null
+    city: STAVROPOL
+    institution: ALFA-BANK
+  ALFARUMM:
+    branch: null
+    city: MOSCOW
+    institution: ALFA-BANK
+  ALILRUMM:
+    branch: null
+    city: MOSCOW
+    institution: RENAISSANCE CREDIT COMMERCIAL BANK OOO
+  ALMZRU8Y:
+    branch: null
+    city: YAKUTSK
+    institution: ALMAZERGIENBANK
+  ALNORUM1:
+    branch: null
+    city: MOSCOW
+    institution: CB ALTERNATIVA
+  ALOORU51:
+    branch: null
+    city: BARNAUL
+    institution: OOO KB 'ALTAYKAPITALBANK'
+  AMOORUM1:
+    branch: null
+    city: MOSCOW
+    institution: SOCIUM-BANK (LIMITED LIABILITY COMPANY)
+  ANDJRU21:
+    branch: null
+    city: MAKHACHKALA
+    institution: ANDJIBANK
+  APABRUMM:
+    branch: null
+    city: MOSCOW
+    institution: APABANK
+  ARBORUM1:
+    branch: null
+    city: MOSCOW
+    institution: ARBAT BANK COMMERCIAL BANK LTD.
+  ARESRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ARESBANK
+  ARRSRU21ALM:
+    branch: (ALMETYEVSK BRANCH)
+    city: ALMETYEVSK
+    institution: AK BARS BANK
+  ARRSRU21CHS:
+    branch: (CHISTOPOL BRANCH)
+    city: CHISTOPOL
+    institution: AK BARS BANK
+  ARRSRU21EKA:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: AK BARS BANK
+  ARRSRU21ELA:
+    branch: (ELABUGA BRANCH)
+    city: ELABUGA
+    institution: AK BARS BANK
+  ARRSRU21IZH:
+    branch: (IZHEVSK BRANCH)
+    city: IZHEVSK
+    institution: AK BARS BANK
+  ARRSRU21KAZ:
+    branch: (KAZAN BRANCH)
+    city: KAZAN
+    institution: AK BARS BANK
+  ARRSRU21KRD:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: AK BARS BANK
+  ARRSRU21MOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: AK BARS BANK
+  ARRSRU21NAB:
+    branch: (NABEREZHNYYE CHELNY BRANCH)
+    city: NABEREZHNYE CHELNY
+    institution: AK BARS BANK
+  ARRSRU21NKM:
+    branch: (NIZHNEKAMSK BRANCH - INTERKAMA)
+    city: NIZHNEKAMSK
+    institution: AK BARS BANK
+  ARRSRU21NNG:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: AK BARS BANK
+  ARRSRU21NSB:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: AK BARS BANK
+  ARRSRU21SPB:
+    branch: (SEVERO-ZAPADNY  BRANCH)
+    city: ST. PETERSBURG
+    institution: AK BARS BANK
+  ARRSRU21UFA:
+    branch: (UFA BRANCH)
+    city: UFA
+    institution: AK BARS BANK
+  ARRSRU21ZEL:
+    branch: (ZELENODOLSK BRANCH)
+    city: ZELENODOLSK
+    institution: AK BARS BANK
+  ARRSRU2K:
+    branch: null
+    city: KAZAN
+    institution: AK BARS BANK
+  ASANRU8X:
+    branch: null
+    city: BLAGOVESHCHENSK
+    institution: ASIAN-PACIFIC BANK
+  ASIJRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ASIA-INVEST BANK JSC
+  ASKORU21:
+    branch: null
+    city: SMOLENSK
+    institution: ASKOLD BANK OAO
+  ASOJRU2N:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: ASSOTSIATSIYA BANK
+  ASPTRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSB ASPECT BANK
+  ATBTRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ATB BANK
+  ATCGRUM1:
+    branch: null
+    city: MOSCOW
+    institution: OOO ATOH
+  ATIMRUM1:
+    branch: null
+    city: MOSCOW
+    institution: ATON INVESTMENT COMPANY
+  ATONRUM1:
+    branch: null
+    city: MOSCOW
+    institution: ATON
+  AVBKRU31CHE:
+    branch: (CHEBOKSARY OPERATING OFFICE)
+    city: CHEBOKSARY
+    institution: AVTOVAZBANK JOINT-STOCK COMPANY
+  AVBKRU31CHL:
+    branch: (REPRESENTATIVE OFFICE)
+    city: NABEREZHNYE CHELNY
+    institution: AVTOVAZBANK JOINT-STOCK COMPANY
+  AVBKRU31DIM:
+    branch: (DIMITROVGRAD OPERATING OFFICE)
+    city: DIMITROVGRAD
+    institution: AVTOVAZBANK JOINT-STOCK COMPANY
+  AVBKRU31GEO:
+    branch: (GEORGIEVSKIJ BRANCH)
+    city: SAMARA
+    institution: AVTOVAZBANK JOINT-STOCK COMPANY
+  AVBKRU31MOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: AVTOVAZBANK JOINT-STOCK COMPANY
+  AVBKRU31ORN:
+    branch: (ORENBURG OPERATING OFFICE)
+    city: ORENBURG
+    institution: AVTOVAZBANK JOINT-STOCK COMPANY
+  AVBKRU31SAM:
+    branch: (SAMARA OPERATING OFFICE)
+    city: SAMARA
+    institution: AVTOVAZBANK JOINT-STOCK COMPANY
+  AVBKRU31SIA:
+    branch: (SYZRAN OPERATING OFFICE)
+    city: SYZRAN
+    institution: AVTOVAZBANK JOINT-STOCK COMPANY
+  AVBKRU31ULN:
+    branch: (ULYANOVSK BRANCH)
+    city: ULYANOVSK
+    institution: AVTOVAZBANK JOINT-STOCK COMPANY
+  AVBKRU3T:
+    branch: (HEAD OFFICE)
+    city: TOGLIATTI
+    institution: AVTOVAZBANK JOINT-STOCK COMPANY
+  AVGRRU22:
+    branch: null
+    city: NABEREZHNYE CHELNY
+    institution: AVTOGRADBANK
+  AVJSRUMM:
+    branch: null
+    city: MOSCOW
+    institution: AVANGARD BANK
+  AVTBRUM1002:
+    branch: (UFA BRANCH)
+    city: UFA
+    institution: URALSIB BANK
+  AVTBRUM1015:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: URALSIB BANK
+  AVTBRUM1021:
+    branch: (STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: URALSIB BANK
+  AVTBRUM1025:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: URALSIB BANK
+  AVTBRUM1032:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: URALSIB BANK
+  AVTBRUM1048:
+    branch: (YUZHNIY BRANCH)
+    city: KRASNODAR
+    institution: URALSIB BANK
+  AVTBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: URALSIB BANK
+  AZIMRUM1:
+    branch: null
+    city: MOSCOW
+    institution: AZIMUT BANK
+  BABJRU21SPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: BALTIYSKIY BANK
+  BABJRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: BALTIYSKIY BANK
+  BACKRU61:
+    branch: null
+    city: IRKUTSK
+    institution: BAIKALCREDOBANK
+  BADJRUM1KRS:
+    branch: (KRASNOYARSK BRANCH)
+    city: KRASNOYARSK
+    institution: JOINT STOCK COMPANY BBR BANK
+  BADJRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JOINT STOCK COMPANY BBR BANK
+  BADJRUMMNNG:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: JOINT STOCK COMPANY BBR BANK
+  BADJRUMMSPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: JOINT STOCK COMPANY BBR BANK
+  BADJRUMMVLD:
+    branch: (VLADIVOSTOK BRANCH)
+    city: VLADIVOSTOK
+    institution: JOINT STOCK COMPANY BBR BANK
+  BAHNRU41:
+    branch: null
+    city: UFA
+    institution: BASHINVESTBANK
+  BAHNRU41MSK:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: BASHINVESTBANK
+  BAOCRU21:
+    branch: null
+    city: KALININGRAD
+    institution: BALTKREDOBANK KB OOO
+  BATSRU21:
+    branch: null
+    city: ST. PETERSBURG
+    institution: CJSC BRITISH AMERICAN TOBACCO-SPB
+  BATSRU31:
+    branch: null
+    city: MOSCOW
+    institution: BRITISH AMERICAN TOBACCO RUSSIA LIMITED
+  BATSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: CJSC INTERNATIONAL TOBACCO MARKETING SERVICES
+  BBANRU2R:
+    branch: null
+    city: KRASNYI BOR
+    institution: JOINT-STOCK COMPANY 'BANK BEREIT'
+  BBCARU51:
+    branch: null
+    city: ABAKAN
+    institution: LC CBCA
+  BBCARU51SCH:
+    branch: (SOCHI BRANCH)
+    city: SOCHI
+    institution: LC CBCA
+  BCCMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK BCC-MOSCOW
+  BCSBRU55:
+    branch: null
+    city: NOVOSIBIRSK
+    institution: BCS BANK
+  BELERUA1:
+    branch: null
+    city: MOSCOW
+    institution: QIWI BANK (JOINT-STOCK COMPANY)
+  BELERUA1RCT:
+    branch: (BRANCH ROCKETBANK)
+    city: MOSCOW
+    institution: QIWI BANK (JOINT-STOCK COMPANY)
+  BELERUA1TCH:
+    branch: (BRANCH TOCHKA)
+    city: MOSCOW
+    institution: QIWI BANK (JOINT-STOCK COMPANY)
+  BELERUMM:
+    branch: null
+    city: MOSCOW
+    institution: QIWI BANK (JOINT-STOCK COMPANY)
+  BELGRU21:
+    branch: null
+    city: BELGOROD
+    institution: BELGORODPROMSTROJBANK
+  BELORU21:
+    branch: null
+    city: BELGOROD
+    institution: BELGORODSOCBANK
+  BELRRU51:
+    branch: null
+    city: NOVOSIBIRSK
+    institution: VZAIMODEYSTVIE
+  BEOARU21:
+    branch: null
+    city: BRYANSK
+    institution: BEZHITSA-BANK OAO
+  BEZARU21:
+    branch: null
+    city: BELGOROD
+    institution: ZAO 'BELDORBANK'
+  BFEARUMM:
+    branch: null
+    city: MOSCOW
+    institution: VNESHECONOMBANK
+  BIJORU66:
+    branch: null
+    city: IRKUTSK
+    institution: JSC BAIKALINVESTBANK
+  BINORU21:
+    branch: null
+    city: MOSCOW
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  BINORU21EKB:
+    branch: (EKATERINBURG BRANCH  2 B AND N BANK)
+    city: EKATERINBURG
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  BINORU21MOS:
+    branch: (BRANCH B AND N BANK IN MOSCOW)
+    city: MOSCOW
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  BINORU21NVS:
+    branch: (NOVOSIBIRSK BRANCH 2 B AND N BANK)
+    city: NOVOSIBIRSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  BINORU21RST:
+    branch: (ROSTOV BRANCH  2 B AND N BANK)
+    city: ROSTOV-ON-DON
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  BINORU21SPB:
+    branch: (ST PETERSBURG BRANCH 2 B AND N BANK)
+    city: ST. PETERSBURG
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  BINORU21STV:
+    branch: (STAVROPOL BRANCH  2 B AND N BANK)
+    city: STAVROPOL
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  BINORU21ULV:
+    branch: (ULYANOVSK BRANCH B AND N BANK)
+    city: ULYANOVSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  BINORU21VLD:
+    branch: (VLADIVOSTOK BRANCH B AND N BANK)
+    city: VLADIVOSTOK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  BINORUMM:
+    branch: null
+    city: MOSCOW
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  BKAVRU2K:
+    branch: null
+    city: KAZAN
+    institution: AVERS BANK
+  BKCHRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK OF CHINA (RUSSIA)
+  BKCHRUMMKHB:
+    branch: (KHABAROVSK)
+    city: KHABAROVSK
+    institution: BANK OF CHINA (RUSSIA)
+  BKCHRUMMVLD:
+    branch: null
+    city: VLADIVOSTOK
+    institution: BANK OF CHINA (RUSSIA)
+  BKCIRU22:
+    branch: null
+    city: KIZYLYURT
+    institution: CREDITINVEST
+  BKSBRU41MSK:
+    branch: (MOSCOW)
+    city: MOSCOW
+    institution: BASHCOMSNABBANK
+  BKSBRU4U:
+    branch: null
+    city: UFA
+    institution: BASHCOMSNABBANK
+  BKUZRU2P:
+    branch: null
+    city: PENZA
+    institution: OJSC BANK KUZNETSKY
+  BLAARU21:
+    branch: null
+    city: BALAKOVO
+    institution: BALAKOVO-BANK OAO
+  BLICRUMM:
+    branch: null
+    city: MOSCOW
+    institution: HSBC BANK (RR) OOO
+  BMJSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BUSINESS MOSCOW, JOINT STOCK BANK
+  BMWFRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BMW BANK OOO
+  BNECRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NECKLACE BANK OOO
+  BNECRUMM023:
+    branch: null
+    city: KRASNODAR
+    institution: NECKLACE BANK OOO
+  BNPARUMM:
+    branch: null
+    city: MOSCOW
+    institution: BNP PARIBAS BANK JSC, MOSCOW
+  BOFARUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK OF AMERICA, N.A. (MOSCOW)
+  BOTKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: AO BANK OF TOKYO-MITSUBISHI UFJ (EURASIA)
+  BPIRRUMM:
+    branch: null
+    city: MOSCOW
+    institution: PIR BANK, LLC
+  BRATRU6B:
+    branch: null
+    city: BRATSK
+    institution: BRATSKY NARODNY BANK JSC
+  BRECRU21BLH:
+    branch: (BALASHOV BRANCH)
+    city: BALASHOV
+    institution: JSC ECONOMBANK
+  BRECRU21BLK:
+    branch: (BALAKOVO BRANCH)
+    city: BALAKOVO
+    institution: JSC ECONOMBANK
+  BRECRU21ENG:
+    branch: (ENGELS BRANCH)
+    city: ENGELS
+    institution: JSC ECONOMBANK
+  BRECRU21LEN:
+    branch: (LENINSKY BRANCH)
+    city: SARATOV
+    institution: JSC ECONOMBANK
+  BRECRU21MRX:
+    branch: (MARX BRANCH)
+    city: MARX
+    institution: JSC ECONOMBANK
+  BRECRU21OCT:
+    branch: (OCTYABRSKY BRANCH)
+    city: SARATOV
+    institution: JSC ECONOMBANK
+  BRECRU21RTI:
+    branch: (RTISCHEVO BRANCH)
+    city: RTISCHEVO
+    institution: JSC ECONOMBANK
+  BRECRU21STE:
+    branch: (STEPNOE BRANCH)
+    city: STEPNOE
+    institution: JSC ECONOMBANK
+  BRECRU21VLS:
+    branch: (VOLSK BRANCH)
+    city: VOLSK
+    institution: JSC ECONOMBANK
+  BRECRU21VLZ:
+    branch: (VOLZHSKY BRANCH)
+    city: SARATOV
+    institution: JSC ECONOMBANK
+  BRECRU21ZAV:
+    branch: (ZAVODSKOY BRANCH)
+    city: SARATOV
+    institution: JSC ECONOMBANK
+  BRECRU2S:
+    branch: null
+    city: SARATOV
+    institution: JSC ECONOMBANK
+  BRKCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BROKERCREDITSERVICE COMPANY LLC
+  BRNSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: NBCO BRINKS
+  BROORU21:
+    branch: null
+    city: MURMANSK
+    institution: ZAO 'BARENTSBANK'
+  BROORU21PTR:
+    branch: (PETROZAVODSKIY BRANCH)
+    city: PETROZAVODSK
+    institution: ZAO 'BARENTSBANK'
+  BRRJRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BRUNSWICK RUSSIA (JERSEY) LIMITED
+  BSAARU41:
+    branch: null
+    city: UFA
+    institution: BASHKOMSNABBANK AKB OAO
+  BSBBRU51:
+    branch: null
+    city: NOVOKUZNETSK
+    institution: BST-BANK
+  BSSMRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK BASMANNY
+  BUCDRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BUSINESS AND CULTURE DEVELOPMENT BANK
+  BULGRU21:
+    branch: null
+    city: KAZAN
+    institution: BULGAR BANK ZAO
+  BUMARU22:
+    branch: null
+    city: NALCHIK
+    institution: COMMERCIAL BANK 'BOOM-BANK' (SOCIETY WITH LIMITED LIABILITY)
+  BXXIRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: NON-BANKING CREDIT ORGANIZATION '21 VEK' (LIMITED LIABILITY COMPANY)
+  BYJSRU33:
+    branch: null
+    city: IZHEVSK
+    institution: BYSTROBANK
+  BYJSRU33MOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: BYSTROBANK
+  CAAKRU21:
+    branch: null
+    city: STARYY-OSKOL
+    institution: COMMERCIAL AGROINDUSTRIAL BANK OF STARY OSKOL OOO
+  CAIWRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC MC BANK RUS
+  CBBORU8V:
+    branch: null
+    city: VLADIVOSTOK
+    institution: PUBLIC JOINT - STOCK COMPANY COMMERCIAL BANK 'SUMMIT BANK'
+  CBBORU8VVLD:
+    branch: (VLADIVOSTOK BRANCH)
+    city: VLADIVOSTOK
+    institution: PUBLIC JOINT - STOCK COMPANY COMMERCIAL BANK 'SUMMIT BANK'
+  CBBTRU21:
+    branch: null
+    city: YADRIN
+    institution: CB B2B
+  CBBTRU21MOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: CB B2B
+  CBFIRU81:
+    branch: null
+    city: VLADIVOSTOK
+    institution: DALRYBBANK (FAR-EASTERN JOINT STOCK COMMERCIAL BANK OF FISHERIES)
+  CBGURUMM:
+    branch: null
+    city: MOSCOW
+    institution: VTB 24 (PJSC)
+  CBGURUMMEKA:
+    branch: (N 6602)
+    city: EKATERINBURG
+    institution: VTB 24 (PJSC)
+  CBGURUMMKHA:
+    branch: (N 2754)
+    city: KHABAROVSK
+    institution: VTB 24 (PJSC)
+  CBGURUMMKRD:
+    branch: (N 2351)
+    city: KRASNODAR
+    institution: VTB 24 (PJSC)
+  CBGURUMMNOV:
+    branch: (N 5440)
+    city: NOVOSIBIRSK
+    institution: VTB 24 (PJSC)
+  CBGURUMMSAM:
+    branch: (N 6318)
+    city: SAMARA
+    institution: VTB 24 (PJSC)
+  CBGURUMMSTP:
+    branch: (N 7806)
+    city: ST. PETERSBURG
+    institution: VTB 24 (PJSC)
+  CBGURUMMVOR:
+    branch: (N 3652)
+    city: VORONEZH
+    institution: VTB 24 (PJSC)
+  CBGURUMMZUB:
+    branch: (N 7777)
+    city: MOSCOW
+    institution: VTB 24 (PJSC)
+  CBMWRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC MOSCOMBANK
+  CBNNRUM1GUB:
+    branch: (BELGORODSKIY BRANCH)
+    city: STARYY-OSKOL
+    institution: NATIONAL STANDARD BANK
+  CBNNRUM1NVR:
+    branch: (NOVOROSSIYSK BRANCH)
+    city: NOVOROSSIYSK
+    institution: NATIONAL STANDARD BANK
+  CBNNRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NATIONAL STANDARD BANK
+  CBRFRUMM:
+    branch: null
+    city: MOSCOW
+    institution: CENTRAL BANK OF RUSSIAN FEDERATION
+  CCIVRU2R:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: CENTER-INVEST BANK
+  CCTNRUM1:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK STAR ALLIANCE, LIMITED
+  CECBRU2K:
+    branch: null
+    city: KAZAN
+    institution: INVESTMENT COOPERATIVE BANK JSC
+  CERGRU41:
+    branch: null
+    city: UFA
+    institution: CENTRALNAYA REGISTRATURA OAO
+  CESERUM1:
+    branch: null
+    city: MOSCOW
+    institution: CENTREINVEST SECURITIES OOO
+  CETBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: CETELEM BANK
+  CFCFRUM1:
+    branch: null
+    city: MOSCOW
+    institution: CFC BANK
+  CFLORUMM:
+    branch: null
+    city: MOSCOW
+    institution: FLORA-MOSCOW OAO
+  CGAZRU31780:
+    branch: (YEISK BRANCH)
+    city: YEISK
+    institution: GAZBANK ZAO AKB
+  CGAZRU31856:
+    branch: (ULYANOVSK BRANCH)
+    city: ULYANOVSK
+    institution: GAZBANK ZAO AKB
+  CGAZRU31886:
+    branch: (DIMITROVGRAD BRANCH)
+    city: DIMITROVGRAD
+    institution: GAZBANK ZAO AKB
+  CGAZRU31957:
+    branch: (KIROVSKY BRANCH)
+    city: SAMARA
+    institution: GAZBANK ZAO AKB
+  CGAZRU31974:
+    branch: (TOGLIATTI BRANCH)
+    city: TOGLIATTI
+    institution: GAZBANK ZAO AKB
+  CGAZRU3S:
+    branch: null
+    city: SAMARA
+    institution: GAZBANK ZAO AKB
+  CHASRUMX:
+    branch: null
+    city: MOSCOW
+    institution: CB ''J.P. MORGAN BANK INTERNATIONAL'' (LLC)
+  CHASRUMXENQ:
+    branch: (TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)
+    city: MOSCOW
+    institution: CB ''J.P. MORGAN BANK INTERNATIONAL'' (LLC)
+  CHASRUMXKEY:
+    branch: (TEST KEY AND BKE ADMINISTRATION)
+    city: MOSCOW
+    institution: CB ''J.P. MORGAN BANK INTERNATIONAL'' (LLC)
+  CHINRU41KHM:
+    branch: (KHMELNITSKY FILIAL)
+    city: CHELYABINSK
+    institution: CHELYABINVESTBANK
+  CHINRU41KOP:
+    branch: (KOPEYSKY FILIAL)
+    city: KOPEYSK
+    institution: CHELYABINVESTBANK
+  CHINRU41MIA:
+    branch: (MIASSKY FILIAL)
+    city: MIASS
+    institution: CHELYABINVESTBANK
+  CHINRU41OZR:
+    branch: (OZERSKY FILIAL)
+    city: OZERSK
+    institution: CHELYABINVESTBANK
+  CHINRU41TRO:
+    branch: (TROITSKY FILIAL)
+    city: TROITSK
+    institution: CHELYABINVESTBANK
+  CHINRU41VAS:
+    branch: (VASILEVSKY FILIAL)
+    city: CHELYABINSK
+    institution: CHELYABINVESTBANK
+  CHINRU41YUZ:
+    branch: (YUZHNOURALSKY FILIAL)
+    city: YUZHNOURALSK
+    institution: CHELYABINVESTBANK
+  CHINRU4C:
+    branch: null
+    city: CHELYABINSK
+    institution: CHELYABINVESTBANK
+  CHINRU4CDEM:
+    branch: (DEMIDOVSKY BRANCH)
+    city: ZLATOUST
+    institution: CHELYABINVESTBANK
+  CHINRU4CMAG:
+    branch: (MAGNITOGORSKY BRANCH)
+    city: MAGNITOGORSK
+    institution: CHELYABINVESTBANK
+  CHINRU4CTRK:
+    branch: (TRACTOROZAVODSKY BRANCH)
+    city: CHELYABINSK
+    institution: CHELYABINVESTBANK
+  CHLBRU41ASH:
+    branch: (ASHINSKIJ BRANCH)
+    city: ASHA
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41CHB:
+    branch: (CHEBARKULSKIJ BRANCH)
+    city: CHEBARKUL
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41CHK:
+    branch: (CHKALOVSKIJ BRANCH)
+    city: EKATERINBURG
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41EMA:
+    branch: (EMANZHELINSKIJ BRANCH)
+    city: EMANZHELINSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41KAR:
+    branch: (KARABASHSKIJ BRANCH)
+    city: KARABASH
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41KAS:
+    branch: (KASLINSKIJ BRANCH)
+    city: KASLI
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41KIV:
+    branch: (KATAV-IVANOVSKIJ BRANCH)
+    city: KATAV-IVANOVSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41KLN:
+    branch: (KALININSKIJ BRANCH)
+    city: CHELYABINSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41KOP:
+    branch: (KOPEJSKIJ BRANCH)
+    city: KOPEYSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41KOR:
+    branch: (KORKINSKIJ BRANCH)
+    city: KORKINO
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41KRT:
+    branch: (KARTALINSKIJ BRANCH)
+    city: KARTALY
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41LEN:
+    branch: (LENINSKIJ BRANCH)
+    city: CHELYABINSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41MET:
+    branch: (METALLURGICHESKIJ BRANCH)
+    city: CHELYABINSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41NZP:
+    branch: (NYAZEPETROVSKIJ BRANCH)
+    city: NYAZEPETROVSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41SIN:
+    branch: (SINEGORE BRANCH)
+    city: OZERSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41SOV:
+    branch: (SOVETSKIJ BRANCH)
+    city: CHELYABINSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41TRK:
+    branch: (TRAKTOROZAVODSKIJ BRANCH)
+    city: CHELYABINSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41TRO:
+    branch: (TROICKIJ  BRANCH)
+    city: TROITSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41TSP:
+    branch: (TRANSPORTNYJ BRANCH)
+    city: CHELYABINSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41UKT:
+    branch: (UST-KATAVSKIJ BRANCH)
+    city: UST-KATAV
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41UZH:
+    branch: (YUZHNOURALSKIJ BRANCH)
+    city: YUZHNOURALSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41VUF:
+    branch: (VERKHNE-UFALEJSKIJ BRANCH)
+    city: VERKHNY UFALEY
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41YUR:
+    branch: (YURYUZANSKIJ BRANCH)
+    city: YURIUZAN
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU41ZOL:
+    branch: (ZOLOTAYA DOLINA BRANCH)
+    city: MIASS
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU4C:
+    branch: null
+    city: CHELYABINSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU4C735:
+    branch: (TREKHGORNYJ BRANCH)
+    city: TRIOKHGORNY
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU4C743:
+    branch: (KYSHTYMSKIJ BRANCH)
+    city: KYSHTYM
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU4C746:
+    branch: (MAGNITOGORSKIJ BRANCH)
+    city: MAGNITOGORSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU4C760:
+    branch: (SATKINSKIJ BRANCH)
+    city: SATKA
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU4C795:
+    branch: (ISTOK BRANCH)
+    city: SNEGINSK
+    institution: PJSC 'CHELINDBANK'
+  CHLBRU4CRUR:
+    branch: (RUSSIAN ROUBLES OPERATIONS)
+    city: CHELYABINSK
+    institution: PJSC 'CHELINDBANK'
+  CHVARU2C:
+    branch: null
+    city: CHEBOKSARY
+    institution: CHUVASHCREDITPROMBANK PAO
+  CHZBRU41:
+    branch: null
+    city: CHELYABINSK
+    institution: CHELYABCOMZEM BANK
+  CIBGRUMM:
+    branch: null
+    city: MOSCOW
+    institution: INVESTMENT COMPANY ''RICOM-TRUST'' ZAO
+  CINGRUMM:
+    branch: null
+    city: MOSCOW
+    institution: CAPITAL KREDIT LTD
+  CITIRUMX:
+    branch: null
+    city: MOSCOW
+    institution: AO CITIBANK, MOSCOW
+  CITIRUMXBON:
+    branch: (CITI RUSSIA TREASURY OPERATIONS)
+    city: MOSCOW
+    institution: AO CITIBANK, MOSCOW
+  CITVRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: CITY INVEST BANK
+  CJSORU21:
+    branch: null
+    city: VOLGOGRAD
+    institution: COR JOINT STOCK COMMERCIAL BANK
+  CKBBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: CENTROKREDIT BANK
+  CKONRU21:
+    branch: null
+    city: SARATOV
+    institution: SARATOV REGIONAL COMMERCIAL BANK FOR SOCIAL SPHERECONTO
+  CLIDRUM1:
+    branch: null
+    city: MOSCOW
+    institution: LEGPROMBANK COMMERCIAL BANK
+  CLJARUM1RND:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: UFC BANK PJSC
+  CLJARUMM:
+    branch: null
+    city: MOSCOW
+    institution: UFC BANK PJSC
+  CLOKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: LOCKO BANK
+  CMAARU51:
+    branch: null
+    city: GORNO-ALTAYSK
+    institution: COMMERCIAL BANK MAIMA LTD
+  CMOORU51:
+    branch: null
+    city: GORNO-ALTAYSK
+    institution: EL BANK COMMERCHESKIJ BANK OOO
+  CNOVRUM1NNG:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: NOVIKOMBANK
+  CNOVRUM1RND:
+    branch: (ROSTOV-NA-DONU BRANCH)
+    city: ROSTOV-NA-DONU
+    institution: NOVIKOMBANK
+  CNOVRUM1SPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: NOVIKOMBANK
+  CNOVRUM1TLT:
+    branch: (TOGLIATTI BRANCH)
+    city: TOGLIATTI
+    institution: NOVIKOMBANK
+  CNOVRUM1TUL:
+    branch: (TULA OPERATIONAL OFFICE)
+    city: TULA
+    institution: NOVIKOMBANK
+  CNOVRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NOVIKOMBANK
+  COAKRUM1:
+    branch: null
+    city: MOSCOW
+    institution: CB 'AKROPOL' AO
+  COAZRU21:
+    branch: null
+    city: ARZAMAS
+    institution: COMBANK ARZAMAS
+  COBARUMM:
+    branch: null
+    city: MOSCOW
+    institution: COMMERZBANK (EURASIJA) AO
+  CODKRU21:
+    branch: null
+    city: KOSTROMA
+    institution: CONFIDENCEBANK
+  CODLRUMM:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL INDO BANK LLC
+  CODVRUM1:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK OF DEVELOPMENT (LIMITED LIABILITY COMPANY)
+  COGKRUM1:
+    branch: null
+    city: MOSCOW
+    institution: CB GEOBANK LTD
+  COKARU41:
+    branch: null
+    city: PERM
+    institution: COMMERCIAL BANK 'KAURI'
+  COLKRUM1ESN:
+    branch: null
+    city: ESSENTUKI
+    institution: COMMERCIAL BANK 'LANTA-BANK'
+  COLKRUM1NNG:
+    branch: (NIZHNY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: COMMERCIAL BANK 'LANTA-BANK'
+  COLKRUM1ORL:
+    branch: (OREL BRANCH)
+    city: OREL
+    institution: COMMERCIAL BANK 'LANTA-BANK'
+  COLKRUM1SPB:
+    branch: (ST.-PETERBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: COMMERCIAL BANK 'LANTA-BANK'
+  COLKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK 'LANTA-BANK'
+  COLKRUMMKBB:
+    branch: (KUYBISHEV BRANCH)
+    city: KUYBISHEV
+    institution: COMMERCIAL BANK 'LANTA-BANK'
+  COLKRUMMKRA:
+    branch: (KRASNOYARSK BRANCH)
+    city: KRASNOYARSK
+    institution: COMMERCIAL BANK 'LANTA-BANK'
+  COLKRUMMNSB:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: COMMERCIAL BANK 'LANTA-BANK'
+  COMKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSB ROSEVROBANK (JSC)
+  COMKRUMM030:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: JSB ROSEVROBANK (JSC)
+  COMKRUMM040:
+    branch: (CHELYABINSK BRANCH)
+    city: CHELYABINSK
+    institution: JSB ROSEVROBANK (JSC)
+  COMKRUMM060:
+    branch: (SAMARA BRANCH)
+    city: SAMARA
+    institution: JSB ROSEVROBANK (JSC)
+  COMKRUMM070:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: JSB ROSEVROBANK (JSC)
+  COMKRUMM080:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: JSB ROSEVROBANK (JSC)
+  COMKRUMM090:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: JSB ROSEVROBANK (JSC)
+  COMKRUMMDOC:
+    branch: (DOCUMENTARY BUSINESS)
+    city: MOSCOW
+    institution: JSB ROSEVROBANK (JSC)
+  COMKRUMMIBD:
+    branch: (INTERNATIONAL BUSINESS DEVELOPMENT DEPARTMENT)
+    city: MOSCOW
+    institution: JSB ROSEVROBANK (JSC)
+  COMKRUMMISD:
+    branch: (INTERNATIONAL SETTLEMENT DIVISION)
+    city: MOSCOW
+    institution: JSB ROSEVROBANK (JSC)
+  COMSRUSM:
+    branch: null
+    city: OMSK
+    institution: PLUS BANK
+  CONYRU2N:
+    branch: null
+    city: EKATERINBURG
+    institution: BANK NEYVA
+  COSVRU21:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: COMMERCIAL BANK ROSTOV UNIVERSAL
+  COUERUMM:
+    branch: null
+    city: MOSCOW
+    institution: RUBLEV BANK
+  CPGBRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: PETERSBURG'S CITY BANK, INC.
+  CRDBRU21:
+    branch: null
+    city: YAROSLAVL
+    institution: CREDPROMBANK
+  CRDURU4C:
+    branch: null
+    city: MAGNITOGORSK
+    institution: CREDIT URAL BANK JOINT STOCK COMPANY
+  CRESRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC BANK CREDIT SUISSE (MOSCOW)
+  CRESRUMML21:
+    branch: null
+    city: MOSCOW
+    institution: JSC BANK CREDIT SUISSE (MOSCOW)
+  CRESRUMS:
+    branch: null
+    city: MOSCOW
+    institution: LLC CREDIT SUISSE SECURITIES (MOSCOW)
+  CRLYRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: CREDIT AGRICOLE CIB AO
+  CRLYRU2PMSC:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: CREDIT AGRICOLE CIB AO
+  CROKRUMM:
+    branch: null
+    city: KRASNOGORSK
+    institution: CROCUSBANK
+  CROSRUMM:
+    branch: null
+    city: MOSCOW
+    institution: CROSNA-BANK
+  CSIBRU4U:
+    branch: null
+    city: UFA
+    institution: SOTSINVESTBANK
+  CSIBRU4U909:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: SOTSINVESTBANK
+  CSMMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JOINT-STOCK COMPANY COMMERCIAL BANK ''COSMOS''
+  CUPCRU55:
+    branch: null
+    city: NOVOSIBIRSK
+    institution: CREDIT UNION 'PAYMENT CENTER'
+  DABARU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: DANSKE BANK RUSSIA
+  DAGERU21:
+    branch: null
+    city: MAKHACHKALA
+    institution: DAGESTAN CBSD OOO
+  DALVRU8X:
+    branch: null
+    city: BLAGOVESHCHENSK
+    institution: ORIENT EXPRESS BANK
+  DCBRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: MERCEDES-BENZ BANK RUS
+  DECERU41:
+    branch: null
+    city: PERM
+    institution: COMMERCIAL BANK 'DZERZHINSKY' OOO
+  DEKERU2K:
+    branch: null
+    city: ALMETYEVSK
+    institution: DEVON-CREDIT BANK (PJSC)
+  DERZRUMM:
+    branch: null
+    city: MOSCOW
+    institution: DERZHAVA PJSCB
+  DETARUMM:
+    branch: null
+    city: MOSCOW
+    institution: CB DELTACREDIT
+  DEUTRUMM:
+    branch: null
+    city: MOSCOW
+    institution: DEUTSCHE BANK OOO
+  DEUTRUMMGME:
+    branch: (IB OPERATIONS)
+    city: MOSCOW
+    institution: DEUTSCHE BANK OOO
+  DIGBRU31:
+    branch: null
+    city: VLADIKAVKAZ
+    institution: DIG-BANK
+  DLNBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: LIMITED LIABILITY COMPANY MOSCOW INVESTMENT BANK DALENA
+  DOLIRU8Y:
+    branch: null
+    city: YUZHNO-SAKHALINSK
+    institution: JSB DOLINSK
+  DOMORUM1:
+    branch: null
+    city: DOMODEDOVO
+    institution: MCB DOM-BANK
+  DONARU21:
+    branch: null
+    city: GUKOVO
+    institution: DONSKOJ NARODNYJ BANK
+  DONBRU21:
+    branch: null
+    city: KAMENSK-SHAKHTINSKIJ
+    institution: DONBANK
+  DONKRU21:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: RAKB 'DONHLEBBANK' OAO
+  DONORU2R:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: PJSC DONCOMBANK
+  DONTRU21:
+    branch: null
+    city: MOSCOW
+    institution: TIME BANK
+  DRKBRUM1:
+    branch: null
+    city: MOSCOW
+    institution: DRESDNER KLEINWORT BENSON 000
+  EABIRUMM:
+    branch: null
+    city: MOSCOW
+    institution: CB EURO-ASIAN INVESTMENT BANK LLC
+  ECILRU21:
+    branch: null
+    city: IVANOVO
+    institution: AO COMMERCIAL INVESTMENT BANK 'EUROALLIANCE'
+  ECOBRUM1:
+    branch: null
+    city: MOSCOW
+    institution: ECONOMICS-BANK
+  ECOERUM1:
+    branch: null
+    city: MOSCOW
+    institution: ECO-INVEST
+  ELBIRU22:
+    branch: null
+    city: MAKHACHKALA
+    institution: ELBIN BANK
+  ELIARU22:
+    branch: null
+    city: KALUGA
+    institution: BANK ELITA
+  ELKARU3S:
+    branch: null
+    city: SAMARA
+    institution: AC BANK
+  ELKARU3SMOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: AC BANK
+  ELKARU3SSPB:
+    branch: null
+    city: ST. PETERSBURG
+    institution: AC BANK
+  ENBURUM1:
+    branch: null
+    city: MOSCOW
+    institution: ENERGY BUSINESS
+  ENEBRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: ENERGOMASHBANK PLC
+  ENEORUM1:
+    branch: null
+    city: MOSCOW
+    institution: STAL BANK (LLC)
+  ENGORU21MOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: ENERGOTRANSBANK
+  ENGORU21SOV:
+    branch: (SOVETSK BRANCH)
+    city: SOVETSK
+    institution: ENERGOTRANSBANK
+  ENGORU2K:
+    branch: null
+    city: KALININGRAD
+    institution: ENERGOTRANSBANK
+  ENOBRU21:
+    branch: null
+    city: MAKHACHKALA
+    institution: ENOBANK
+  ENTURUM1:
+    branch: null
+    city: MOSCOW
+    institution: CBI 'ENTUZIASTBANK' OOO
+  ERMARU51:
+    branch: null
+    city: NIZHNEVARTOVSK
+    institution: ZAO NGAB ERMAK
+  ERSNRUMM:
+    branch: null
+    city: MOSCOW
+    institution: PJSC EURASIAN BANK
+  ESIDRU31:
+    branch: null
+    city: MAKHACHKALA
+    institution: ESIDBANK
+  ETZARUM1:
+    branch: null
+    city: MOSCOW
+    institution: ETALONBANK
+  EUJKRU55:
+    branch: null
+    city: KRASNOYARSK
+    institution: JOINT-STOCK INVESTMENT COMMERCIAL BANK ENISEISK UNITED BANK LTD
+  EUSORU22:
+    branch: null
+    city: NALCHIK
+    institution: COMMERCIAL BANK EUROPEAN STANDARD LLC
+  EVRFRUM1KRS:
+    branch: (KRASNOYARSK BRANCH)
+    city: KRASNOYARSK
+    institution: EVROFINANCE MOSNARBANK
+  EVRFRUM1NNG:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: EVROFINANCE MOSNARBANK
+  EVRFRUM1RND:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: EVROFINANCE MOSNARBANK
+  EVRFRUM1SMR:
+    branch: (SAMARA BRANCH)
+    city: SAMARA
+    institution: EVROFINANCE MOSNARBANK
+  EVRFRUM1SPB:
+    branch: (SAINT PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: EVROFINANCE MOSNARBANK
+  EVRFRUM1STV:
+    branch: (STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: EVROFINANCE MOSNARBANK
+  EVRFRUM1VLD:
+    branch: (VLADIMIR BRANCH)
+    city: VLADIMIR
+    institution: EVROFINANCE MOSNARBANK
+  EVRFRUM1VLG:
+    branch: (VOLGOGRAD BRANCH)
+    city: VOLGOGRAD
+    institution: EVROFINANCE MOSNARBANK
+  EVRFRUM1YRS:
+    branch: (YAROSLAVL BRANCH)
+    city: YAROSLAVL
+    institution: EVROFINANCE MOSNARBANK
+  EVRFRUMM:
+    branch: null
+    city: MOSCOW
+    institution: EVROFINANCE MOSNARBANK
+  EVRRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: EVRORASCHYOT BANK
+  EVRYRUM1:
+    branch: null
+    city: MOSCOW
+    institution: EVROSOYUZ
+  EVRZRUMM:
+    branch: null
+    city: MOSCOW
+    institution: EVRAZHOLDING
+  EXIRRUMM:
+    branch: null
+    city: MOSCOW
+    institution: EXIMBANK OF RUSSIA
+  EXPERU21:
+    branch: null
+    city: MAKHACHKALA
+    institution: EXPRESS BANK
+  EXPNRUMM:
+    branch: null
+    city: MOSCOW
+    institution: EXPOBANK LLC
+  EXTURU21:
+    branch: null
+    city: TULA
+    institution: THE FIRST EXPRESS BANK
+  EXVORU21:
+    branch: null
+    city: SARATOV
+    institution: AO CRA EXPRESS-VOLGA
+  FABARUM1NVS:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: CORPORATE FINANCE BANK
+  FABARUM1SPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: CORPORATE FINANCE BANK
+  FABARUMM:
+    branch: null
+    city: MOSCOW
+    institution: CORPORATE FINANCE BANK
+  FAEBRU8V:
+    branch: (HEAD OFFICE)
+    city: VLADIVOSTOK
+    institution: FAR EASTERN BANK
+  FBBARU3G:
+    branch: null
+    city: MOSCOW
+    institution: FINANCE BUSINESS BANK, LLC
+  FCBRRUMM:
+    branch: null
+    city: MOSCOW
+    institution: PERVIY KLIENTSKIY BANK
+  FDJSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: FEDERAL BANK OF DEVELOPMENT JOINT-STOCK COMMERCIAL BANK
+  FEDCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK 'FEDERAL DEPOSIT BANK LTD.'
+  FEIDRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK FOR INNOVATION AND DEVELOPMENT
+  FIDKRU21:
+    branch: null
+    city: KIROV
+    institution: FIRST DORTRANSBANK
+  FIDORUM1:
+    branch: null
+    city: MOSCOW
+    institution: FINANCIAL CREDIT BANK
+  FIEVRUM1:
+    branch: null
+    city: MOSCOW
+    institution: FINNET-SERVICE
+  FIHDRU51:
+    branch: null
+    city: NOVOSIBIRSK
+    institution: FINANCE HOLDING DOMINION
+  FIIYRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK FININVEST LIMITED LIABILITY COMPANY
+  FIKIRUMM:
+    branch: null
+    city: MOSCOW
+    institution: FINANSOVO-PROMYSHLENYI KAPITAL
+  FLEXRUM1:
+    branch: null
+    city: MOSCOW
+    institution: FLEXINVESTBANK
+  FMOSRUMM:
+    branch: null
+    city: MOSCOW
+    institution: CREDIT EUROPE BANK LTD
+  FNMMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: FINAM BANK
+  FOJSRUMM:
+    branch: null
+    city: MOSCOW
+    institution: FORA-BANK AO
+  FONBRUM1BAI:
+    branch: (BAIKONUR BRANCH)
+    city: BAIKONUR
+    institution: FUNDSERVICEBANK
+  FONBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: FUNDSERVICEBANK
+  FONBRUMMMRN:
+    branch: (KOSMODROM PLESETSK BRANCH OF FUNDSERVICEBANK)
+    city: MIRNY
+    institution: FUNDSERVICEBANK
+  FONBRUMMNOV:
+    branch: (NOVOCHERKASSK BRANCH)
+    city: NOVOCHERKASSK
+    institution: FUNDSERVICEBANK
+  FONBRUMMROS:
+    branch: (ROSTOV BRANCH)
+    city: ROSTOV-ON-DON
+    institution: FUNDSERVICEBANK
+  FORARUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC FOREBANK
+  FORHRU33:
+    branch: null
+    city: ORENBURG
+    institution: JSCB FORSHTADT
+  FOUURU21:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: FORUS BANK ZAO
+  FRFLRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK FREEDOM FINANCE LLC
+  FRIBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ALMA BANK
+  FRIPRUM1:
+    branch: null
+    city: MOSCOW
+    institution: FITCH RATINGS CIS LIMITED (MOSCOW BRANCH)
+  GAINRUMM:
+    branch: null
+    city: MOSCOW
+    institution: GARANT-INVEST BANK
+  GAZARU21:
+    branch: null
+    city: KALUGA
+    institution: GAZENERGOBANK
+  GAZARU21MF1:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: GAZENERGOBANK
+  GAZNRUM1:
+    branch: null
+    city: SARATOV
+    institution: GAZNEFTBANK
+  GAZPRUMM:
+    branch: null
+    city: MOSCOW
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM001:
+    branch: (PRIVOLZHSKY BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM002:
+    branch: (NOVIY URENGOY BRANCH)
+    city: NOVIY URENGOY
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM004:
+    branch: (SREDNERUSSKY BRANCH)
+    city: TULA
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM007:
+    branch: (YUZHNY BRANCH)
+    city: KRASNODAR
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM011:
+    branch: (TOMSK BRANCH)
+    city: TOMSK
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM015:
+    branch: (SEVERO-ZAPADNY BRANCH)
+    city: ST. PETERSBURG
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM024:
+    branch: (SEVERO-KAVKAZSKY BRANCH)
+    city: STAVROPOL
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM025:
+    branch: (UFA BRANCH)
+    city: UFA
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM026:
+    branch: (URALSKY BRANCH)
+    city: EKATERINBURG
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM028:
+    branch: (TSENTRALNIY BRANCH)
+    city: SHCHELKOVO
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM029:
+    branch: (ZAPADNO-SIBIRSKY BRANCH)
+    city: NOVOSIBIRSK
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM032:
+    branch: (ZAPADNO-URALSKY BRANCH)
+    city: PERM
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM034:
+    branch: (VOSTOCHNO-SIBIRSKY BRANCH)
+    city: KRASNOYARSK
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM036:
+    branch: (KEMEROVO BRANCH)
+    city: KEMEROVO
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM037:
+    branch: (POVOLZHSKY BRANCH)
+    city: SAMARA
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM038:
+    branch: (KALININGRAD BRANCH)
+    city: KALININGRAD
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM042:
+    branch: (DALNEVOSTOCHNY BRANCH)
+    city: VLADIVOSTOK
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM047:
+    branch: (KAZAN BRANCH)
+    city: KAZAN
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM048:
+    branch: (SURGUT BRANCH)
+    city: SURGUT
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GAZPRUMM049:
+    branch: (TSENTRALNO-CHERNOZEMNY BRANCH)
+    city: VORONEZH
+    institution: GAZPROMBANK (JOINT - STOCK COMPANY)
+  GCOJRUM1:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK ''GLOBUS''
+  GEOORUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC GENBANK
+  GESPRU21:
+    branch: null
+    city: ST. PETERSBURG
+    institution: GEFEST BANK LTD
+  GJSCRU21:
+    branch: null
+    city: GELENDJIK
+    institution: GELENDJIK-BANK
+  GLDMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: OOO GOLDMAN SACHS
+  GLOBRUM1009:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: GLOBEXBANK
+  GLOBRUM1011:
+    branch: (NOVOSIBIRSKIJ BRANCH)
+    city: NOVOSIBIRSK
+    institution: GLOBEXBANK
+  GLOBRUM1012:
+    branch: (ROSTOVSKIJ BRANCH)
+    city: ROSTOV-ON-DON
+    institution: GLOBEXBANK
+  GLOBRUM1016:
+    branch: (POVOLZHSKIJ BRANCH)
+    city: TOGLIATTI
+    institution: GLOBEXBANK
+  GLOBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: GLOBEXBANK
+  GOJSRU41:
+    branch: null
+    city: EKATERINBURG
+    institution: GOLD-PLATINUM-BANK
+  GOLDRUMM:
+    branch: null
+    city: MOSCOW
+    institution: OOO GOLDMAN SACHS BANK
+  GRECRU61:
+    branch: null
+    city: USOLYE-SIBIRSKOYE
+    institution: GREENCOMBANK
+  GRECRU61001:
+    branch: (IRKUTSK BRANCH)
+    city: IRKUTSK
+    institution: GREENCOMBANK
+  GRECRU61002:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: GREENCOMBANK
+  GRIBRU21:
+    branch: null
+    city: PYATIGORSK
+    institution: GRIS-BANK
+  GRIBRU21MOS:
+    branch: (FILIAL MOSKOVSKIJ GRIS-BANK)
+    city: MOSCOW
+    institution: GRIS-BANK
+  GRINRUMM:
+    branch: null
+    city: MOSCOW
+    institution: GRAND INVEST BANK JSC
+  GRUURU21:
+    branch: null
+    city: KALUGA
+    institution: VW GROUP RUS
+  HCFBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: HCF BANK
+  HIMIRUM1:
+    branch: null
+    city: DZERZHINSK
+    institution: '''HIMIK'' OPEN JOINT-STOCK COMPANY'
+  HOLNRUM1:
+    branch: null
+    city: MOSCOW
+    institution: HOLDINVESTBANK
+  HRANRUMM:
+    branch: null
+    city: MOSCOW
+    institution: INKAKHRAN NKO (AO)
+  HRANRUMMEKB:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: INKAKHRAN NKO (AO)
+  HSBKRU4C:
+    branch: null
+    city: MOSCOW
+    institution: NBK-BANK
+  HVBKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: AO WOORI BANK
+  HVBKRUMMSPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: AO WOORI BANK
+  HYMORU21:
+    branch: null
+    city: ST. PETERSBURG
+    institution: MOBIS MODULE CIS, LLC
+  HYMORUM1:
+    branch: null
+    city: MOSCOW
+    institution: MOBIS PARTS CIS, LLC
+  IBAZRUM1EKT:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: THE BANK 'IBA-MOSCOW' LLC
+  IBAZRUM1SPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: THE BANK 'IBA-MOSCOW' LLC
+  IBAZRUMM:
+    branch: null
+    city: MOSCOW
+    institution: THE BANK 'IBA-MOSCOW' LLC
+  IBECRUMM:
+    branch: null
+    city: MOSCOW
+    institution: INTERNATIONAL BANK FOR ECONOMIC CO-OPERATION
+  IBKKRU22:
+    branch: null
+    city: KRASNODAR
+    institution: JSC CDBBANK
+  ICBKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK ICBC (JSC)
+  ICBKRUMMCLR:
+    branch: (CLEARING OFFICE)
+    city: MOSCOW
+    institution: BANK ICBC (JSC)
+  ICBMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: INTERNATIONAL COMMERCIAL BANK
+  ICDYRU2Y:
+    branch: null
+    city: YAROSLAVL
+    institution: INVESTMENT COMMERCIAL BANK DEVELOPMENT 'YARINTERBANK' OOO
+  ICFIRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC JSCB 'INTERNATIONAL FINANCIAL CLUB'
+  ICIBRU21:
+    branch: null
+    city: TVER
+    institution: INTERNATIONAL COMMERCIAL AND INDUSTRIAL BANK
+  ICICRUMM:
+    branch: null
+    city: MOSCOW
+    institution: MCIB BANK LLC
+  ICLERUM1:
+    branch: null
+    city: MOSCOW
+    institution: INTERSTATE CLEARING BANK
+  ICOSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: OOO CBI 'SUDKOMBANK'
+  IDPJRUM1:
+    branch: null
+    city: MOSCOW
+    institution: OAO COMMERCIAL BANK 'INDUSTRIAL DEVELOPMENT BANK'
+  IENCRU21:
+    branch: null
+    city: CHEREPOVETS
+    institution: INDUSTRIAL ENERGY BANK
+  IIBMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: INTERNATIONAL INVESTMENT BANK
+  IKBARUMM:
+    branch: null
+    city: MOSCOW
+    institution: DENIZBANK MOSCOW JSC
+  IMBKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: UNICREDIT BANK AO
+  IMBKRUMMIBO:
+    branch: null
+    city: MOSCOW
+    institution: UNICREDIT BANK AO
+  IMBKRUMMPET:
+    branch: null
+    city: ST. PETERSBURG
+    institution: UNICREDIT BANK AO
+  INCBRU55:
+    branch: null
+    city: MOSCOW
+    institution: JSC CB POIDEM
+  INDMRUM1DON:
+    branch: (DONSKOY BRANCH)
+    city: MOSCOW
+    institution: NEFTEPROMBANK
+  INDMRUM1KRD:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: NEFTEPROMBANK
+  INDMRUM1TMN:
+    branch: (TYUMEN BRANCH)
+    city: TYUMEN
+    institution: NEFTEPROMBANK
+  INDMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NEFTEPROMBANK
+  INEARUMM:
+    branch: null
+    city: MOSCOW
+    institution: INTERSTATE BANK
+  INGBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ING BANK (EURASIA) JSC
+  INGBRUMML28:
+    branch: null
+    city: MOSCOW
+    institution: ING BANK (EURASIA) JSC
+  INGBRUMMTMK:
+    branch: (TREASURY BACKOFFICE)
+    city: MOSCOW
+    institution: ING BANK (EURASIA) JSC
+  INIBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: KUZNETSKY MOST BANK
+  INKARUMM:
+    branch: null
+    city: MOSCOW
+    institution: INKAROBANK
+  INKKRUM1:
+    branch: null
+    city: MOSCOW
+    institution: INRESBANK
+  INKNRUM2:
+    branch: null
+    city: MOSCOW
+    institution: INBANK, LTD
+  INLCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: INTERREGIONAL CLEARING CENTRE
+  INOGRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK INFORMPROGRESS
+  INOYRUM1:
+    branch: null
+    city: MOSCOW
+    institution: INSTROYBANK LTD
+  INPORUM1:
+    branch: null
+    city: MOSCOW
+    institution: INDUSTRIAL DEVELOPMENT BANK OOO
+  INTPRUMM:
+    branch: null
+    city: MOSCOW
+    institution: INTERPROGRESSBANK
+  INUGRUM1:
+    branch: null
+    city: MOSCOW
+    institution: INTERNATIONAL ACCOUNTING BANK
+  INUORUMM:
+    branch: null
+    city: MOSCOW
+    institution: NS BANK
+  INVJRUM1ALX:
+    branch: (VLADIMIRSKY BRANCH)
+    city: ALEXANDROV
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1BRN:
+    branch: (BRYANSKY BRANCH)
+    city: BRYANSK
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1EKT:
+    branch: (URALSKY BRANCH)
+    city: EKATERINBURG
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1IVN:
+    branch: (VOZNESENSKY BRANCH)
+    city: IVANOVO
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1KHB:
+    branch: (KHABAROVSK BRANCH)
+    city: HABAROVSK
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1KIN:
+    branch: (KINESHEMSKY BRANCH)
+    city: KINESHMA
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1KST:
+    branch: (KOSTROMSKOJ BRANCH)
+    city: KOSTROMA
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1KZN:
+    branch: (KAZANSKY BRANCH)
+    city: KAZAN
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1MHK:
+    branch: (MAKHACHKALINSKY BRANCH )
+    city: MAKHACHKALA
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1NVS:
+    branch: (NOVOSIBIRSKY BRANCH)
+    city: NOVOSIBIRSK
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1PEN:
+    branch: (PENZENSKY BRANCH)
+    city: PENZA
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1PRM:
+    branch: (PERMSKY BRANCH)
+    city: PERM
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1RST:
+    branch: (ROSTOVSKY BRANCH)
+    city: ROSTOV-ON-DON
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1SAM:
+    branch: (SAMARSKY BRANCH)
+    city: SAMARA
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1SAR:
+    branch: (SARATOVSKY BRANCH)
+    city: SARATOV
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1SPB:
+    branch: (BRANCH BALTIYSKY)
+    city: ST. PETERSBURG
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1STV:
+    branch: (STAVROPOLSKY BRANCH)
+    city: STAVROPOL
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1TMN:
+    branch: (TYUMENSKY BRANCH)
+    city: TYUMEN
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1VLD:
+    branch: (POKROVSKY BRANCH)
+    city: VLADIMIR
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1VLG:
+    branch: (VOLGOGRADSKY BRANCH)
+    city: VOLGOGRAD
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1VRN:
+    branch: (VORONEZHSKY BRANCH)
+    city: VORONEZH
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUM1YAR:
+    branch: (YAROSLAVSKY BRANCH)
+    city: YAROSLAVL
+    institution: INVESTMENT TRADE BANK PJSC
+  INVJRUMM:
+    branch: null
+    city: MOSCOW
+    institution: INVESTMENT TRADE BANK PJSC
+  IPBARUMM:
+    branch: null
+    city: MOSCOW
+    institution: INTERPROMBANK
+  IPOTRU21:
+    branch: null
+    city: KAZAN
+    institution: IPOTEKA-INVEST BANK
+  IRAORUMM:
+    branch: null
+    city: MOSCOW
+    institution: PJSC INTER RAO
+  IRBARU22:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK 'RBA' (LIMITED LIABILITY COMPANY)
+  IRBARU22MAH:
+    branch: (MAKHACHKALA BRANCH)
+    city: MAKHACHKALA
+    institution: COMMERCIAL BANK 'RBA' (LIMITED LIABILITY COMPANY)
+  IRBARU22MSK:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: COMMERCIAL BANK 'RBA' (LIMITED LIABILITY COMPANY)
+  IRCORUM1:
+    branch: null
+    city: MOSCOW
+    institution: JSC IRCOL
+  IRITRUM1:
+    branch: null
+    city: MOSCOW
+    institution: IBDIT LTD
+  IRONRUM1:
+    branch: null
+    city: MOSCOW
+    institution: IRON BANK
+  IRSBRUM1VOL:
+    branch: (VOLGOGRAD BRANCH IRS BRANCH)
+    city: VOLGOGRAD
+    institution: IRS-BANK
+  IRSBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: IRS-BANK
+  ISBKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ISBANK JOINT STOCK COMPANY
+  ITBNRUSM:
+    branch: null
+    city: OMSK
+    institution: JSC 'IT BANK'
+  ITCURUMM:
+    branch: null
+    city: MOSCOW
+    institution: INTERBANK CREDIT UNION
+  ITEHRU21100:
+    branch: (MURMANSK BRANCH)
+    city: MURMANSK
+    institution: ALEKSANDROVSKY BANK
+  ITEHRU21200:
+    branch: (LODEJNOE POLE BRANCH)
+    city: LODEJNOE POLE
+    institution: ALEKSANDROVSKY BANK
+  ITEHRU21300:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: ALEKSANDROVSKY BANK
+  ITEHRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: ALEKSANDROVSKY BANK
+  ITRORU8Y:
+    branch: null
+    city: YUZHNO-SAKHALINSK
+    institution: ITURUP BANK OOO
+  ITTGRUM1:
+    branch: null
+    city: MOSCOW
+    institution: CB INTERREGIONAL POST BANK
+  IVAORU21:
+    branch: null
+    city: IVANOVO
+    institution: AO CB IVANOVO
+  IVDCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: CB MOSKOMMERTSBANK
+  IVOLRU21:
+    branch: null
+    city: IVANOVO
+    institution: IVANOVSKIJ OBLASTNOJ BANK
+  IVSSRUMM:
+    branch: null
+    city: MOSCOW
+    institution: INVESTSOCBANK OOO
+  IZHBRU31:
+    branch: null
+    city: IZHEVSK
+    institution: '''IZHCOMBANK'' AO'
+  JCAMRUM1EKB:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: BANK SOYUZ
+  JCAMRUM1IRK:
+    branch: (IRKUTSK BRANCH)
+    city: IRKUTSK
+    institution: BANK SOYUZ
+  JCAMRUM1KRD:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: BANK SOYUZ
+  JCAMRUM1KRS:
+    branch: (KRASNOYARSK BRANCH)
+    city: KRASNOYARSK
+    institution: BANK SOYUZ
+  JCAMRUM1NNG:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: BANK SOYUZ
+  JCAMRUM1SAM:
+    branch: (SAMARA BRANCH)
+    city: SAMARA
+    institution: BANK SOYUZ
+  JCAMRUM1SPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: BANK SOYUZ
+  JCAMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK SOYUZ
+  JCCYRU21:
+    branch: null
+    city: VOLGOGRAD
+    institution: RUSYUGBANK OAO
+  JCFORUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK IDM (PJSC)
+  JCMMRUM1:
+    branch: null
+    city: MOSCOW
+    institution: MASS MEDIA BANK
+  JCNIRU51:
+    branch: null
+    city: ORENBURG
+    institution: '''NEW INVESTMENT-COMMERCIAL ORENBURG BANK OF INDUSTRY DEVELOPMENT''
+      OAO'
+  JCSERU41:
+    branch: null
+    city: TYUMEN
+    institution: SIBERIAN ECONOMIC BANK
+  JCZERU31:
+    branch: null
+    city: SYZRAN
+    institution: LLC ''ZEMSKY BANK''
+  JIVARU21:
+    branch: null
+    city: RYAZAN
+    institution: JIVAGO-BANK
+  JORORU21ARB:
+    branch: (ARHANGELSK BRANCH)
+    city: ARKHANGELSK
+    institution: ROST BANK
+  JORORU21ASB:
+    branch: (ASTRAHAN BRANCH)
+    city: ASTRAKHAN
+    institution: ROST BANK
+  JORORU21BRB:
+    branch: (BRYANSK BRANCH)
+    city: BRYANSK
+    institution: ROST BANK
+  JORORU21CHB:
+    branch: (CHITA BRANCH)
+    city: CHITA
+    institution: ROST BANK
+  JORORU21CLB:
+    branch: (CHELYABINSK BRANCH)
+    city: CHELYABINSK
+    institution: ROST BANK
+  JORORU21EKB:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: ROST BANK
+  JORORU21HAB:
+    branch: (HABAROVSK BRANCH)
+    city: HABAROVSK
+    institution: ROST BANK
+  JORORU21IVB:
+    branch: (IVANOVO BRANCH)
+    city: IVANOVO
+    institution: ROST BANK
+  JORORU21IZB:
+    branch: (IZHEVSK BRANCH)
+    city: IZHEVSK
+    institution: ROST BANK
+  JORORU21KGB:
+    branch: (KALUGA BRANCH)
+    city: KALUGA
+    institution: ROST BANK
+  JORORU21KLB:
+    branch: (KALININGRAD BRANCH)
+    city: KALININGRAD
+    institution: ROST BANK
+  JORORU21KNB:
+    branch: (KRASNOYARSK BRANCH)
+    city: KRASNOYARSK
+    institution: ROST BANK
+  JORORU21KOS:
+    branch: (KOSTROMA BRANCH)
+    city: KOSTROMA
+    institution: ROST BANK
+  JORORU21KRB:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: ROST BANK
+  JORORU21KUB:
+    branch: (KURSK BRANCH)
+    city: KURSK
+    institution: ROST BANK
+  JORORU21LIB:
+    branch: (LIPECK BRANCH)
+    city: LIPETSK
+    institution: ROST BANK
+  JORORU21MAB:
+    branch: (MAGADAN BRANCH)
+    city: MAGADAN
+    institution: ROST BANK
+  JORORU21MUB:
+    branch: (MURMANSK BRANCH)
+    city: MURMANSK
+    institution: ROST BANK
+  JORORU21NAL:
+    branch: (NALCHIK BRANCH)
+    city: NALCHIK
+    institution: ROST BANK
+  JORORU21NNB:
+    branch: (NIZHNIY-NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: ROST BANK
+  JORORU21NOB:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: ROST BANK
+  JORORU21OMS:
+    branch: (OMSK BRANCH)
+    city: OMSK
+    institution: ROST BANK
+  JORORU21ORB:
+    branch: (OREL BRANCH)
+    city: OREL
+    institution: ROST BANK
+  JORORU21PEB:
+    branch: (PETROZAVODSK BRANCH)
+    city: PETROZAVODSK
+    institution: ROST BANK
+  JORORU21PMB:
+    branch: (PERM BRANCH)
+    city: PERM
+    institution: ROST BANK
+  JORORU21PNZ:
+    branch: (ROST BANK PENZA BRANCH)
+    city: PENZA
+    institution: ROST BANK
+  JORORU21RDB:
+    branch: (ROSTOV-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: ROST BANK
+  JORORU21RZB:
+    branch: (RYAZAN BRANCH)
+    city: RYAZAN
+    institution: ROST BANK
+  JORORU21SAB:
+    branch: (SAMARA BRANCH)
+    city: SAMARA
+    institution: ROST BANK
+  JORORU21SMB:
+    branch: (SMOLENSK BRANCH)
+    city: SMOLENSK
+    institution: ROST BANK
+  JORORU21SPB:
+    branch: (ROST BANK ST.PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: ROST BANK
+  JORORU21STB:
+    branch: (STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: ROST BANK
+  JORORU21SVB:
+    branch: (SARATOV BRANCH)
+    city: SARATOV
+    institution: ROST BANK
+  JORORU21TLB:
+    branch: (TOLYATTI BRANCH)
+    city: TOGLIATTI
+    institution: ROST BANK
+  JORORU21TOB:
+    branch: (TOMSK BRANCH)
+    city: TOMSK
+    institution: ROST BANK
+  JORORU21TUB:
+    branch: (TYUMEN BRANCH)
+    city: TYUMEN
+    institution: ROST BANK
+  JORORU21TVB:
+    branch: (TVER BRANCH)
+    city: TVER
+    institution: ROST BANK
+  JORORU21UFB:
+    branch: (UFA BRANCH)
+    city: UFA
+    institution: ROST BANK
+  JORORU21ULB:
+    branch: (ULAN-UDE BRANCH)
+    city: ULAN-UDE
+    institution: ROST BANK
+  JORORU21VAB:
+    branch: (VLADIVOSTOK BRANCH)
+    city: VLADIVOSTOK
+    institution: ROST BANK
+  JORORU21VDB:
+    branch: (VLADIMIR BRANCH)
+    city: VLADIMIR
+    institution: ROST BANK
+  JORORU21VGB:
+    branch: (VOLOGDA BRANCH)
+    city: VOLOGDA
+    institution: ROST BANK
+  JORORU21VLB:
+    branch: (VOLGOGRAD BRANCH)
+    city: VOLGOGRAD
+    institution: ROST BANK
+  JORORU21VNV:
+    branch: (VELIKIY NOVGOROD BRANCH)
+    city: VELIKIY NOVGOROD
+    institution: ROST BANK
+  JORORU21VOB:
+    branch: (VORONEZH BRANCH)
+    city: VORONEZH
+    institution: ROST BANK
+  JORORU21YAB:
+    branch: (YAKUTSK BRANCH)
+    city: YAKUTSK
+    institution: ROST BANK
+  JORORU21YRL:
+    branch: (YAROSLAVL BRANCH)
+    city: YAROSLAVL
+    institution: ROST BANK
+  JORORUMM:
+    branch: null
+    city: MOSCOW
+    institution: ROST BANK
+  JSAGRU21:
+    branch: null
+    city: CHEREPOVETS
+    institution: STOCK COMMERCIAL BANK AGROCREDBANK ZAO
+  JSBCRU4N:
+    branch: null
+    city: MOSCOW
+    institution: JOINT-STOCK BANK CAPITAL
+  JSBSRU2102S:
+    branch: (SESTRORETSK BRANCH)
+    city: SESTRORETSK
+    institution: BANK SAINT-PETERSBURG PJSC
+  JSBSRU2102U:
+    branch: (PUSHKIN BRANCH)
+    city: PUSHKIN
+    institution: BANK SAINT-PETERSBURG PJSC
+  JSBSRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: BANK SAINT-PETERSBURG PJSC
+  JSCKRU41:
+    branch: null
+    city: NIZHNIY TAGIL
+    institution: OAO TAGILBANK
+  JSCORU4P:
+    branch: null
+    city: PERM
+    institution: BANK URAL FD
+  JSCORU4PMSK:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: BANK URAL FD
+  JSCORU4PPRM:
+    branch: (BANK 'URAL FD')
+    city: PERM
+    institution: BANK URAL FD
+  JSMBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: MOSCOW BILL BANK
+  JSMBRUMMPNZ:
+    branch: (PENZA BRANCH)
+    city: PENZA
+    institution: MOSCOW BILL BANK
+  JSNMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  JSNMRUMMEKB:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  JSNMRUMMKHA:
+    branch: (REGIOBANK-BRANCH OF BANK OTKRITIE FINANCIAL CORPORATION PJSC)
+    city: KHABAROVSK
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  JSNMRUMMKRD:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  JSNMRUMMNNV:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  JSNMRUMMNSB:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  JSNMRUMMRND:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  JSNMRUMMSPB:
+    branch: (SAINT PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  JSRRRUMM:
+    branch: null
+    city: MOSCOW
+    institution: RUSSOBANK
+  JXIBRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: JOINT-STOCK COMMERCIAL EXPORT-IMPORT BANK
+  KABORU2K:
+    branch: null
+    city: KAZAN
+    institution: BANK OF KAZAN, KBER, OOO
+  KACORU21:
+    branch: null
+    city: NABEREZHNYE CHELNY
+    institution: KAMA COMMERCIAL BANK
+  KAGRRU21:
+    branch: null
+    city: NABEREZHNYE CHELNY
+    institution: KAMSKIY GORIZONT
+  KALGRU21:
+    branch: null
+    city: KALUGA
+    institution: BANK KALUGA
+  KAMCRUPP:
+    branch: null
+    city: PETROPAVLOVSK-KAMCHATSKI
+    institution: KAMCHATKOMAGROPROMBANK PJSC
+  KAMHRUP1:
+    branch: null
+    city: PETROPAVLOVSK-KAMCHATSKI
+    institution: KAMCHATKA, OOO KOMMERCHESKIJ BANK
+  KAOORU3C:
+    branch: null
+    city: CHERKESSK
+    institution: OPEN JOINT STOCK COMPANY 'SAUBER BANK'
+  KAOORU3CSPB:
+    branch: (ST. PETERSBURG)
+    city: ST. PETERSBURG
+    institution: OPEN JOINT STOCK COMPANY 'SAUBER BANK'
+  KASKRUM1:
+    branch: null
+    city: MOSCOW
+    institution: KASKAD
+  KETORU41:
+    branch: null
+    city: KETOVO
+    institution: KB KETOVSKIJ
+  KFIERU21:
+    branch: null
+    city: ST. PETERSBURG
+    institution: KIT FINANCE LTD
+  KHMURU55:
+    branch: null
+    city: ABAKAN
+    institution: KHAKAS MUNICIPAL BANK CO.LTD
+  KHOARU22:
+    branch: null
+    city: KIROV
+    institution: COMMERCIAL BANK KHLYNOV (JOINT-STOCK COMPANY)
+  KHOVRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK KHOVANSKIY
+  KHZARU21SAR:
+    branch: (YUZHNO-SAKHALINSK BRANCH)
+    city: YUZHNO-SAKHALINSK
+    institution: BANK KHOLMSK, JOINT-STOCK COMPANY
+  KHZARU99:
+    branch: null
+    city: KHOLMSK
+    institution: BANK KHOLMSK, JOINT-STOCK COMPANY
+  KITZRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK KITEZH
+  KLKORUM1:
+    branch: null
+    city: MOSCOW
+    institution: KLIENTSKY BANK
+  KLKORUM1KRS:
+    branch: (KRASNOYARSK BRANCH)
+    city: KRASNOYARSK
+    institution: KLIENTSKY BANK
+  KLUCRU4E:
+    branch: null
+    city: EKATERINBURG
+    institution: KOLTSO URALA KB OOO
+  KMBBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANCA INTESA
+  KOEXRUMM:
+    branch: null
+    city: MOSCOW
+    institution: KEB HNB RUS LLC
+  KOMXRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK FINSERVICE JSC
+  KOOARU21:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: HBRD-BANK
+  KOSHRU3S:
+    branch: null
+    city: SAMARA
+    institution: JSC KOSHELEV-BANK
+  KOSTRU21:
+    branch: null
+    city: KOSTROMA
+    institution: KOSTROMASELKOMBANK
+  KRANRU21:
+    branch: null
+    city: IVANOVO
+    institution: KRANBANK ZAO
+  KRANRU21MSW:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: KRANBANK ZAO
+  KRASRU3A:
+    branch: null
+    city: ASTRAKHAN
+    institution: JOINT STOCK COMPANY CONSERVATIVE COMMERCIAL BANK
+  KRASRU3AMOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: JOINT STOCK COMPANY CONSERVATIVE COMMERCIAL BANK
+  KREMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: KREMLYOVSKIY COMMERCIAL BANK LTD
+  KRPBRU2Y:
+    branch: null
+    city: YAROSLAVL
+    institution: YAROSLAVL JOINT STOCK CREDPROMBANK OPEN JOINT STO CK COMPANY
+  KRPBRU2YMSK:
+    branch: null
+    city: MOSCOW
+    institution: YAROSLAVL JOINT STOCK CREDPROMBANK OPEN JOINT STO CK COMPANY
+  KRRIRU22:
+    branch: null
+    city: KRASNODAR
+    institution: PUBLIC JOINT-STOCK COMPANY KRASNODAR REGIONAL INVESTMENT BANK
+  KRSBRU51:
+    branch: null
+    city: NOVOKUZNETSK
+    institution: KUZNETSKY BRANCH OF THE SAVINGS BANK
+  KRSERUP1:
+    branch: null
+    city: PALANA
+    institution: KRAINIY SERVER BANK
+  KRYLRU21:
+    branch: null
+    city: KRASNODAR
+    institution: KRYLOVSKY BANK
+  KRYLRU21MSK:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: KRYLOVSKY BANK
+  KSBARU21:
+    branch: null
+    city: SARANSK
+    institution: KS BANK
+  KUBBRU21:
+    branch: null
+    city: KRASNODAR
+    institution: IDEA BANK
+  KUKRRU21:
+    branch: null
+    city: KRASNODAR
+    institution: CB 'KUBAN CREDIT' LTD
+  KUKRRU22:
+    branch: null
+    city: KRASNODAR
+    institution: CB 'KUBAN CREDIT' LTD
+  KURGRU4K:
+    branch: null
+    city: KURGAN
+    institution: JSCIB KURGAN
+  KURSRU22:
+    branch: null
+    city: KURSK
+    institution: KURSKPROMBANK PAO
+  KUUNRU21:
+    branch: null
+    city: KRASNODAR
+    institution: KUBANSKIJ UNIVERSALNYJ BANK
+  KUZARU21:
+    branch: null
+    city: KRASNODAR
+    institution: KUBANTORGBANK ZAO
+  KUZSRU51:
+    branch: null
+    city: KEMEROVO
+    institution: KUZBASSHIMBANK
+  KVJSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: IVY BANK (JOINT-STOCK COMPANY)
+  KZBURU51:
+    branch: null
+    city: NOVOKUZNETSK
+    institution: AB OAO 'KUZNETSKBIZNESBANK'
+  LBAPRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: INTERNATIONAL BANK OF ST.PETERSBURG PLC
+  LBAPRU2PMOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: INTERNATIONAL BANK OF ST.PETERSBURG PLC
+  LCJCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: LONG TERM CREDIT BANK
+  LEBRRU21:
+    branch: null
+    city: ST. PETERSBURG
+    institution: LENSTROYMATERIALY BROKERAGE AO
+  LEVBRU55:
+    branch: null
+    city: NOVOSIBIRSK
+    institution: BANK LEVOBEREZHNY PJSC
+  LGOORUM1:
+    branch: null
+    city: MOSCOW
+    institution: LOGOS OOO
+  LIGHRUMM:
+    branch: null
+    city: MOSCOW
+    institution: LIGHTBANK
+  LIPERU21002:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: LIPETSKCOMBANK PJSC
+  LIPERU2L:
+    branch: null
+    city: LIPETSK
+    institution: LIPETSKCOMBANK PJSC
+  LIPKRU21:
+    branch: null
+    city: LIPETSK
+    institution: LIPETSKOBLBANK
+  LIPKRU21MOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: LIPETSKOBLBANK
+  LJSARU21:
+    branch: null
+    city: ARKHANGELSK
+    institution: JOINT STOCK COMMERCIAL BANK 'LESOBANK'
+  LLCLRUM2:
+    branch: null
+    city: KRASNODAR
+    institution: CB GT BANK LLC
+  LLCRRU2R:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: LLC CB KREDIT EXPRESS
+  LLPRRU21:
+    branch: null
+    city: UFA
+    institution: LL PROMTRANSBANK
+  LSNCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: LLC. SETTLEMENT NON-BANK CREDIT ORGANIZATION 'WALLET ONE'
+  LUKORUMM:
+    branch: null
+    city: MOSCOW
+    institution: PUBLIC JOINT STOCK COMPANY 'OIL COMPANY LUKOIL'
+  MABLRU21:
+    branch: null
+    city: KALININGRAD
+    institution: MARITIME BANK BRANCH OF KALININGRAD
+  MAJKRU21:
+    branch: null
+    city: MAJSKIJ
+    institution: BANK MAJSKIJ
+  MAKMRU21:
+    branch: null
+    city: VOLGODONSK
+    institution: MAKSIMUM
+  MAXMRUM1:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK 'MAXIMA' OOO
+  MBOGRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ORGBANK INTERBANK ASSOCIATION
+  MBRDRUM1EKT:
+    branch: (URALSKY)
+    city: EKATERINBURG
+    institution: MTS BANK
+  MBRDRUM1NVS:
+    branch: (NOVOSIBIRSKY)
+    city: NOVOSIBIRSK
+    institution: MTS BANK
+  MBRDRUM1RND:
+    branch: (ROSTOV-ON-DON)
+    city: ROSTOV-ON-DON
+    institution: MTS BANK
+  MBRDRUM1SPB:
+    branch: (ST.PETERSBURG)
+    city: ST. PETERSBURG
+    institution: MTS BANK
+  MBRDRUM1STV:
+    branch: (MBRD STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: MTS BANK
+  MBRDRUM1UFA:
+    branch: (UFIMSKY)
+    city: UFA
+    institution: MTS BANK
+  MBRDRUMM:
+    branch: null
+    city: MOSCOW
+    institution: MTS BANK
+  MBRDRUMMKHA:
+    branch: (FAR EASTERN BRANCH)
+    city: KHABAROVSK
+    institution: MTS BANK
+  MCRBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: CREDIT BANK OF MOSCOW (PUBLIC JOINT STOCK COMPANY)
+  MDURRU41:
+    branch: null
+    city: EKATERINBURG
+    institution: BANK EEFC-URAL AO
+  MECCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: METALLURG COMMERCIAL BANK LTD.
+  MEDNRUM1:
+    branch: null
+    city: MOSCOW
+    institution: MEDINVESTBANK
+  MEGPRU21:
+    branch: null
+    city: CHEBOKSARY
+    institution: OOO CB 'MEGAPOLICE'
+  MEGPRU21MOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: OOO CB 'MEGAPOLICE'
+  MEOORUM1:
+    branch: null
+    city: MOSCOW
+    institution: MEZHTORGBANK ZAO
+  MEZRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK 'MEZHREGIONBANK' OOO
+  MFOORUM1:
+    branch: null
+    city: MOSCOW
+    institution: MFBANK OOO
+  MHCCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: AO MIZUHO BANK (MOSCOW)
+  MICURUMM:
+    branch: null
+    city: MOSCOW
+    institution: NATIONAL SETTLEMENT DEPOSITORY
+  MINNRUM1001:
+    branch: (LENINGRADSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1002:
+    branch: (MOSKVORETZKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1003:
+    branch: (SOKOLNICHESKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1004:
+    branch: (KIROVSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1005:
+    branch: (MOSCOW AREA REGIONAL DEPARTMENT)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1006:
+    branch: (KIEVSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1007:
+    branch: (MOSCOW CITY REGIONAL DEPARTMENT)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1008:
+    branch: (LUBLINSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1009:
+    branch: (PROMYSHLENNOE OPERU OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1010:
+    branch: (OKTYABR'SKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1011:
+    branch: (TRANSPORTNY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1012:
+    branch: (TAGANSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1013:
+    branch: (PERVOMAYSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1014:
+    branch: (PEROVSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1015:
+    branch: (VOLGOGRADSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1016:
+    branch: (KUNTSEVSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1017:
+    branch: (VELOZAVODSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1018:
+    branch: (KUIBYSHEVSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1019:
+    branch: (TUSHINSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1020:
+    branch: (PROLETARSKIY OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1021:
+    branch: (REGIONAL DEPARTMENT OFFICE IN THE CITY OF VOLGOGRAD)
+    city: VOLGOGRAD
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1026:
+    branch: (VLADIMIRSKOE REGIONAL DEPARTMENT)
+    city: VLADIMIR
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1027:
+    branch: (KOVROV OFFICE)
+    city: KOVROV
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1028:
+    branch: (GUS-KHRUSTALNY OFFICE)
+    city: GUS-KHRUSTALNY
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1029:
+    branch: (KOLCHUGINO OFFICE)
+    city: KOLCHUGINO
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1030:
+    branch: (MUROM OFFICE)
+    city: MUROM
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1031:
+    branch: (RADUZHNY OFFICE)
+    city: RADUZHNY
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1032:
+    branch: (REGIONAL DEPARTMENT OFFICE IN THE CITY OF ARKHANGELSK)
+    city: ARKHANGELSK
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1033:
+    branch: (NOVODVINSKIY OFFICE)
+    city: NOVODVINSK
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1034:
+    branch: (SEVERODVINSKIY OFFICE)
+    city: SEVERODVINSK
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1035:
+    branch: (NAR'YAN-MARSKIY OFFICE)
+    city: NAR'YAN-MAR
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1036:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1038:
+    branch: (BELGORODSKOE REGIONAL DEPARTMENT OFFICE)
+    city: BELGOROD
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1039:
+    branch: (VORONEZHSKOE REGIONAL DEPARTMENT OFFICE)
+    city: VORONEZH
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1040:
+    branch: ('ORLOVSKOE REGIONAL DEPARTMENT' OFFICE)
+    city: ORYOL
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1041:
+    branch: (YAROSLAVSKOE REGIONAL DEPARTMENT OFFICE)
+    city: YAROSLAVL
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1042:
+    branch: (REGIONAL DEPARTMENT OFFICE IN THE CITY OF CHERKESSK)
+    city: CHERKESSK
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1043:
+    branch: (REGIONAL DEPARTMENT OFFICE IN THE CITY OF NALCHIK)
+    city: NALCHIK
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1044:
+    branch: (REGIONAL DEPARTMENT OFFICE IN THE CITY OF VLADIKAVKAZ)
+    city: VLADIKAVKAZ
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1045:
+    branch: (SEVERO-KAVKAZSKOE REGIONAL DEPARTMENT)
+    city: STAVROPOL
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1046:
+    branch: (REGIONAL DEPARTMENT OFFICE IN THE CITY OF BUDENOVSK)
+    city: BUDENOVSK
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1047:
+    branch: (REGIONAL DEPARTMENT OFFICE IN THE CITY OF ASTRAKHAN)
+    city: ASTRAKHAN
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1048:
+    branch: (ROSTOVSKOE REGIONAL DEPARTMENT)
+    city: ROSTOV-ON-DON
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1049:
+    branch: (TULSKOE REGIONAL DEPARTMENT OFFICE)
+    city: TULA
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1050:
+    branch: (BRYANSKOE REGIONAL DEPARTMENT OFFICE)
+    city: BRYANSK
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1051:
+    branch: (REGIONAL DEPARTMENT OFFICE IN THE CITY OF KRASNODAR)
+    city: KRASNODAR
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1052:
+    branch: (KALUZSKOE REGIONAL DEPARTMENT OFFICE)
+    city: KALUGA
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1054:
+    branch: (LIPETSKOE REGIONAL DEPARTMENT OFFICE)
+    city: LIPETSK
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1055:
+    branch: (IVANOVSKOE REGIONAL DEPARTMENT OFFICE)
+    city: IVANOVO
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1056:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1057:
+    branch: (REGIONAL DEPARTMENT OFFICE IN THE CITY OF MAYKOP)
+    city: MAYKOP
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUM1099:
+    branch: (OPERATIONS DEPARTMENT)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MINNRUMM:
+    branch: (HEAD OFFICE)
+    city: MOSCOW
+    institution: JSCB 'MOSCOW INDUSTRIAL BANK' PC
+  MJSBRUM1NVR:
+    branch: (NOVOROSSIYSK BRANCH)
+    city: NOVOROSSIYSK
+    institution: MARITIME BANK
+  MJSBRUM1SPB:
+    branch: (ST.PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: MARITIME BANK
+  MJSBRUM1VLK:
+    branch: (VLADIVOSTOK BRANCH)
+    city: VLADIVOSTOK
+    institution: MARITIME BANK
+  MJSBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: MARITIME BANK
+  MLSORUMM:
+    branch: null
+    city: MOSCOW
+    institution: OOO MERRILL LYNCH SECURITIES
+  MLSORUMMCUS:
+    branch: (CUSTODY SERVICES)
+    city: MOSCOW
+    institution: OOO MERRILL LYNCH SECURITIES
+  MLSORUMMMOS:
+    branch: null
+    city: MOSCOW
+    institution: OOO MERRILL LYNCH SECURITIES
+  MNHBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: MOSCOW NEFTECHEMICAL BANK OAO
+  MOBKRUM1001:
+    branch: (BRANCH NO.1)
+    city: ROSTOV-NA-DONU
+    institution: MOSOBLBANK
+  MOBKRUM1003:
+    branch: (BRANCH NO.3)
+    city: SAMARA
+    institution: MOSOBLBANK
+  MOBKRUM1004:
+    branch: (BRANCH NO.4)
+    city: ASTRAKHAN
+    institution: MOSOBLBANK
+  MOBKRUM1005:
+    branch: (BRANCH NO.5)
+    city: ARKHANGELSK
+    institution: MOSOBLBANK
+  MOBKRUM1006:
+    branch: (BRANCH NO.6)
+    city: NIZHNIY NOVGOROD
+    institution: MOSOBLBANK
+  MOBKRUM1007:
+    branch: (BRANCH NO.7)
+    city: OMSK
+    institution: MOSOBLBANK
+  MOBKRUM1008:
+    branch: (BRANCH NO.8)
+    city: TYUMEN
+    institution: MOSOBLBANK
+  MOBKRUM1009:
+    branch: (BRANCH NO.9)
+    city: YAKUTSK
+    institution: MOSOBLBANK
+  MOBKRUM1010:
+    branch: (BRANCH NO.10)
+    city: GROZNY
+    institution: MOSOBLBANK
+  MOBKRUM1011:
+    branch: (BRANCH NO.11)
+    city: KEMEROVO
+    institution: MOSOBLBANK
+  MOBKRUM1012:
+    branch: (BRANCH NO.12)
+    city: VLADIVOSTOK
+    institution: MOSOBLBANK
+  MOBKRUM1013:
+    branch: (BRANCH NO.13)
+    city: KRASNOGORSK
+    institution: MOSOBLBANK
+  MOBKRUM1014:
+    branch: (BRANCH NO.14)
+    city: ST. PETERSBURG
+    institution: MOSOBLBANK
+  MOBKRUM1015:
+    branch: (FILIAL 15)
+    city: IZHEVSK
+    institution: MOSOBLBANK
+  MOBKRUM1016:
+    branch: (FILIAL 16)
+    city: VLADIMIR
+    institution: MOSOBLBANK
+  MOBKRUM1017:
+    branch: null
+    city: KURGAN
+    institution: MOSOBLBANK
+  MOBKRUM1018:
+    branch: (FILIAL 18)
+    city: PERM
+    institution: MOSOBLBANK
+  MOBKRUM1019:
+    branch: (FILIAL 19)
+    city: CHEBOKSARY
+    institution: MOSOBLBANK
+  MOBKRUM1020:
+    branch: null
+    city: UFA
+    institution: MOSOBLBANK
+  MOBKRUM1021:
+    branch: null
+    city: GORNO-ALTAYSK
+    institution: MOSOBLBANK
+  MOBKRUM1022:
+    branch: (BRANCH NO.22)
+    city: KURSK
+    institution: MOSOBLBANK
+  MOBKRUM1023:
+    branch: (BRANCH NO.23)
+    city: SOCHI
+    institution: MOSOBLBANK
+  MOBKRUM1024:
+    branch: (BRANCH NO.24)
+    city: RYAZAN
+    institution: MOSOBLBANK
+  MOBKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: MOSOBLBANK
+  MOBLRU31:
+    branch: null
+    city: IZHEVSK
+    institution: '''MOBILBANK'' OAO'
+  MOBLRU31MSC:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: '''MOBILBANK'' OAO'
+  MOBWRU21:
+    branch: null
+    city: MOSCOW
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1AND:
+    branch: (ANADYR BRANCH)
+    city: ANADYR
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1ARH:
+    branch: (ARKHANGELSK BRANCH)
+    city: ARKHANGELSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1BRN:
+    branch: (BARNAUL BRANCH)
+    city: BARNAUL
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1CHL:
+    branch: (CHELYABINSK BRANCH)
+    city: CHELYABINSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1CHT:
+    branch: (CHITA BRANCH)
+    city: CHITA
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1EKT:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1IRK:
+    branch: (IRKUTSK BRANCH)
+    city: IRKUTSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1IVN:
+    branch: (IVANOVO BRANCH)
+    city: IVANOVO
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1IZH:
+    branch: (IZHEVSK BRANCH)
+    city: IZHEVSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1KAZ:
+    branch: (KAZAN BRANCH)
+    city: KAZAN
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1KHB:
+    branch: (KHABAROVSK BRANCH)
+    city: KHABAROVSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1KMR:
+    branch: (KEMEROVO BRANCH)
+    city: KEMEROVO
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1KRG:
+    branch: (KURGAN BRANCH)
+    city: KURGAN
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1KRS:
+    branch: (KRASNOYARSK BRANCH)
+    city: KRASNOYARSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1KUR:
+    branch: (KURSK BRANCH)
+    city: KURSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1LIP:
+    branch: (LIPETSK BRANCH)
+    city: LIPETSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1MRM:
+    branch: (MURMANSK BRANCH)
+    city: MURMANSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1NVK:
+    branch: (NOVOKUZNETSK BRANCH)
+    city: NOVOKUZNETSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1NZH:
+    branch: (NIZHNY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1OBN:
+    branch: (OBNINSK BRANCH)
+    city: OBNINSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1OMS:
+    branch: (OMSK BRANCH)
+    city: OMSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1ORL:
+    branch: (OREL BRANCH)
+    city: OREL
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1PNZ:
+    branch: (PENZA BRANCH)
+    city: PENZA
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1PRM:
+    branch: (PERM BRANCH)
+    city: PERM
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1RST:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1SAM:
+    branch: (SAMARA BRANCH)
+    city: SAMARA
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1SML:
+    branch: (SMOLENSK BRANCH)
+    city: SMOLENSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1STV:
+    branch: (STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1SUR:
+    branch: (SURGUT BRANCH)
+    city: SURGUT
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1SYK:
+    branch: (SYKTYVKAR BRANCH)
+    city: SYKTYVKAR
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1SYN:
+    branch: (SAYANOGORSK BRANCH)
+    city: SAYANOGORSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1TMN:
+    branch: (TYUMEN BRANCH)
+    city: TYUMEN
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1TMS:
+    branch: (TOMSK BRANCH)
+    city: TOMSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1TVR:
+    branch: (TVER BRANCH)
+    city: TVER
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1UFA:
+    branch: (UFA BRANCH)
+    city: UFA
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1VOL:
+    branch: (VOLGOGRAD BRANCH)
+    city: VOLGOGRAD
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1VOR:
+    branch: (VORONEZH BRANCH)
+    city: VORONEZH
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUM1YOL:
+    branch: (YOSHKAR-OLA BRANCH)
+    city: YOSHKAR-OLA
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUMM:
+    branch: null
+    city: MOSCOW
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUMMNVS:
+    branch: (ADMINISTRATIVE)
+    city: NOVOSIBIRSK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUMMSPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUMMTRS:
+    branch: (OPERATIONAL DEPARTMENT)
+    city: MOSCOW
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOBWRUMMVLD:
+    branch: (VLADIVOSTOK BRANCH)
+    city: VLADIVOSTOK
+    institution: B AND N BANK (PUBLIC JOINT-STOCK COMPANY)
+  MOCCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: MOSCOW CLEARING CENTRE
+  MOCKRU21:
+    branch: null
+    city: KALININGRAD
+    institution: MORSKOI COMMERCIAL BANK OF KALININGRAD
+  MOCORUM1:
+    branch: null
+    city: MOSCOW
+    institution: MOSCOW CENTRAL DEPOSITORY OAO
+  MOCSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: MOSKVA-CITY BANK OAO
+  MODBRU22:
+    branch: null
+    city: KOSTROMA
+    institution: MODULBANK
+  MOJSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: OJSC 'MVKB'
+  MOMGRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK JSC MMA
+  MORDRU21:
+    branch: null
+    city: SARANSK
+    institution: MORDOVSOTSBANK
+  MORKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC SEVASTOPOLSKIY MORSKOY  BANK - MOSCOW
+  MORPRU2D:
+    branch: null
+    city: SARANSK
+    institution: PUBLIC JOINT-STOCK COMPANY INTERREGIONAL INDUSTRIAL AND CONSTRUCTION
+      BANK
+  MOSLRUM1:
+    branch: null
+    city: MOSCOW
+    institution: MOSOBLINVESTBANK
+  MOSRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: MOSCOWSKO-URALSKY JOINT-STOCK COMMERCIAL BANK     (JOINT-STOCK COMPANY)
+  MOSWRUM2:
+    branch: null
+    city: MOSCOW
+    institution: BM-BANK
+  MOTRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: '''MOSTRANSBANK'' AO'
+  MPLSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: OOO MEJPROMBANK PLUS
+  MPRIRUMM:
+    branch: null
+    city: MOSCOW
+    institution: B AND N BANK CREDIT CARDS (CLOSED JOINT-STOCK COMPANY)
+  MPSORUMM:
+    branch: null
+    city: MOSCOW
+    institution: MOSCOW-PARIS BANK
+  MRBBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC MIR BUSINESS BANK
+  MRBBRUMMAST:
+    branch: (ASTRAKHAN BRANCH)
+    city: ASTRAKHAN
+    institution: JSC MIR BUSINESS BANK
+  MREERUM1:
+    branch: null
+    city: MOSCOW
+    institution: AO 'M-REESTR'
+  MSBKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: MORGAN STANLEY BANK
+  MSBKRUMMCOR:
+    branch: (CONVERSIONS AND CORPORATE ACTIONS)
+    city: MOSCOW
+    institution: MORGAN STANLEY BANK
+  MSBKRUMMFXO:
+    branch: (FOREIGN EXCHANGE OFFICE)
+    city: MOSCOW
+    institution: MORGAN STANLEY BANK
+  MSCJRU21:
+    branch: null
+    city: MURMANSK
+    institution: MURMANSK SOCIAL COMMERCIAL BANK OAO
+  MSTRRUMS:
+    branch: null
+    city: MOSCOW
+    institution: JSC BANK MASTER-CAPITAL
+  MTEORU21:
+    branch: null
+    city: MURMANSK
+    institution: MURMANSK TRANSFER CENTRE
+  MTIBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: MTI-BANK
+  MTKCRUM1KU1:
+    branch: (HEAD OFFICE)
+    city: KAMENSK-URALSKIY
+    institution: PJSC METKOMBANK
+  MTKCRUM1SH3:
+    branch: (SHELEHOV BRANCH)
+    city: SHELEHOV
+    institution: PJSC METKOMBANK
+  MTKCRUM1VG4:
+    branch: (VOLGOGRAD BANCH)
+    city: VOLGOGRAD
+    institution: PJSC METKOMBANK
+  MTKCRUMM:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: PJSC METKOMBANK
+  MUKZRUP1:
+    branch: null
+    city: PETROPAVLOVSK-KAMCHATSKI
+    institution: MUNICIPAL KAMCHATPROFITBANK ZAO
+  MUNKRU21:
+    branch: null
+    city: KALININGRAD
+    institution: MUNICIPALNYJ KOMMERCHESKIJ BANK
+  MVSVRU21:
+    branch: null
+    city: IZBERBASH
+    institution: MVS BANK
+  NACLRU21:
+    branch: null
+    city: ELISTA
+    institution: NATIONAL CLEARING BANK
+  NADCRU21:
+    branch: null
+    city: MOSCOW
+    institution: NATIONAL SETTLEMENT DEPOSITORY (DEPOSITORY OFFICE)
+  NADCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NATIONAL SETTLEMENT DEPOSITORY (DEPOSITORY OFFICE)
+  NADORUMM:
+    branch: null
+    city: MOSCOW
+    institution: NARODNY DOVERITELNY BANK
+  NADYRU91:
+    branch: null
+    city: MAGADAN
+    institution: NADYOZHNYJ BANK
+  NADYRU91MO1:
+    branch: (MOSKOVSKIJ FILIAL)
+    city: MOSCOW
+    institution: NADYOZHNYJ BANK
+  NAIDRUM1:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK 'NATIONAL INDUSTRIAL BANK' ZAO
+  NALCRU21:
+    branch: null
+    city: NALCHIK
+    institution: BANK NALCHIK
+  NAMDRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSCB NATIONAL BANK OF MUTUAL CREDIT
+  NARCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: NATIONAL REGISTRY COMPANY, THE
+  NARNRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC NATIONAL RESERVE BANK
+  NASPRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NK BANK
+  NATXRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NATIXIS BANK JSC
+  NAZARU41:
+    branch: null
+    city: KURGAN
+    institution: NADEZHNOST ZASCB OAO
+  NBDBRU2N:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: NBD-BANK
+  NBSXRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NBC CH SCIEX JSC
+  NBTRRUM1BAR:
+    branch: (BARNAUL BRANCH)
+    city: BARNAUL
+    institution: NATIONAL BANK TRUST
+  NBTRRUM1CHL:
+    branch: (CHELYABINSK BRANCH)
+    city: CHELYABINSK
+    institution: NATIONAL BANK TRUST
+  NBTRRUM1CHV:
+    branch: (CHEREPOVETS BRANCH)
+    city: CHEREPOVETS
+    institution: NATIONAL BANK TRUST
+  NBTRRUM1KHA:
+    branch: (KHABAROVSK BRANCH)
+    city: KHABAROVSK
+    institution: NATIONAL BANK TRUST
+  NBTRRUM1PYT:
+    branch: (PIATIGORSK BRANCH)
+    city: PYATIGORSK
+    institution: NATIONAL BANK TRUST
+  NBTRRUM1ROS:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: NATIONAL BANK TRUST
+  NBTRRUM1SPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: NATIONAL BANK TRUST
+  NBTRRUM1ULY:
+    branch: (ULIANOVSK BRANCH)
+    city: ULYANOVSK
+    institution: NATIONAL BANK TRUST
+  NBTRRUM1VLA:
+    branch: (VLADIMIR BRANCH)
+    city: VLADIMIR
+    institution: NATIONAL BANK TRUST
+  NBTRRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NATIONAL BANK TRUST
+  NBTRRUMMMOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: NATIONAL BANK TRUST
+  NCCBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK NATIONAL CLEARING CENTRE (JOINT-STOCK COMPANY)
+  NCILRU22:
+    branch: null
+    city: ST. PETERSBURG
+    institution: COMMERCIAL BANK NEVASTROYINVEST LIMITED LIABILITY COMPANY
+  NCJCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: PARTNERCAPITALBANK (JOINT-STOCK COMPANY)
+  NCNERU81:
+    branch: null
+    city: NERYUNGRI
+    institution: OPEN JOINT-STOCK COMPANY 'NERUNGRIBANK'
+  NCOBRUM1:
+    branch: null
+    city: MOSCOW
+    institution: OOO 'NATIONAL COMMERCIAL BANK'
+  NCOURUMM:
+    branch: null
+    city: MOSCOW
+    institution: UNITED SETTLEMENT SYSTEM NBCO JSC
+  NCRNRUM1:
+    branch: null
+    city: MOSCOW
+    institution: NEW CREDIT UNION BANK
+  NDEARUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC NORDEA BANK
+  NDOMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSCB NASH DOM
+  NECHRU2K:
+    branch: null
+    city: KAZAN
+    institution: NETWORK CLEARING HOUSE
+  NEIDRUM1:
+    branch: null
+    city: MOSCOW
+    institution: NEW INDUSTRIAL BANK
+  NEVSRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: NEVSKY BANK
+  NEWMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NEW MOSCOW BANK
+  NFCBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NATIONAL FACTORING COMPANY JSC
+  NIIZRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NATSINVESTPROMBANK
+  NINSRU31:
+    branch: null
+    city: SAMARA
+    institution: NATIONAL INVESTMENT BANK
+  NKBNRUM1:
+    branch: null
+    city: MOSCOW
+    institution: NKB
+  NLAIRU51:
+    branch: null
+    city: BIYSK
+    institution: NATIONAL LAND INDUSTRIAL BANK
+  NMCLRU21:
+    branch: null
+    city: ST. PETERSBURG
+    institution: NBFC MOBILE CARD LLC
+  NNCSRU21:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: MICEX VOLGA REGION ZAO
+  NOCRRU21:
+    branch: null
+    city: VOLOGDA
+    institution: NORTH CREDIT BANK
+  NOFRRU21:
+    branch: null
+    city: GORNO-ALTAYSK
+    institution: NOOSFERA-BANK
+  NOKSRU2V:
+    branch: null
+    city: VOLGOGRAD
+    institution: NOKSSBANK
+  NOVIRU21:
+    branch: null
+    city: MAYKOP
+    institution: OAO AKB 'NOVATSIYA'
+  NOVKRUM1:
+    branch: null
+    city: MOSCOW
+    institution: NOVYJ VEK BANK
+  NOVPRU24:
+    branch: null
+    city: KRASNODAR
+    institution: NOVOPOKROVSKIJ
+  NOVPRU24MOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: NOVOPOKROVSKIJ
+  NOVPRU31:
+    branch: null
+    city: SARATOV
+    institution: CB NOVOPOKROVSKIJ LLC
+  NSKBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NEW SYMBOL BANK AO
+  NSKBRUMMKMV:
+    branch: (ZHELEZNOVODSK BRANCH)
+    city: ZHELEZNOVODSK
+    institution: NEW SYMBOL BANK AO
+  NTCRRUMX:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK NEW TIME
+  NVOARU21:
+    branch: null
+    city: SARATOV
+    institution: NIZHNEVOLZHSKY COMMERCIAL BANK
+  NVOBRU21:
+    branch: null
+    city: NOVGOROD
+    institution: NOVOBANK
+  OBIBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: YAR BANK LTD.
+  OBJRRU21:
+    branch: null
+    city: CHEBOKSARY
+    institution: OBJEDINYONNYJ BANK RESPUBLIKI
+  OJSIRUM1:
+    branch: null
+    city: MOSCOW
+    institution: OBSHIJ BANK, THE JOINT STOCK COMMERCIAL BANK
+  OKOORU81:
+    branch: null
+    city: YUZHNO-SAKHALINSK
+    institution: OKHABANK OOO
+  OKSKRUM1173:
+    branch: (ALEKSANDROV BRANCH)
+    city: ALEXANDROV
+    institution: PJSC OK BANK
+  OKSKRUM1555:
+    branch: (DZERZHINSK BRANCH)
+    city: DZERZHINSK
+    institution: PJSC OK BANK
+  OKSKRUMM:
+    branch: null
+    city: YAROSLAVL
+    institution: PJSC OK BANK
+  ONOARU24:
+    branch: null
+    city: PETROZAVODSK
+    institution: PAO BANK ONEGO
+  OOPERUM1:
+    branch: null
+    city: MOSCOW
+    institution: OOO CB PREODOLENIE
+  ORBGRU3S:
+    branch: null
+    city: ORENBURG
+    institution: JSC BANK ORENBURG
+  OREORU41:
+    branch: null
+    city: EKATERINBURG
+    institution: ZAO 'SBERINVESTBANK'
+  ORSKRU44:
+    branch: null
+    city: ORSK
+    institution: ACCENT
+  OTKRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: OTKRITIE BROKERAGE HOUSE JSC
+  OTPVRUM1CHE:
+    branch: (CHELYABINSKY  BRANCH)
+    city: CHELYABINSK
+    institution: JOINT STOCK COMPANY 'OTP BANK'
+  OTPVRUM1HBR:
+    branch: (DALNEVOSTOCHNIY  BRANCH)
+    city: HABAROVSK
+    institution: JOINT STOCK COMPANY 'OTP BANK'
+  OTPVRUM1RST:
+    branch: (ROSTOVSKIY BRANCH)
+    city: GUKOVO
+    institution: JOINT STOCK COMPANY 'OTP BANK'
+  OTPVRUM1SAM:
+    branch: (SAMARSKIY BRANCH)
+    city: SAMARA
+    institution: JOINT STOCK COMPANY 'OTP BANK'
+  OTPVRUM1SPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: JOINT STOCK COMPANY 'OTP BANK'
+  OTPVRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JOINT STOCK COMPANY 'OTP BANK'
+  OTPVRUMMOMS:
+    branch: (OMSK BRANCH)
+    city: OMSK
+    institution: JOINT STOCK COMPANY 'OTP BANK'
+  PALHRUM1:
+    branch: null
+    city: MOSCOW
+    institution: PAYMENT CLEARING HOUSE CLOSE CORPORATION, THE
+  PCBCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: LLC 'CHINA CONSTRUCTION BANK'
+  PEJCRU21:
+    branch: null
+    city: KRASNODAR
+    institution: BANK PERVOMAISKY (PJSC)
+  PEOARU41:
+    branch: null
+    city: PERM
+    institution: PROINVESTBANK
+  PERSRUMM:
+    branch: null
+    city: MOSCOW
+    institution: PERESVET BANK
+  PFCBRUM1:
+    branch: null
+    city: MOSCOW
+    institution: PFC-BANK
+  PGSBRUM1:
+    branch: null
+    city: MOSCOW
+    institution: CB MIKHAYLOVSKY PZHSB
+  PITNRUM1:
+    branch: null
+    city: MOSCOW
+    institution: PRINT BANK
+  PJSCRU41:
+    branch: null
+    city: PERM
+    institution: JS BANK PERM
+  PLATRUMM:
+    branch: null
+    city: MOSCOW
+    institution: PLATINA BANK
+  POSBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: POST BANK PJSC
+  PRFBRU21:
+    branch: null
+    city: NOVOROSSIYSK
+    institution: PROMFINSERVIS BANK
+  PRFFRUM1:
+    branch: null
+    city: MOSCOW
+    institution: PROFIT BANK
+  PRFNRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: BANK PRIME FINANCE
+  PRHCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: PRIVATE HOLDING BANK LTD, COMMERCIAL BANK
+  PRICRUM1:
+    branch: null
+    city: MOSCOW
+    institution: PROSPECT INVESTMENT COMPANY
+  PRIORU2J:
+    branch: null
+    city: RYAZAN
+    institution: PRIO-VNESHTORGBANK
+  PRJCRU31:
+    branch: null
+    city: SAMARA
+    institution: PROMAVTOBANK COMMERCIAL BANK
+  PRKARU41:
+    branch: null
+    city: PERM
+    institution: PRIKAMYE COMMERCIAL BANK AO
+  PRLCRU21:
+    branch: null
+    city: PROHLADNY
+    institution: BANK PROHLADNY LIMITED LIABILITY COMPANY
+  PRMGRU21:
+    branch: null
+    city: VOLOGDA
+    institution: PROMENERGOBANK OAO
+  PRMIRUMM:
+    branch: null
+    city: MOSCOW
+    institution: PROMINVESTBANK
+  PRMSRUM1EKT:
+    branch: (URALSKIY BRANCH)
+    city: EKATERINBURG
+    institution: PROMSVYAZBANK PJSC
+  PRMSRUM1HAB:
+    branch: (DALNEVOSTOCHNIY BRANCH)
+    city: HABAROVSK
+    institution: PROMSVYAZBANK PJSC
+  PRMSRUM1STV:
+    branch: (STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: PROMSVYAZBANK PJSC
+  PRMSRUMM:
+    branch: null
+    city: MOSCOW
+    institution: PROMSVYAZBANK PJSC
+  PRMSRUMMNNV:
+    branch: (PRIVOLZHSKIY BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: PROMSVYAZBANK PJSC
+  PRMSRUMMNSB:
+    branch: (SIBIRSKY BRANCH)
+    city: NOVOSIBIRSK
+    institution: PROMSVYAZBANK PJSC
+  PRMSRUMMSPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: PROMSVYAZBANK PJSC
+  PRMSRUMMVGG:
+    branch: (YUJNIY BRANCH)
+    city: VOLGOGRAD
+    institution: PROMSVYAZBANK PJSC
+  PRMSRUMMYAB:
+    branch: (YAROSLAVL BRANCH)
+    city: YAROSLAVL
+    institution: PROMSVYAZBANK PJSC
+  PRMTRU8V:
+    branch: null
+    city: VLADIVOSTOK
+    institution: PRIMSOTSBANK
+  PRMZRUM1:
+    branch: null
+    city: MOSCOW
+    institution: PREMIER MCB ZAO
+  PROKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: PROCOMMERCEBANK
+  PRSBRU21BRK:
+    branch: (BRATSK BRANCH)
+    city: BRATSK
+    institution: BANK ORANGE (LLC)
+  PRSBRU21IRK:
+    branch: (IRKUTSK BRANCH)
+    city: IRKUTSK
+    institution: BANK ORANGE (LLC)
+  PRSBRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: BANK ORANGE (LLC)
+  PRSBRU2PSPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: BANK ORANGE (LLC)
+  PSBMRUM1:
+    branch: null
+    city: MOSCOW
+    institution: CB PULS STOLITSY
+  PSHBRU21:
+    branch: null
+    city: ENGELS
+    institution: INDUSTRIAL AGRICULTURAL BANK LIMITED
+  PSHBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: INDUSTRIAL AGRICULTURAL BANK LIMITED (PROMSELHOZBANK LTD.)
+  PSKORU21:
+    branch: null
+    city: PSKOV
+    institution: EUROSIB BANK
+  PSOCRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: PETERSBURG SOCIAL COMMERCIAL BANK
+  PSOJRU41:
+    branch: null
+    city: STERLITAMAK
+    institution: PSB BANK, OJSC
+  PSOORU21:
+    branch: null
+    city: MAKHACHKALA
+    institution: KB ''PSIB'' (OOO)
+  PTCBRU8V:
+    branch: null
+    city: VLADIVOSTOK
+    institution: PRIMTERCOMBANK OOO
+  PTRBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  PTRBRUMM001:
+    branch: (KOGALYMSKY PCB BRANCH)
+    city: KOGALYM
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  PTRBRUMM015:
+    branch: (ARKHANGELSKY PCB BRANCH)
+    city: ARKHANGELSK
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  PTRBRUMM025:
+    branch: (UKHTINSKY PCB BRANCH)
+    city: UKHTA
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+  PUBBRU3C:
+    branch: null
+    city: CHERKESSK
+    institution: PUBLIC BANK
+  PUBBRU3CMSK:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: PUBLIC BANK
+  PVRBRU4V:
+    branch: null
+    city: PERVOURALSK
+    institution: PERVOURALSKBANK, JSC
+  PYHARUMM:
+    branch: null
+    city: MOSCOW
+    institution: RUNA BANK,JSCB
+  RAOORUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK 'RATIBOR' (LTD)
+  RASHRUMM:
+    branch: null
+    city: MOSCOW
+    institution: RASCHETNO-KREDITNY BANK
+  RBRORUMM:
+    branch: null
+    city: MOSCOW
+    institution: REGION BROKER COMPANY LLC
+  RCACRUMM:
+    branch: null
+    city: MOSCOW
+    institution: REPUBLIC CREDIT ALLIANCE COMMERCIAL BANK
+  RCAMRUM1:
+    branch: null
+    city: MOSCOW
+    institution: RENAISSANCE CAPITAL ASSET MANAGEMENT COMPANY
+  REAERUMM:
+    branch: null
+    city: MOSCOW
+    institution: CB 'RIAL-CREDIT'(LTD.)
+  REAPRU51:
+    branch: null
+    city: NOVOSIBIRSK
+    institution: REESTR A-PLUS
+  REBRRUMM:
+    branch: null
+    city: MOSCOW
+    institution: RENAISSANCE BROKER LIMITED
+  RECGRUM1:
+    branch: null
+    city: MOSCOW
+    institution: RENAISSANCE CAPITAL ZAO
+  RECRRU21:
+    branch: null
+    city: KALININGRAD
+    institution: REGIONAL CREDIT BANK OJSC CB
+  REDVRU21:
+    branch: null
+    city: MOSCOW
+    institution: BANK OF REGION DEVELOPMENT
+  REDVRU21RND:
+    branch: (ROSTOVSKIY BRANCH BRD)
+    city: ROSTOV-ON-DON
+    institution: BANK OF REGION DEVELOPMENT
+  REGVRU21:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: PROFESSIONAL CREDIT BANK LTD
+  REGVRU21001:
+    branch: (BRANCH MOSKOVSKIY)
+    city: MOSCOW
+    institution: PROFESSIONAL CREDIT BANK LTD
+  REIIRU21:
+    branch: null
+    city: YAROSLAVL
+    institution: REGION BANK
+  REJSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: REGISTRAR-COMMUNICATION JSC
+  RETLRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK RESO CREDIT
+  RETNRUM1:
+    branch: null
+    city: MOSCOW
+    institution: REGISTRATSIONNO-DEPOZITARNIY TSENTR PARITET
+  RFCBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: RFC-BANK
+  RICIRUMM:
+    branch: null
+    city: MOSCOW
+    institution: RUSSITA BANK INTERNATIONAL COMMERCIAL INVESTMENT BANK
+  RIIRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: RFI BANK
+  RIIRRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC BANK RESERVE FINANCE AND INVESTMENTS
+  RINKRUM1:
+    branch: null
+    city: MOSCOW
+    institution: RINK BANK JOINT STOCK BANK
+  RISBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: INDUSTRIAL SAVINGS BANK
+  RJSCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK MOSKVA
+  RMGSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: RYE, MAN AND GOR SECURITIES
+  RNBKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: RN BANK
+  RNCJRUM1:
+    branch: null
+    city: MOSCOW
+    institution: REGISTAR NICOIL COMPANY - JSK
+  RNCORUMM:
+    branch: null
+    city: MOSCOW
+    institution: RUSSIAN NATIONAL COMMERCIAL BANK
+  RNMGRUM1:
+    branch: null
+    city: MOSCOW
+    institution: ROSSWIFT
+  ROCERU31:
+    branch: null
+    city: VLADIVOSTOK
+    institution: ROYAL CREDIT BANK
+  ROCERU31HBR:
+    branch: (KHABAROVSK BRANCH)
+    city: KHABAROVSK
+    institution: ROYAL CREDIT BANK
+  ROCERU31VLD:
+    branch: (FAR-EASTERN BRANCH)
+    city: VLADIVOSTOK
+    institution: ROYAL CREDIT BANK
+  ROJBRU21:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: ROSBANK-VOLGA ZAO
+  ROJSRU21:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: OAO NIZHNY NOVGOROD COMMERCIAL BANK 'RADIOTEHBANK'
+  ROOARU21:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: ROSTPROMSTROYBANK
+  ROSFRU2A:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: LIMITED LIABILITY COMPANY OF COMMERCIAL BANK ROSTFINANCE
+  ROSKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK ROSSIYSKY CAPITAL
+  ROSNRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ROSNEFT
+  ROSORUMM:
+    branch: null
+    city: MOSCOW
+    institution: ROSDORBANK
+  ROSYRU21BEL:
+    branch: (BELGOROD BRANCH)
+    city: BELGOROD
+    institution: BANK ''ROSSIYA''
+  ROSYRU21CNT:
+    branch: (CENTRAL BRANCH)
+    city: MOSCOW
+    institution: BANK ''ROSSIYA''
+  ROSYRU21KRD:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: BANK ''ROSSIYA''
+  ROSYRU21KRL:
+    branch: (KOROLEV BRANCH)
+    city: KOROLEV
+    institution: BANK ''ROSSIYA''
+  ROSYRU21KRV:
+    branch: (KIROV BRANCH)
+    city: KIROV
+    institution: BANK ''ROSSIYA''
+  ROSYRU21KUR:
+    branch: (KURSK BRANCH)
+    city: KURSK
+    institution: BANK ''ROSSIYA''
+  ROSYRU21LIP:
+    branch: (LIPETSK BRANCH)
+    city: LIPETSK
+    institution: BANK ''ROSSIYA''
+  ROSYRU21MSK:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: BANK ''ROSSIYA''
+  ROSYRU21NNV:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: BANK ''ROSSIYA''
+  ROSYRU21ORL:
+    branch: (OREL BRANCH)
+    city: OREL
+    institution: BANK ''ROSSIYA''
+  ROSYRU21PNZ:
+    branch: (PENZA BRANCH)
+    city: PENZA
+    institution: BANK ''ROSSIYA''
+  ROSYRU21PRM:
+    branch: (PERM BRANCH)
+    city: PERM
+    institution: BANK ''ROSSIYA''
+  ROSYRU21RZN:
+    branch: (RYAZAN BRANCH)
+    city: RYAZAN
+    institution: BANK ''ROSSIYA''
+  ROSYRU21SML:
+    branch: (SMOLENSK BRANCH)
+    city: SMOLENSK
+    institution: BANK ''ROSSIYA''
+  ROSYRU21TMB:
+    branch: (TAMBOV BRANCH)
+    city: TAMBOV
+    institution: BANK ''ROSSIYA''
+  ROSYRU21TUL:
+    branch: (TULA BRANCH)
+    city: TULA
+    institution: BANK ''ROSSIYA''
+  ROSYRU21TVR:
+    branch: (TVER BRANCH)
+    city: TVER
+    institution: BANK ''ROSSIYA''
+  ROSYRU21UFA:
+    branch: (UFA BRANCH)
+    city: UFA
+    institution: BANK ''ROSSIYA''
+  ROSYRU21VLG:
+    branch: (VOLGOGRAD BRANCH)
+    city: VOLGOGRAD
+    institution: BANK ''ROSSIYA''
+  ROSYRU21VOR:
+    branch: (VORONEZH BRANCH)
+    city: VORONEZH
+    institution: BANK ''ROSSIYA''
+  ROSYRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: BANK ''ROSSIYA''
+  ROUCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: '''RUBLEVSKY'' COMMERCIAL BANK OOO'
+  ROUCRUM1GDB:
+    branch: (GOSTINY DVOR BRANCH)
+    city: MOSCOW
+    institution: '''RUBLEVSKY'' COMMERCIAL BANK OOO'
+  RPDARUMM:
+    branch: null
+    city: MOSCOW
+    institution: QIWI BANK (JOINT-STOCK COMPANY) (FORMERLY RAPIDA LTD)
+  RRBKRU21:
+    branch: null
+    city: MOSCOW
+    institution: CB 'RUSREGIONBANK' JSC
+  RRBKRU21SPB:
+    branch: (SAINT-PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: CB 'RUSREGIONBANK' JSC
+  RRBORUM1:
+    branch: null
+    city: MOSCOW
+    institution: REPUBLIC RESERVE BANK
+  RRCNRUM1:
+    branch: null
+    city: MOSCOW
+    institution: RUSSIAN REGISTRY OF CARBON UNITS
+  RRDBRUM1KND:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: BANK RRDB (JSC)
+  RRDBRUM1NFY:
+    branch: (NEFTEYUGANSK BRANCH)
+    city: NEFTEYUGANSK
+    institution: BANK RRDB (JSC)
+  RRDBRUM1NVS:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: BANK RRDB (JSC)
+  RRDBRUM1SMR:
+    branch: (SAMARA BRANCH)
+    city: SAMARA
+    institution: BANK RRDB (JSC)
+  RRDBRUM1SPB:
+    branch: (ST PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: BANK RRDB (JSC)
+  RRDBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK RRDB (JSC)
+  RSBNRUM1001:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: PJSC ROSBANK
+  RSBNRUM1EKT:
+    branch: (URALSKIY BRANCH)
+    city: EKATERINBURG
+    institution: PJSC ROSBANK
+  RSBNRUM1KRY:
+    branch: (VOSTOCHNO-SIBIRSKIJ BRANCH)
+    city: KRASNOYARSK
+    institution: PJSC ROSBANK
+  RSBNRUM1LIP:
+    branch: (LIPETSK BRANCH)
+    city: LIPETSK
+    institution: PJSC ROSBANK
+  RSBNRUM1NNV:
+    branch: (PRIVOLJSKIY BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: PJSC ROSBANK
+  RSBNRUM1NVS:
+    branch: (ZAPADNO-SIBIRSKIJ BRANCH)
+    city: NOVOSIBIRSK
+    institution: PJSC ROSBANK
+  RSBNRUM1RND:
+    branch: (YUJNYIY BRANCH)
+    city: ROSTOV-ON-DON
+    institution: PJSC ROSBANK
+  RSBNRUM1STR:
+    branch: (STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: PJSC ROSBANK
+  RSBNRUM1YRS:
+    branch: (YAROSLAVL BRANCH)
+    city: YAROSLAVL
+    institution: PJSC ROSBANK
+  RSBNRUMM:
+    branch: null
+    city: MOSCOW
+    institution: PJSC ROSBANK
+  RSBNRUMMCUS:
+    branch: (CUSTODY DIVISION)
+    city: MOSCOW
+    institution: PJSC ROSBANK
+  RSBNRUMMDVB:
+    branch: (DALNEVOSTOCHNIY BRANCH)
+    city: VLADIVOSTOK
+    institution: PJSC ROSBANK
+  RSBNRUMMSGV:
+    branch: (MOSCOW BRANCH (FOR STATEMENTS ONLY))
+    city: MOSCOW
+    institution: PJSC ROSBANK
+  RSBNRUMMSZF:
+    branch: (SEVERO-ZAPADNYJ BRANCH)
+    city: ST. PETERSBURG
+    institution: PJSC ROSBANK
+  RSBNRUMMTRS:
+    branch: (TRUST OPERATIONS)
+    city: MOSCOW
+    institution: PJSC ROSBANK
+  RSBZRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ROSBUSINESSBANK OAO ARKB
+  RSIRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: RSI BANK
+  RSJSRUMM:
+    branch: null
+    city: MOSCOW
+    institution: RUSSIAN STANDARD BANK
+  RTSBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BEST EFFORTS BANK, PJSC
+  RTSRRU31:
+    branch: null
+    city: TOGLIATTI
+    institution: RTS BANK
+  RUAGRUM1001:
+    branch: (TULSKY BRANCH)
+    city: TULA
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1002:
+    branch: (TAMBOVSKY BRANCH)
+    city: TAMBOV
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1003:
+    branch: (KRASNODARSKY BRANCH)
+    city: KRASNODAR
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1004:
+    branch: (DAGESTANSKY BRANCH)
+    city: MAKHACHKALA
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1005:
+    branch: (ORENBURGSKY BRANCH)
+    city: ORENBURG
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1006:
+    branch: (STAVROPOLSKY BRANCH)
+    city: STAVROPOL
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1007:
+    branch: (ROSTOVSKY BRANCH)
+    city: ROSTOV-ON-DON
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1008:
+    branch: (NOVGORODSKY BRANCH)
+    city: NOVGOROD
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1009:
+    branch: (OMSKY BRANCH)
+    city: OMSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1010:
+    branch: (ORLOVSKY BRANCH )
+    city: OREL
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1011:
+    branch: (CHUVASHSKY BRANCH)
+    city: CHEBOKSARY
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1012:
+    branch: (ADYGEYSKY BRANCH )
+    city: MAYKOP
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1013:
+    branch: (SAMARSKY BRANCH)
+    city: SAMARA
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1014:
+    branch: (VORONEZHSKY BRANCH)
+    city: VORONEZH
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1015:
+    branch: (PENZENSKY BRANCH)
+    city: PENZA
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1016:
+    branch: (MARIYSKY BRANCH)
+    city: JOSHKAR-OLA
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1018:
+    branch: (ALTAYSKY BRANCH )
+    city: BARNAUL
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1019:
+    branch: (TVERSKOJ BRANCH)
+    city: TVER
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1020:
+    branch: (MORDOVSKY BRANCH)
+    city: SARANSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1021:
+    branch: (KARELSKY BRANCH)
+    city: PETROZAVODSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1022:
+    branch: (KIROVSKY BRANCH)
+    city: KIROV
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1023:
+    branch: (AMURSKY BRANCH )
+    city: BLAGOVESHCHENSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1024:
+    branch: (LIPETSKIY BRANCH)
+    city: LIPETSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1025:
+    branch: (NOVOSIBIRSKY BRANCH)
+    city: NOVOSIBIRSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1026:
+    branch: (SEVERO-OSETINSKY BRANCH)
+    city: VLADIKAVKAZ
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1027:
+    branch: (KALUZHSKY BRANCH)
+    city: KALUGA
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1028:
+    branch: (UDMURTSKY BRANCH)
+    city: IZHEVSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1030:
+    branch: (BELGORODSKY BRANCH)
+    city: BELGOROD
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1031:
+    branch: (KARACHAEVO-CHERKESSKY BRANCH)
+    city: CHERKESSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1032:
+    branch: (KURSKY BRANCH)
+    city: KURSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1034:
+    branch: (CHECHENSKY BRANCH)
+    city: GROZNY
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1035:
+    branch: (ST.PETERSBURGSKY BRANCH)
+    city: GATCHINA
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1037:
+    branch: (KHAKASSKY BRANCH)
+    city: ABAKAN
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1038:
+    branch: (IVANOVSKY BRANCH)
+    city: IVANOVO
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1039:
+    branch: (NIZHEGORODSKY BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1040:
+    branch: (MAGADANSKY BRANCH)
+    city: MAGADAN
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1041:
+    branch: (VLADIMIRSKY BRANCH)
+    city: VLADIMIR
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1042:
+    branch: (INGUSHSKY BRANCH)
+    city: NAZRAN
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1043:
+    branch: (SMOLENSKY BRANCH)
+    city: SMOLENSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1044:
+    branch: (KABARDINO-BALKARSKY BRANCH)
+    city: NALCHIK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1045:
+    branch: (KURGANSKY BRANCH)
+    city: KURGAN
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1046:
+    branch: (VOLGOGRADSKY BRANCH)
+    city: VOLGOGRAD
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1047:
+    branch: (CHITINSKY BRANCH)
+    city: CHITA
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1048:
+    branch: (ARKHANGELSKY BRANCH)
+    city: ARKHANGELSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1049:
+    branch: (KRASNOYARSKY BRANCH)
+    city: KRASNOYARSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1051:
+    branch: (KOSTROMSKOY BRANCH)
+    city: KOSTROMA
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1052:
+    branch: (SARATOVSKY BRANCH)
+    city: SARATOV
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1053:
+    branch: (KAMCHATSKY BRANCH)
+    city: PETROPAVLOVSK-KAMCHATSKI
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1055:
+    branch: (KALININGRADSKY BRANCH)
+    city: KALININGRAD
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1056:
+    branch: (KEMEROVSKY BRANCH)
+    city: KEMEROVO
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1057:
+    branch: (TUVINSKY BRANCH)
+    city: KYZYL
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1058:
+    branch: (RYAZANSKY BRANCH)
+    city: RYAZAN
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1059:
+    branch: (BURYATSKY BRANCH)
+    city: ULAN-UDE
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1060:
+    branch: (YAKUTSKY BRANCH)
+    city: YAKUTSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1061:
+    branch: (YAROSLAVSKY BRANCH)
+    city: YAROSLAVL
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1062:
+    branch: (BASHKIRSKY BRANCH)
+    city: UFA
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1063:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1064:
+    branch: (TOMSKY BRANCH)
+    city: TOMSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1065:
+    branch: (ULYANOVSKY BRANCH)
+    city: ULYANOVSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1066:
+    branch: (IRKUTSKY BRANCH)
+    city: IRKUTSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1067:
+    branch: (TATARSTANSKY BRANCH)
+    city: KAZAN
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1068:
+    branch: (PSKOVSKY BRANCH)
+    city: PSKOV
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1069:
+    branch: (BRYANSKY BRANCH)
+    city: BRYANSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1071:
+    branch: (TYOMENSKY BRANCH)
+    city: TYUMEN
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1072:
+    branch: (SAKHALINSKY BRANCH)
+    city: YUZHNO-SAKHALINSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1073:
+    branch: (SVERDLOVSKY BRANCH)
+    city: EKATERINBURG
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1074:
+    branch: (KOMI BRANCH)
+    city: SYKTYVKAR
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1075:
+    branch: (KHABAROVSKY BRANCH)
+    city: KHABAROVSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1076:
+    branch: (PERMSKY BRANCH)
+    city: PERM
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1078:
+    branch: (CHELYABINSKY BRANCH)
+    city: CHELYABINSK
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUM1079:
+    branch: (CENTRE CORPORATE BUSINESS BRANCH)
+    city: MOSCOW
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC ROSSELKHOZBANK
+  RUAGRUMM054:
+    branch: (PRIMORSKY BRANCH)
+    city: VLADIVOSTOK
+    institution: JSC ROSSELKHOZBANK
+  RUDLRUM1BNL:
+    branch: (TOCHKA BRANCH)
+    city: MOSCOW
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+      (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)
+  RUDLRUM1HAB:
+    branch: (DALNEVOSTOCHNIY  BRANCH)
+    city: KHABAROVSK
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+      (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)
+  RUDLRUM1NAL:
+    branch: (NALCHIK BRANCH)
+    city: NALCHIK
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+      (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)
+  RUDLRUM1NSB:
+    branch: (MUNICIPALNYI BRANCH)
+    city: NOVOSIBIRSK
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+      (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)
+  RUDLRUM1PET:
+    branch: (PETROVSKIY BRANCH)
+    city: ST. PETERSBURG
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+      (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)
+  RUDLRUM1ROS:
+    branch: (ROSTOV BRANCH)
+    city: ROSTOV-ON-DON
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+      (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)
+  RUDLRUM1SAR:
+    branch: (SARATOV BRANCH)
+    city: SARATOV
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+      (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)
+  RUDLRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+      (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)
+  RUDLRUMMZSF:
+    branch: (BRANCH WEST SIBERIAN)
+    city: KHANTY-MANSIYSK
+    institution: BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+      (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)
+  RUDVRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC RUSSIAN BANK FOR SMALL AND MEDIUM ENTERPRISES SUPPORT
+  RUECRUMM:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK AGORA
+  RUFORUMM:
+    branch: null
+    city: MOSCOW
+    institution: NCO RUSSIAN FINANCIAL SOCIETY LLC
+  RUGERUM1:
+    branch: null
+    city: MOSCOW
+    institution: RUSSKY GENERALNY BANK
+  RUIDRUM1EKT:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: ROSGOSSTRAKH BANK
+  RUIDRUM1KHA:
+    branch: (KHABAROVSK BRANCH)
+    city: KHABAROVSK
+    institution: ROSGOSSTRAKH BANK
+  RUIDRUM1NNG:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: ROSGOSSTRAKH BANK
+  RUIDRUM1NSK:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: ROSGOSSTRAKH BANK
+  RUIDRUM1ROV:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: ROSGOSSTRAKH BANK
+  RUIDRUM1SPB:
+    branch: (SAINT-PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: ROSGOSSTRAKH BANK
+  RUIDRUM1STA:
+    branch: (STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: ROSGOSSTRAKH BANK
+  RUIDRUM1UFA:
+    branch: (UFA BRANCH)
+    city: UFA
+    institution: ROSGOSSTRAKH BANK
+  RUIDRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ROSGOSSTRAKH BANK
+  RUMORUMM:
+    branch: null
+    city: MOSCOW
+    institution: CB RUSSIAN MORTGAGE BANK (LLC)
+  RUNARU21:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: RUSSKY NATZIONALNY BANK
+  RUNBRUM1BEL:
+    branch: (BELGOROD BRANCH)
+    city: BELGOROD
+    institution: RUSNARBANK
+  RUNBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: RUSNARBANK
+  RUNERUM1:
+    branch: null
+    city: MOSCOW
+    institution: RUNETBANK ZAO
+  RUNIRUMM:
+    branch: null
+    city: MOSCOW
+    institution: RUSUNIVERSALBANK OOO
+  RUSARU71:
+    branch: null
+    city: ESSENTUKSKAYA
+    institution: RUSBSBANK
+  RUSRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK 'RUSSIAN REGIONAL BANK' ZAO
+  RZBMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: AO RAIFFEISENBANK
+  SABRRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: SBERBANK (SEVERO-ZAPADNY HEAD OFFICE)
+  SABRRU2P920:
+    branch: (KALININGRAD BRANCH)
+    city: KALININGRAD
+    institution: SBERBANK (SEVERO-ZAPADNY HEAD OFFICE)
+  SABRRU66:
+    branch: null
+    city: IRKUTSK
+    institution: SBERBANK (BAIKALSKY HEAD OFFICE)
+  SABRRU66CHT:
+    branch: (CHITA BRANCH)
+    city: CHITA
+    institution: SBERBANK (BAIKALSKY HEAD OFFICE)
+  SABRRU8K:
+    branch: null
+    city: KHABAROVSK
+    institution: SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)
+  SABRRU8KBLG:
+    branch: (BLAGOVESHCHENSK BRANCH)
+    city: BLAGOVESHCHENSK
+    institution: SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)
+  SABRRU8KBRB:
+    branch: (BIROBIDZHAN BRANCH)
+    city: BIROBIDZHAN
+    institution: SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)
+  SABRRU8KVLD:
+    branch: (PRIMORSKOE BRANCH)
+    city: VLADIVOSTOK
+    institution: SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)
+  SABRRUM3:
+    branch: null
+    city: MOSCOW
+    institution: SBERBANK (SREDNERUSSKY HEAD OFFICE)
+  SABRRUMM:
+    branch: (HEAD OFFICE - ALL BRANCHES AND OFFICES IN RUSSIA)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMM011:
+    branch: (OPERATIONS DEPARTMENT)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMM012:
+    branch: (MAIN SETTLEMENT CENTRE - RUBLE SETTLEMENTS ONLY)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMMBNT:
+    branch: (SETTLEMENT - BANKNOTES DEALS)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMMCOM:
+    branch: (SETTLEMENT - COMMODITIES DEALS)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMMDRV:
+    branch: (SETTLEMENT - DERIVATIVES DEALS)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMMEA1:
+    branch: (URALSKY HEAD OFFICE)
+    city: EKATERINBURG
+    institution: SBERBANK
+  SABRRUMMFXT:
+    branch: (SETTLEMENT - FX DEALS)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMMKEY:
+    branch: (S.W.I.F.T. AND TEST KEYS CENTRE)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMMKR1:
+    branch: (SIBIRSKY HEAD OFFICE)
+    city: KRASNOYARSK
+    institution: SBERBANK
+  SABRRUMMMA1:
+    branch: (SEVERO-VOSTOCHNY HEAD OFFICE)
+    city: MAGADAN
+    institution: SBERBANK
+  SABRRUMMMMT:
+    branch: (SETTLEMENT - MONEY MARKET DEALS)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMMNA1:
+    branch: (VOLGO-VYATSKY HEAD OFFICE)
+    city: NIZHNIY NOVGOROD
+    institution: SBERBANK
+  SABRRUMMNH1:
+    branch: (SIBIRSKY HEAD OFFICE)
+    city: NOVOSIBIRSK
+    institution: SBERBANK
+  SABRRUMMPC1:
+    branch: (ZAPADNO-URALSKY HEAD OFFICE)
+    city: PERM
+    institution: SBERBANK
+  SABRRUMMRA1:
+    branch: (YUGO-ZAPADNY HEAD OFFICE)
+    city: ROSTOV-ON-DON
+    institution: SBERBANK
+  SABRRUMMSE1:
+    branch: (POVOLZHSKY HEAD OFFICE)
+    city: SAMARA
+    institution: SBERBANK
+  SABRRUMMSMT:
+    branch: (SETTLEMENT - SECURITIES DEALS)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMMSP1:
+    branch: (YUGO-ZAPADNY HEAD OFFICE)
+    city: STAVROPOL
+    institution: SBERBANK
+  SABRRUMMTN1:
+    branch: (ZAPADNO-SIBIRSKY HEAD OFFICE)
+    city: TYUMEN
+    institution: SBERBANK
+  SABRRUMMTRD:
+    branch: (TRD SETTLEMENT  - TRADE FINANCE DEALS)
+    city: MOSCOW
+    institution: SBERBANK
+  SABRRUMMVH1:
+    branch: (TSENTRALNO-CHERNOZEMNY HEAD OFFICE)
+    city: VORONEZH
+    institution: SBERBANK
+  SABRRUMMYA1:
+    branch: (SEVERNY HEAD OFFICE)
+    city: YAROSLAVL
+    institution: SBERBANK
+  SADCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: SAKHA DIAMOND BANK AO
+  SAOARU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: PJSC BANK SIAB
+  SARORU21MOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: SAROVBUSINESSBANK
+  SARORU2S:
+    branch: null
+    city: SAROV
+    institution: SAROVBUSINESSBANK
+  SBBARUM1003:
+    branch: (WEST-SIBERIAN BRANCH)
+    city: NOVOSIBIRSK
+    institution: SOBINBANK
+  SBBARUM1004:
+    branch: (BARNAUL BRANCH)
+    city: BARNAUL
+    institution: SOBINBANK
+  SBBARUM1005:
+    branch: (KALININGRAD BRANCH)
+    city: KALININGRAD
+    institution: SOBINBANK
+  SBBARUM1006:
+    branch: (YAKUTSK BRANCH)
+    city: YAKUTSK
+    institution: SOBINBANK
+  SBBARUM1007:
+    branch: (PERM BRANCH)
+    city: PERM
+    institution: SOBINBANK
+  SBBARUM1008:
+    branch: (VOLGOGRAD BRANCH)
+    city: VOLGOGRAD
+    institution: SOBINBANK
+  SBBARUM1010:
+    branch: (KEMEROVO BRANCH)
+    city: KEMEROVO
+    institution: SOBINBANK
+  SBBARUM1011:
+    branch: (OMSK BRANCH)
+    city: OMSK
+    institution: SOBINBANK
+  SBBARUM1012:
+    branch: (SAINT PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: SOBINBANK
+  SBBARUM1013:
+    branch: (KOROLEV BRANCH)
+    city: KOROLEV
+    institution: SOBINBANK
+  SBBARUM1014:
+    branch: (ARKHANGELSK BRANCH)
+    city: ARKHANGELSK
+    institution: SOBINBANK
+  SBBARUM1015:
+    branch: (NOVOROSSIYSK BRANCH)
+    city: NOVOROSSIYSK
+    institution: SOBINBANK
+  SBBARUM1016:
+    branch: (KHANTY-MANSIYSK BRANCH)
+    city: KHANTY-MANSIYSK
+    institution: SOBINBANK
+  SBBARUM1017:
+    branch: (MURMANSK BRANCH)
+    city: MURMANSK
+    institution: SOBINBANK
+  SBBARUM1018:
+    branch: (TIUMEN BRANCH)
+    city: TYUMEN
+    institution: SOBINBANK
+  SBBARUM1021:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: SOBINBANK
+  SBBARUM1022:
+    branch: (ROSTOV-NA-DONU BRANCH)
+    city: ROSTOV-ON-DON
+    institution: SOBINBANK
+  SBBARUM1024:
+    branch: (NIGNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: SOBINBANK
+  SBBARUM1025:
+    branch: (STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: SOBINBANK
+  SBBARUM1026:
+    branch: (CHELYABINSK BRANCH)
+    city: CHELYABINSK
+    institution: SOBINBANK
+  SBBARUMM:
+    branch: null
+    city: MOSCOW
+    institution: SOBINBANK
+  SBLLRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC TROIKA-D BANK
+  SBNBRU41:
+    branch: null
+    city: TYUMEN
+    institution: OAO JOIN-STOCK SIBERIAN OIL BANK
+  SCBGRU21:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: NIZHNY NOVGOROD SOCIAL COMMERCIAL BANK GUARANTEE
+  SCBMRUM1825:
+    branch: (VYKSA BRANCH)
+    city: VYKSA
+    institution: SCB METALLINVESTBANK
+  SCBMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SCB METALLINVESTBANK
+  SCSARU41:
+    branch: null
+    city: TYUMEN
+    institution: COMMERCIAL BANK 'STROYLESBANK' LIMITED
+  SEBPRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: SEB BANK
+  SEBPRU2PCUS:
+    branch: (SUB-CUSTODY)
+    city: ST. PETERSBURG
+    institution: SEB BANK
+  SEBPRU2PSEC:
+    branch: (SEB BANK CUSTODY)
+    city: ST. PETERSBURG
+    institution: SEB BANK
+  SECTRUM1:
+    branch: null
+    city: MOSCOW
+    institution: SAMSUNG ELECTRONICS RUS COMPANY
+  SECTRUM1940:
+    branch: (SER)
+    city: MOSCOW
+    institution: SAMSUNG ELECTRONICS RUS COMPANY
+  SECTRUM1941:
+    branch: (SERC)
+    city: MOSCOW
+    institution: SAMSUNG ELECTRONICS RUS COMPANY
+  SECTRUM1990:
+    branch: (SERK)
+    city: KALUGA
+    institution: SAMSUNG ELECTRONICS RUS COMPANY
+  SECTRUM19E0:
+    branch: (SRSC)
+    city: MOSCOW
+    institution: SAMSUNG ELECTRONICS RUS COMPANY
+  SEDMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SETTLEMENT DEPOSITORY COMPANY
+  SELARU21:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: SELMASHBANK, CRA
+  SENRRU31:
+    branch: null
+    city: SYKTYVKAR
+    institution: SEVERNY NARODNY BANK
+  SEVRRU21:
+    branch: null
+    city: BELGOROD
+    institution: SEVERINVESTBANK
+  SEZARUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK SERVICE RESERVE (JOINT-STOCK COMPANY)
+  SFRNRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK 'SOFRINO' AO
+  SGAZRU21ARK:
+    branch: (ARKHANGELSK BRANCH)
+    city: ARKHANGELSK
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21CHE:
+    branch: (CHEREPOVETS BRANCH)
+    city: CHEREPOVETS
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21GRY:
+    branch: (GRYAZOVETS BRANCH)
+    city: GRYAZOVETS
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21IVA:
+    branch: (IVANOVO BRANCH)
+    city: IVANOVO
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21KOT:
+    branch: (KOTLAS BRANCH)
+    city: KOTLAS
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21NOV:
+    branch: (VELIKIY NOVGOROD BRANCH)
+    city: VELIKIY NOVGOROD
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21SNG:
+    branch: (SOSNOGORSK BRANCH)
+    city: SOSNOGORSK
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21SPB:
+    branch: (SAINT PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21SYK:
+    branch: (SYKTYVKAR BRANCH)
+    city: SYKTYVKAR
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21UGL:
+    branch: (UGLICH BRANCH)
+    city: UGLICH
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21UHT:
+    branch: (UKHTA BRANCH)
+    city: UKHTA
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21UST:
+    branch: (VELIKY USTIUG BRANCH)
+    city: VELIKY USTIUG
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21VOR:
+    branch: (VORKUTA BRANCH)
+    city: VORKUTA
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21VYT:
+    branch: (VYTEGRA BRANCH)
+    city: VYTEGRA
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU21YAR:
+    branch: (YAROSLAVL BRANCH)
+    city: YAROSLAVL
+    institution: '''BANK SGB'' PJSC'
+  SGAZRU22:
+    branch: null
+    city: VOLOGDA
+    institution: '''BANK SGB'' PJSC'
+  SGUBRU5S:
+    branch: null
+    city: SURGUT
+    institution: JOINT STOCK COMPANY SURGUTNEFTEGASBANK
+  SGUBRU5S052:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: JOINT STOCK COMPANY SURGUTNEFTEGASBANK
+  SGUBRU5S053:
+    branch: (TYUMEN BRANCH)
+    city: TYUMEN
+    institution: JOINT STOCK COMPANY SURGUTNEFTEGASBANK
+  SGUBRU5S054:
+    branch: (COMMERCIAL BRANCH)
+    city: KHANTY-MANSIYSK
+    institution: JOINT STOCK COMPANY SURGUTNEFTEGASBANK
+  SGUBRU5SDU1:
+    branch: (TRUST DEPARTMENT)
+    city: SURGUT
+    institution: JOINT STOCK COMPANY SURGUTNEFTEGASBANK
+  SIBJRU51:
+    branch: null
+    city: SURGUT
+    institution: COMMERCIAL BANK 'SIBIRGAZBANK' AO
+  SIBRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: SIBBROK
+  SIFMRUM1:
+    branch: null
+    city: MOSCOW
+    institution: SOLID INVESTMENT AND FINANCIAL COMPANY
+  SIIKRU21:
+    branch: null
+    city: ULYANOVSK
+    institution: SIMBIRSK
+  SIKPRUS1MSK:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: EXPERT BANK
+  SIKPRUSM:
+    branch: null
+    city: OMSK
+    institution: EXPERT BANK
+  SINYRU21:
+    branch: null
+    city: SARATOV
+    institution: SINERGIYA BANK
+  SIRSRU81:
+    branch: null
+    city: YAKUTSK
+    institution: BANK 'SIR'
+  SISERUMM:
+    branch: null
+    city: MOSCOW
+    institution: SISTEMA COMMERCIAL BANK
+  SISNRU55:
+    branch: null
+    city: BARNAUL
+    institution: SIBSOCBANK
+  SJSCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SDM-BANK PJSC
+  SJSCRUMMEKA:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: SDM-BANK PJSC
+  SJSCRUMMKRA:
+    branch: (KRASNOYARSK BRANCH)
+    city: KRASNOYARSK
+    institution: SDM-BANK PJSC
+  SJSCRUMMNNG:
+    branch: (NIZHNIJ NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: SDM-BANK PJSC
+  SJSCRUMMOMS:
+    branch: (OMSK BRANCH)
+    city: OMSK
+    institution: SDM-BANK PJSC
+  SJSCRUMMPRM:
+    branch: (PERM BRANCH)
+    city: PERM
+    institution: SDM-BANK PJSC
+  SJSCRUMMRND:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: SDM-BANK PJSC
+  SJSCRUMMSPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: SDM-BANK PJSC
+  SJSCRUMMTVR:
+    branch: (TVER BRANCH)
+    city: TVER
+    institution: SDM-BANK PJSC
+  SJSCRUMMVRN:
+    branch: (VORONEZH BRANCH)
+    city: VORONEZH
+    institution: SDM-BANK PJSC
+  SJSMRUM1LBR:
+    branch: (LYUBERTSY BRANCH)
+    city: LYUBERTSY
+    institution: SLAVIA BANK
+  SJSMRUM1NNV:
+    branch: (G.NIZHNIY NOVGOROD)
+    city: NIZHNIY NOVGOROD
+    institution: SLAVIA BANK
+  SJSMRUM1PSV:
+    branch: (PSKOV BRANCH)
+    city: PSKOV
+    institution: SLAVIA BANK
+  SJSMRUM1SPB:
+    branch: (SAINT-PETERSBURG)
+    city: ST. PETERSBURG
+    institution: SLAVIA BANK
+  SJSMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SLAVIA BANK
+  SJSORU21:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: OAO AKB 'STELLA-BANK.'
+  SKBERU4E:
+    branch: null
+    city: EKATERINBURG
+    institution: SKB-BANK
+  SKSBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SKS BANK, LLC, MOSCOW
+  SLACRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SLAVYANSKI CREDIT BANK
+  SLAKRUM1:
+    branch: null
+    city: MOSCOW
+    institution: AVTOTORGBANK OOO
+  SLAYRU2N:
+    branch: null
+    city: VELIKIY NOVGOROD
+    institution: SLAVYANBANK
+  SLDBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SOLID BANK
+  SLDRRU3S:
+    branch: null
+    city: SAMARA
+    institution: OJSC CB SOLIDARNOST
+  SMBCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC SUMITOMO MITSUI RUS BANK
+  SMBKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SMP BANK
+  SMJORU21:
+    branch: null
+    city: ROSLAVL
+    institution: ROSLAVISKY JOINT-STOCK COMMERCIAL BANK SMOLEVICH, OPENED JOINT-STOCK
+      COMPANY
+  SNEZRU4C:
+    branch: null
+    city: CHELYABINSK
+    institution: BANK SNEZHINSKIY JSC
+  SNKBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SINKO-BANK, LTD
+  SOCHRU21:
+    branch: null
+    city: SOCHI
+    institution: BANK ZENIT SOCHI
+  SOCKRU21:
+    branch: null
+    city: OREL
+    institution: SOCBANK
+  SODRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: SODRUZHESTVO - BANK OAO
+  SOHHRU21:
+    branch: null
+    city: SOCHI
+    institution: SOCHI
+  SOKORUM1:
+    branch: null
+    city: MOSCOW
+    institution: SOKOLOVSKY BANK
+  SOLIRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SOLIDARITY BANK
+  SOLLRUM1:
+    branch: null
+    city: MOSCOW
+    institution: SOVLINK OOO
+  SOMRRUM1BRD:
+    branch: (BERDSK BRANCH)
+    city: BERDSK
+    institution: SOVCOMBANK
+  SOMRRUM1IVN:
+    branch: (IVANOVO BRANCH)
+    city: IVANOVO
+    institution: SOVCOMBANK
+  SOMRRUM1KST:
+    branch: (KOSTROMA BRANCH)
+    city: KOSTROMA
+    institution: SOVCOMBANK
+  SOMRRUM1VLD:
+    branch: (VLADIMIR BRANCH)
+    city: VLADIMIR
+    institution: SOVCOMBANK
+  SOMRRUM1VLG:
+    branch: (VOLOGDA BRANCH)
+    city: VOLOGDA
+    institution: SOVCOMBANK
+  SOMRRUM1VRN:
+    branch: (VORONEZH BRANCH)
+    city: VORONEZH
+    institution: SOVCOMBANK
+  SOMRRUM1YAR:
+    branch: (YAROSLAVL BRANCH)
+    city: YAROSLAVL
+    institution: SOVCOMBANK
+  SOMRRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SOVCOMBANK
+  SOYZRUM1CHT:
+    branch: (CHITA BRANCH)
+    city: CHITA
+    institution: SOYUZNYJ OOO
+  SOYZRUM1IRK:
+    branch: (IRKUTSK BRANCH)
+    city: IRKUTSK
+    institution: SOYUZNYJ OOO
+  SOYZRUM1TYM:
+    branch: (TYUMEN BRANCH)
+    city: TYUMEN
+    institution: SOYUZNYJ OOO
+  SOYZRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SOYUZNYJ OOO
+  SOZARU21MMM:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: JSC BANK SOVETSKY
+  SOZARU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: JSC BANK SOVETSKY
+  SPEDRUM1:
+    branch: null
+    city: MOSCOW
+    institution: OAO 'SPECIALIZED DEPOSITARY' INFINITUM
+  SPEIRUM1:
+    branch: null
+    city: MOSCOW
+    institution: SPETSINVEST BANK
+  SPEIRUM2:
+    branch: null
+    city: MOSCOW
+    institution: RTBK LLC
+  SPETRUM1:
+    branch: null
+    city: MOSCOW
+    institution: SPECSTROYBANK
+  SPOJRU21:
+    branch: null
+    city: TULA
+    institution: OAO SPIRITBANK
+  SPRCRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: PETERSBURG SETTLEMENT CENTER LIMITED
+  STAJRU22:
+    branch: null
+    city: STAVROPOL
+    institution: STAVROPOLPROMSTROYBANK
+  STKBRUM1:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK BUILDING INDUSTRY 'STROYINDBANK'
+  STKRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK STARIY KREML
+  STMORUM1:
+    branch: null
+    city: MOSCOW
+    institution: '''MODERN STANDARDS OF BUSINESS'' COMMERCIAL BANK LLC'
+  STRYRU21:
+    branch: null
+    city: KALININGRAD
+    institution: STROJVESTBANK
+  SUCCRU51:
+    branch: null
+    city: SURGUT
+    institution: SURGUT CENTRAL COMBANK
+  SVIBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANK ROUND LLC
+  SVIZRUM1BIR:
+    branch: (BIROBIDZHAN BRANCH)
+    city: BIROBIDZHAN
+    institution: SVIAZ-BANK
+  SVIZRUM1BLA:
+    branch: (BLAGOVESCHENSK BRANCH)
+    city: BLAGOVESHCHENSK
+    institution: SVIAZ-BANK
+  SVIZRUM1BUR:
+    branch: (BURYATSKIY BRANCH)
+    city: ULAN-UDE
+    institution: SVIAZ-BANK
+  SVIZRUM1CHI:
+    branch: (CHITINSKIY BRANCH)
+    city: CHITA
+    institution: SVIAZ-BANK
+  SVIZRUM1EKT:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: SVIAZ-BANK
+  SVIZRUM1IRK:
+    branch: (IRKUTSK BRANCH)
+    city: IRKUTSK
+    institution: SVIAZ-BANK
+  SVIZRUM1KAZ:
+    branch: (KAZAN BRANCH)
+    city: KAZAN
+    institution: SVIAZ-BANK
+  SVIZRUM1KCH:
+    branch: (SEVERO-KAVKAZSKIY BRANCH)
+    city: CHERKESSK
+    institution: SVIAZ-BANK
+  SVIZRUM1KEM:
+    branch: (KEMEROVO BRANCH)
+    city: KEMEROVO
+    institution: SVIAZ-BANK
+  SVIZRUM1KLN:
+    branch: (KALININGRAD BRANCH)
+    city: KALININGRAD
+    institution: SVIAZ-BANK
+  SVIZRUM1KRN:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: SVIAZ-BANK
+  SVIZRUM1NOV:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: SVIAZ-BANK
+  SVIZRUM1NSB:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: SVIAZ-BANK
+  SVIZRUM1OMS:
+    branch: (OMSK BRANCH)
+    city: OMSK
+    institution: SVIAZ-BANK
+  SVIZRUM1ORL:
+    branch: (OREL BRANCH)
+    city: OREL
+    institution: SVIAZ-BANK
+  SVIZRUM1RND:
+    branch: (ROSTOV BRANCH)
+    city: ROSTOV-NA-DONU
+    institution: SVIAZ-BANK
+  SVIZRUM1TOM:
+    branch: (TOMSK BRANCH)
+    city: TOMSK
+    institution: SVIAZ-BANK
+  SVIZRUM1TUV:
+    branch: (TUVA BRANCH)
+    city: KYZYL
+    institution: SVIAZ-BANK
+  SVIZRUM1UFA:
+    branch: (UFA BRANCH)
+    city: UFA
+    institution: SVIAZ-BANK
+  SVIZRUM1VLD:
+    branch: (VLADIVOSTOK BRANCH)
+    city: VLADIVOSTOK
+    institution: SVIAZ-BANK
+  SVIZRUM1VLK:
+    branch: (SEVERO-OSETINSKIY BRANCH)
+    city: VLADIKAVKAZ
+    institution: SVIAZ-BANK
+  SVIZRUM1YAK:
+    branch: (YAKUTSK BRANCH)
+    city: YAKUTSK
+    institution: SVIAZ-BANK
+  SVIZRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SVIAZ-BANK
+  SVIZRUMMKRS:
+    branch: (KRASNOYARSK BRANCH)
+    city: KRASNOYARSK
+    institution: SVIAZ-BANK
+  SVIZRUMMSPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: SVIAZ-BANK
+  SZIPRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: SEVZAPINVESTPROMBANK
+  TAAARU81MSK:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: JSC TAATTA BANK
+  TAAARU81RND:
+    branch: (ROSTOV BRANCH)
+    city: ROSTOV-NA-DONU
+    institution: JSC TAATTA BANK
+  TAAARU81SIB:
+    branch: (SIBERIAN BRANCH)
+    city: KANSK
+    institution: JSC TAATTA BANK
+  TAAARU8Y:
+    branch: null
+    city: YAKUTSK
+    institution: JSC TAATTA BANK
+  TAGARU21:
+    branch: null
+    city: TAGANROG
+    institution: OAO 'SHARE CITY BANK' TAGANROGBANK '
+  TAMBRU21:
+    branch: null
+    city: TAMBOV
+    institution: TAMBOVKREDITPROMBANK
+  TANBRUM1:
+    branch: null
+    city: MOSCOW
+    institution: TANDEMBANK
+  TANVRU21:
+    branch: null
+    city: KAZAN
+    institution: TAT INVEST BANK
+  TAOORU51:
+    branch: null
+    city: KEMEROVO
+    institution: TAIDON BANK OOO
+  TARYRU21:
+    branch: null
+    city: PENZA
+    institution: TARKHANY REGIONAL BANK OAO
+  TARYRU21KUZ:
+    branch: (KUZNETSK BRANCH)
+    city: KUZNETSK
+    institution: TARKHANY REGIONAL BANK OAO
+  TARYRU21MOS:
+    branch: (MOSCOW BRANCH)
+    city: MOSCOW
+    institution: TARKHANY REGIONAL BANK OAO
+  TARYRU21SAR:
+    branch: (SARATOV BRANCH)
+    city: SARATOV
+    institution: TARKHANY REGIONAL BANK OAO
+  TARYRU21SER:
+    branch: (SERDOBSK BRANCH)
+    city: SERDOBSK
+    institution: TARKHANY REGIONAL BANK OAO
+  TASKRUM1:
+    branch: null
+    city: MOSCOW
+    institution: TASKBANK
+  TATGRU21:
+    branch: null
+    city: KAZAN
+    institution: TATAGROPROMBANK
+  TAVRRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: TAVRICHESKY BANK
+  TCZBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ZIRAAT BANK (MOSCOW)
+  TDICRUMM:
+    branch: null
+    city: MOSCOW
+    institution: SBERBANK CIB
+  TEJCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: JOINT STOCK COMMERCIAL BANK TENDER-BANK AO
+  TELBRU22:
+    branch: null
+    city: TULA
+    institution: JSC TELECOMMERCE BANK
+  TEMBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: TEMBR-BANK (JSC)
+  TEMBRUMMBLG:
+    branch: (AMURSKIJ BRANCH)
+    city: BLAGOVESHCHENSK
+    institution: TEMBR-BANK (JSC)
+  TEXBRU22:
+    branch: null
+    city: CHERKESSK
+    institution: TEXBANK
+  TFBCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: TRADE FINANCE BANK
+  TICSRUMM:
+    branch: null
+    city: MOSCOW
+    institution: TINKOFF BANK
+  TIMERU2K:
+    branch: null
+    city: KAZAN
+    institution: TIMER BANK PJSC
+  TJSBRUMM:
+    branch: null
+    city: TVER
+    institution: JOINT STOCK COMPANY 'GUTA-BANK'
+  TJSCRUM1BRN:
+    branch: (BRYANSK BRANCH)
+    city: BRYANSK
+    institution: TRANSKAPITALBANK
+  TJSCRUM1EKT:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: TRANSKAPITALBANK
+  TJSCRUM1KAL:
+    branch: (KALUGA BRANCH)
+    city: KALUGA
+    institution: TRANSKAPITALBANK
+  TJSCRUM1KLG:
+    branch: (KALININGRAD BRANCH)
+    city: KALININGRAD
+    institution: TRANSKAPITALBANK
+  TJSCRUM1KLN:
+    branch: (KOLOMNA BRANCH)
+    city: KOLOMNA
+    institution: TRANSKAPITALBANK
+  TJSCRUM1KOR:
+    branch: (KOROLEV BRANCH)
+    city: KOROLEV
+    institution: TRANSKAPITALBANK
+  TJSCRUM1KRD:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: TRANSKAPITALBANK
+  TJSCRUM1NIZ:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: TRANSKAPITALBANK
+  TJSCRUM1NVS:
+    branch: (NOVOSIBIRSK BRANCH)
+    city: NOVOSIBIRSK
+    institution: TRANSKAPITALBANK
+  TJSCRUM1PER:
+    branch: (PERM BRANCH)
+    city: PERM
+    institution: TRANSKAPITALBANK
+  TJSCRUM1POD:
+    branch: (PODOLSK BRANCH)
+    city: PODOLSK
+    institution: TRANSKAPITALBANK
+  TJSCRUM1RST:
+    branch: (ROSTOV BRANCH)
+    city: ROSTOV-ON-DON
+    institution: TRANSKAPITALBANK
+  TJSCRUM1RZN:
+    branch: (RYAZAN BRANCH)
+    city: RYAZAN
+    institution: TRANSKAPITALBANK
+  TJSCRUM1SAM:
+    branch: (SAMARA BRANCH)
+    city: SAMARA
+    institution: TRANSKAPITALBANK
+  TJSCRUM1SPB:
+    branch: (ST.PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: TRANSKAPITALBANK
+  TJSCRUM1SYK:
+    branch: (SYKTYVKAR BRANCH)
+    city: SYKTYVKAR
+    institution: TRANSKAPITALBANK
+  TJSCRUM1TYU:
+    branch: (TYUMEN BRANCH)
+    city: TYUMEN
+    institution: TRANSKAPITALBANK
+  TJSCRUM1VRN:
+    branch: (VORONEZH BRANCH)
+    city: VORONEZH
+    institution: TRANSKAPITALBANK
+  TJSCRUM1YAR:
+    branch: (YAROSLAVL BRANCH)
+    city: YAROSLAVL
+    institution: TRANSKAPITALBANK
+  TJSCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: TRANSKAPITALBANK
+  TKCCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: TKB CAPITAL CJSC
+  TMKPRU21:
+    branch: null
+    city: TOMSK
+    institution: PJSC TOMSKPROMSTROYBANK
+  TMKPRU21604:
+    branch: (PJSC TOMSKPROMSTROYBANK (ASINOVSKII BRANCH))
+    city: ASINO
+    institution: PJSC TOMSKPROMSTROYBANK
+  TMKPRU21608:
+    branch: (PJSC TOMSKPROMSTROYBANK (KARGASOKSKII BRANCH))
+    city: KARGASOK
+    institution: PJSC TOMSKPROMSTROYBANK
+  TMKPRU21610:
+    branch: (PJSC TOMSKPROMSTROYBANK (KOLPASHEVSKII BRANCH))
+    city: KOLPASHEVO
+    institution: PJSC TOMSKPROMSTROYBANK
+  TMKPRU21613:
+    branch: (PJSC TOMSKPROMSTROYBANK (STREZHEVSKOI BRANCH))
+    city: STREZHEVOI
+    institution: PJSC TOMSKPROMSTROYBANK
+  TMKPRU21625:
+    branch: (PJSC TOMSKPROMSTROYBANK (SEVERSK BRANCH))
+    city: SEVERSK
+    institution: PJSC TOMSKPROMSTROYBANK
+  TMKPRU21630:
+    branch: (PJSC TOMSKPROMSTROYBANK (SOVETSKII BRANCH))
+    city: TOMSK
+    institution: PJSC TOMSKPROMSTROYBANK
+  TMKPRU21671:
+    branch: (PJSC TOMSKPROMSTROYBANK (BRANCH NO. 17))
+    city: TOMSK
+    institution: PJSC TOMSKPROMSTROYBANK
+  TMKPRU5T:
+    branch: null
+    city: TOMSK
+    institution: PJSC TOMSKPROMSTROYBANK
+  TOGLRU3T:
+    branch: null
+    city: TOGLIATTI
+    institution: TOGLIATTIKHIMBANK
+  TORZRU22:
+    branch: null
+    city: TORZHOK
+    institution: OPEN JOINT STOCK COMPANY COMMERCIAL BANK TORZHOKUNIVERSALBANK
+  TOYBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: TOYOTA BANK
+  TRCBRU2K:
+    branch: null
+    city: KAZAN
+    institution: ENERGOBANK
+  TROYRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK 'TROIKA'
+  TRRYRUMM:
+    branch: null
+    city: MOSCOW
+    institution: J AND T BANK, AO
+  TRSNRUMM:
+    branch: null
+    city: MOSCOW
+    institution: TRANSSTROIBANK, JOINT STOCK COMMERCIAL BANK (JOINT STOCK COMPANY)
+  TRUKRU61:
+    branch: null
+    city: IRKUTSK
+    institution: KRONA-BANK
+  TSDBRU21:
+    branch: null
+    city: KAZAN
+    institution: JOINT STOCK BANK OF SOCIAL DEVELOPMENT OF TATARSTAN TATSOTSBANK
+  TSDBRU22:
+    branch: null
+    city: KAZAN
+    institution: JSC BANK OF SOCIAL DEVELOPMENT OF TATARSTAN TATSOTSBANK
+  TUPRRU21:
+    branch: null
+    city: TULA
+    institution: COMMERCIAL BANK TULSKY PROMYSHLENNIK OAO
+  TYUMRU41:
+    branch: null
+    city: TYUMEN
+    institution: TYUMENPROFBANK
+  UBRDRU41CHE:
+    branch: (YUZHNO-URALSKIJ BRANCH)
+    city: CHELYABINSK
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41KIR:
+    branch: (KIROVSKIJ BRANCH)
+    city: KIROV
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41KRS:
+    branch: (KRASNODARSKIJ BRANCH)
+    city: KRASNODAR
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41MOS:
+    branch: (MOSKOVSKIJ BRANCH)
+    city: MOSCOW
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41NOV:
+    branch: (NOVOURALSKIJ BRANCH)
+    city: NOVOURALSK
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41NVS:
+    branch: (NOVOSIBIRSKIJ BRANCH)
+    city: NOVOSIBIRSK
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41OZY:
+    branch: (MAYAK BRANCH)
+    city: OZERSK
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41PRM:
+    branch: null
+    city: PERM
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41SER:
+    branch: (SEROVSKIJ BRANCH)
+    city: SEROV
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41SPB:
+    branch: (SANKT-PETERBURGSKIJ BRANCH)
+    city: ST. PETERSBURG
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41SSB:
+    branch: (SSB BRANCH)
+    city: EKATERINBURG
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41UFA:
+    branch: null
+    city: UFA
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU41VRN:
+    branch: (VORONEZHSKIJ BRANCH)
+    city: VORONEZH
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBRDRU4E:
+    branch: null
+    city: EKATERINBURG
+    institution: THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)
+  UBSWRUMM:
+    branch: null
+    city: MOSCOW
+    institution: OOO UBS BANK
+  UCBCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: BANK UCB
+  UDMURU31:
+    branch: null
+    city: IZHEVSK
+    institution: UDMURTINVESTBUILDBANK
+  UFGRRUM1:
+    branch: null
+    city: MOSCOW
+    institution: ZAO DEUTSCHE SECURITIES
+  UGZARU55:
+    branch: null
+    city: CHELYABINSK
+    institution: COALMETBANK
+  UITBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: CLOSED JOINT STOCK COMPANY HOUSING FINANCE BANK
+  UMBARUMM:
+    branch: null
+    city: MOSCOW
+    institution: UM-BANK LLC
+  UMTNRUMM:
+    branch: null
+    city: MOSCOW
+    institution: UNISTREAM COMMERCIAL BANK
+  UNCLRU21:
+    branch: null
+    city: ST. PETERSBURG
+    institution: JOINT-STOCK COMPANY NORTH-WESTERN INVESTMENT BANK UNITED CAPITAL
+  UNCLRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: BANK UNITED CAPITAL
+  UNEBRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: PJSC BALTINVESTBANK
+  UNEPRU8V:
+    branch: null
+    city: VLADIVOSTOK
+    institution: PJSC BANK PRIMORYE
+  UNRCRUM1:
+    branch: null
+    city: MOSCOW
+    institution: UNITED REGISTERHOLDING COMPANY
+  UNRSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: UNITED RESERVE BANK
+  UNSKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: UNIVERSAL STOCK BANK LTD
+  UPBCRU41:
+    branch: null
+    city: CHELYABINSK
+    institution: OAO URALPROMBANK
+  URACRU41:
+    branch: null
+    city: UFA
+    institution: URALCAPITALBANK
+  URBARU2R:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: LLS SOUTH REGIONAL BANK
+  URCERU41:
+    branch: null
+    city: EKATERINBURG
+    institution: URALS REGIONAL CURRENCY EXCHANGE
+  URCORU41:
+    branch: null
+    city: EKATERINBURG
+    institution: URALFINANCE COMMERCIAL BANK
+  URJCRU41:
+    branch: null
+    city: EKATERINBURG
+    institution: URALPRIVATBANK
+  URLGRU41:
+    branch: null
+    city: CHELYABINSK
+    institution: COMMERCIAL BANK 'URALLIGA'
+  UROARU41:
+    branch: null
+    city: EKATERINBURG
+    institution: URALFINPROMBANK
+  URTRRU31:
+    branch: null
+    city: IZHEVSK
+    institution: URAL TRUST BANK
+  USSURU81:
+    branch: null
+    city: KHABAROVSK
+    institution: OAO COMMERCIAL BANK USSURI
+  UTRBRU4E:
+    branch: null
+    city: EKATERINBURG
+    institution: URALTRANSBANK OAO
+  VAKORU21:
+    branch: null
+    city: VELIKIE LUKI
+    institution: VAKOBANK
+  VBNKRUM1KLG:
+    branch: (KALININGRAD BRANCH)
+    city: KALININGRAD
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1KRD:
+    branch: (KRASNODAR BRANCH)
+    city: KRASNODAR
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1MGD:
+    branch: (MAGADAN BRANCH)
+    city: MAGADAN
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1MHL:
+    branch: (MAKHACHKALA BRANCH)
+    city: MAKHACHKALA
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1MRM:
+    branch: (MURMANSK BRANCH)
+    city: MURMANSK
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1NNG:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1NVR:
+    branch: (NOVOROSSIYSK BRANCH)
+    city: NOVOROSSIYSK
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1PTZ:
+    branch: (PETROZAVODSK BRANCH)
+    city: PETROZAVODSK
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1RND:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1SPB:
+    branch: (ST. PETERSBURG BRANCH)
+    city: ST. PETERSBURG
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1SRN:
+    branch: (SARANSK BRANCH)
+    city: SARANSK
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1STA:
+    branch: (STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1TUL:
+    branch: (TULA BRANCH)
+    city: TULA
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1VGD:
+    branch: (VOLGODONSK BRANCH)
+    city: VOLGODONSK
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1VGR:
+    branch: (VOLGOGRAD BRANCH)
+    city: VOLGOGRAD
+    institution: VOZROZHDENIE BANK
+  VBNKRUM1VRZ:
+    branch: (VORONEZH BRANCH)
+    city: VORONEZH
+    institution: VOZROZHDENIE BANK
+  VBNKRUMM:
+    branch: null
+    city: MOSCOW
+    institution: VOZROZHDENIE BANK
+  VCJVRU3A:
+    branch: null
+    city: ASTRAKHAN
+    institution: VCABANK
+  VECARU21:
+    branch: null
+    city: RYBINSK
+    institution: '''VERHNEVOLZHSKIY'' CB OAO'
+  VEJSRU2U:
+    branch: null
+    city: ULYANOVSK
+    institution: BANK VENETS
+  VGRURU22:
+    branch: null
+    city: KALUGA
+    institution: VOLKSWAGEN GROUP RUS
+  VIATRU21:
+    branch: null
+    city: KIROV
+    institution: PJSC NORVIK BANK
+  VITARU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: VITABANK PJSC
+  VITYRUM1:
+    branch: null
+    city: MOSCOW
+    institution: CB 'VITYAZ' LTD
+  VIZIRUMM:
+    branch: null
+    city: MOSCOW
+    institution: DEVELOPMENT CAPITAL BANK
+  VKNGRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: VIKING
+  VLADRU21:
+    branch: null
+    city: VLADIMIR
+    institution: VLADBIZNESBANK ZAO
+  VLBARU61:
+    branch: null
+    city: UST-KUT
+    institution: VLBANK
+  VLBARU61IRK:
+    branch: (IRKUTSK BRANCH)
+    city: IRKUTSK
+    institution: VLBANK
+  VMTNRUMM:
+    branch: null
+    city: MOSCOW
+    institution: LEADER
+  VNESRU21:
+    branch: null
+    city: KRASNODAR
+    institution: VNESHFINBANK
+  VOCSRU21:
+    branch: null
+    city: KALUGA
+    institution: VOLKSWAGEN COMPONENTS AND SERVICES
+  VOLARU31:
+    branch: null
+    city: SAMARA
+    institution: VOLGO-KAMSKY BANK
+  VOLBRUM1:
+    branch: null
+    city: VOLOGDA
+    institution: VOLOGDABANK
+  VOLIRU21:
+    branch: null
+    city: SARATOV
+    institution: VOLGOINVESTBANK
+  VOLJRU21:
+    branch: null
+    city: VOLOGDA
+    institution: VOLOGZHANIN BANK AO
+  VOOARU61:
+    branch: null
+    city: IRKUTSK
+    institution: VOSTSIBTRANSKOMBANK OAO
+  VORCRU2N:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: JSC VOCBANK
+  VORNRU21:
+    branch: null
+    city: VORONEZH
+    institution: TSENTRALNO-CHERNOZEMNY BRANCH OF JOINT STOCK COMMERCIAL BANK INVESTBANK
+      OPEN-END JSC
+  VORZRUM1:
+    branch: null
+    city: VORONEZH
+    institution: BANK VORONEZH
+  VOSORU81:
+    branch: null
+    city: BLAGOVESHCHENSK
+    institution: VOSTOKKREDITBANK OAO
+  VOWARUMM:
+    branch: null
+    city: MOSCOW
+    institution: VOLKSWAGEN BANK RUS
+  VRBMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK VRB (LLC)
+  VSTARUMM:
+    branch: null
+    city: MOSCOW
+    institution: INVESTMENT BANK VESTA (LIMITED LIABILITY COMPANY)
+  VTBRRUM2EK2:
+    branch: (URALSKIY BRANCH, EKATERINBURG)
+    city: EKATERINBURG
+    institution: VTB BANK (PJSC)
+  VTBRRUM2EKA:
+    branch: (EKATERINBURG BRANCH)
+    city: EKATERINBURG
+    institution: VTB BANK (PJSC)
+  VTBRRUM2KH2:
+    branch: (DALNEVOSTOCHNYI BRANCH, YUZHNO-SAKHALINSK)
+    city: YUZHNO-SAKHALINSK
+    institution: VTB BANK (PJSC)
+  VTBRRUM2KHA:
+    branch: (KHABAROVSK BRANCH)
+    city: KHABAROVSK
+    institution: VTB BANK (PJSC)
+  VTBRRUM2KRA:
+    branch: (KRASNOYARSK BRANCH)
+    city: KRASNOYARSK
+    institution: VTB BANK (PJSC)
+  VTBRRUM2MS2:
+    branch: (TSENTRALNYI BRANCH, MOSCOW)
+    city: MOSCOW
+    institution: VTB BANK (PJSC)
+  VTBRRUM2MSK:
+    branch: null
+    city: MOSCOW
+    institution: VTB BANK (PJSC)
+  VTBRRUM2NI2:
+    branch: (PRIVOLZHSKIY BRANCH, NIZHNIY NOVGOROD)
+    city: NIZHNIY NOVGOROD
+    institution: VTB BANK (PJSC)
+  VTBRRUM2NIN:
+    branch: (NIZHNIY NOVGOROD BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: VTB BANK (PJSC)
+  VTBRRUM2NS2:
+    branch: (SIBIRSKIY BRANCH, NOVOSIBIRSK)
+    city: NOVOSIBIRSK
+    institution: VTB BANK (PJSC)
+  VTBRRUM2NWR:
+    branch: (OPERU BRANCH)
+    city: ST. PETERSBURG
+    institution: VTB BANK (PJSC)
+  VTBRRUM2RN2:
+    branch: (YUZHNYI BRANCH, ROSTOV-ON-DON)
+    city: ROSTOV-ON-DON
+    institution: VTB BANK (PJSC)
+  VTBRRUM2RND:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: VTB BANK (PJSC)
+  VTBRRUM2SP2:
+    branch: (SEVERO-ZAPADNYI BRANCH, SAINT-PETERSBURG)
+    city: ST. PETERSBURG
+    institution: VTB BANK (PJSC)
+  VTBRRUM2ST2:
+    branch: (SEVERO-KAVKAZSKIY BRANCH, STAVROPOL)
+    city: STAVROPOL
+    institution: VTB BANK (PJSC)
+  VTBRRUM2STA:
+    branch: (STAVROPOL BRANCH)
+    city: STAVROPOL
+    institution: VTB BANK (PJSC)
+  VTBRRUM2VRN:
+    branch: (VORONEZH BRANCH)
+    city: VORONEZH
+    institution: VTB BANK (PJSC)
+  VTBRRUMM:
+    branch: null
+    city: MOSCOW
+    institution: VTB BANK (PJSC)
+  VTBRRUMMCSD:
+    branch: (CUSTODY DEPARTMENT)
+    city: MOSCOW
+    institution: VTB BANK (PJSC)
+  VTBRRUMML29:
+    branch: null
+    city: MOSCOW
+    institution: VTB BANK (PJSC)
+  VTBRRUMMSEC:
+    branch: (SECURITIES DEPARTMENT)
+    city: MOSCOW
+    institution: VTB BANK (PJSC)
+  VTCARUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSC VTB CAPITAL
+  VTCARUMMCUS:
+    branch: (CUSTODY)
+    city: MOSCOW
+    institution: JSC VTB CAPITAL
+  VTCARUMMMT9:
+    branch: (TECHNICAL BIC)
+    city: MOSCOW
+    institution: JSC VTB CAPITAL
+  VUNIRU31:
+    branch: null
+    city: SAMARA
+    institution: '''VOLZHSKY UNIVERSAL BANK'' OAO'
+  VUZBRU41:
+    branch: null
+    city: EKATERINBURG
+    institution: VUZ-BANK OAO
+  VVBKRU2Y:
+    branch: null
+    city: RYBINSK
+    institution: VVB BANK PUBLIC JOINT STOCK COMPANY, RYBINSK BRANCH
+  VVNBRU21:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: VVNB
+  WBCCRUMM:
+    branch: null
+    city: MOSCOW
+    institution: BANKHAUS ERBE
+  WELORU21:
+    branch: null
+    city: BELGOROD
+    institution: WELLTON BANK
+  WUMTRUMM:
+    branch: null
+    city: MOSCOW
+    institution: NCO WESTERN UNION MT EAST, LTD
+  XAPIRU81:
+    branch: null
+    city: VLADIVOSTOK
+    institution: MICEX-FAR EAST REGIONAL EXCHANGE CENTER
+  XMICRUM1:
+    branch: null
+    city: MOSCOW
+    institution: MOSCOW INTERBANK CURRENCY EXCHANGE (MICEX)
+  XMOSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: MOSCOW CENTRAL STOCK EXCHANGE
+  XPETRU21:
+    branch: null
+    city: ST. PETERSBURG
+    institution: ST.PETERSBURG STOCK EXCHANGE ZAO
+  XPICRU2P:
+    branch: null
+    city: ST. PETERSBURG
+    institution: SAINT-PETERSBURG CURRENCY EXCHANGE
+  XROVRU21:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: REGIONAL EXCHANGE CENTER MICEX-SOUTH
+  XRUSRUM1:
+    branch: null
+    city: MOSCOW
+    institution: RUSSIAN EXCHANGE
+  XSAMRU31:
+    branch: null
+    city: SAMARA
+    institution: SAMARA CURRENCY INTERBANK EXCHANGE OAO
+  XSIBRU51:
+    branch: null
+    city: NOVOSIBIRSK
+    institution: SIBERIAN STOCK EXCHANGE
+  XVLARU81:
+    branch: null
+    city: VLADIVOSTOK
+    institution: VLADIVOSTOK (RUSSIA) STOCK EXCHANGE
+  YARBRUM1:
+    branch: null
+    city: KRASNOYARSK
+    institution: CB YARBANK LIMITED
+  YARMRU21:
+    branch: null
+    city: NIZHNIY NOVGOROD
+    institution: YARMAROCHNYI BANK
+  YARORU21:
+    branch: null
+    city: YAROSLAVL
+    institution: COMMERCIAL BANK 'YAROSLAVICH' AO
+  YAYORUM1:
+    branch: null
+    city: YAROSLAVL
+    institution: YARSOTSBANK JSC
+  YJSCRU22:
+    branch: null
+    city: KRASNODAR
+    institution: JOINT-STOCK BANK YUG-INVESTBANK (JOINT-STOCK COMPANY)
+  YKBMRUMM:
+    branch: null
+    city: MOSCOW
+    institution: JSCB 'YAPI KREDI BANK MOSCOW' (JSC)
+  YMKYRU21:
+    branch: null
+    city: KRASNODAR
+    institution: YMK BANK
+  YNDMRUM1:
+    branch: null
+    city: MOSCOW
+    institution: YANDEX.MONEY, NBCO LLC
+  YOSHRU21:
+    branch: null
+    city: YOSHKAR-OLA
+    institution: YOSHKAR-OLA BANK
+  YURERU21:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: YUZHNY REGION CB
+  ZAJCRU2K:
+    branch: null
+    city: KAZAN
+    institution: ZARECHYE BANK
+  ZAOKRUM1:
+    branch: null
+    city: MOSCOW
+    institution: INVESTMENT COMPANY TROIKA DIALOG ZAO
+  ZCGMRUM1:
+    branch: null
+    city: MOSCOW
+    institution: ZAO CITIGROUP GLOBAL MARKETS
+  ZEMCRU22:
+    branch: null
+    city: ROSTOV-ON-DON
+    institution: ZEMCOMBANK
+  ZENIRUM1ALM:
+    branch: (ALMETYEVSK BRANCH)
+    city: ALMETYEVSK
+    institution: ZENIT BANK
+  ZENIRUM1EKT:
+    branch: (URAL BRANCH)
+    city: EKATERINBURG
+    institution: ZENIT BANK
+  ZENIRUM1KUR:
+    branch: (KURSK BRANCH)
+    city: KURSK
+    institution: ZENIT BANK
+  ZENIRUM1KZN:
+    branch: (TATARSTAN BRANCH)
+    city: KAZAN
+    institution: ZENIT BANK
+  ZENIRUM1NNO:
+    branch: (VOLGA BRANCH)
+    city: NIZHNIY NOVGOROD
+    institution: ZENIT BANK
+  ZENIRUM1NVS:
+    branch: (SIBIR BRANCH)
+    city: NOVOSIBIRSK
+    institution: ZENIT BANK
+  ZENIRUM1RND:
+    branch: (ROSTOV-ON-DON BRANCH)
+    city: ROSTOV-ON-DON
+    institution: ZENIT BANK
+  ZENIRUM1SMR:
+    branch: (POVOLZYE BRANCH)
+    city: SAMARA
+    institution: ZENIT BANK
+  ZENIRUM1SPB:
+    branch: (BALTIKA BRANCH)
+    city: ST. PETERSBURG
+    institution: ZENIT BANK
+  ZENIRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ZENIT BANK
+  ZENIRUMM001:
+    branch: (HEAD OFFICE)
+    city: MOSCOW
+    institution: ZENIT BANK
+  ZHCBRUMM:
+    branch: null
+    city: MOSCOW
+    institution: COMMERCIAL BANK ZHILCREDIT LLC
+  ZJSCRU51:
+    branch: null
+    city: BARNAUL
+    institution: '''ZERNOBANK'' COMMERCIAL BANK ZAO'
+  ZJSCRU51ZMD:
+    branch: (ZHELEZNODOROZHNY)
+    city: BARNAUL
+    institution: '''ZERNOBANK'' COMMERCIAL BANK ZAO'
+  ZLATRU41:
+    branch: null
+    city: ZLATOUST
+    institution: ZLATCOMBANK
+  ZLATRUMM:
+    branch: null
+    city: MOSCOW
+    institution: ZLATCOMBANK, JSC
+  ZWCBRU4Y:
+    branch: null
+    city: TYUMEN
+    institution: WEST SIBERIAN COMMERCIAL BANK OAO

@@ -1,0 +1,54 @@
+!!python/object/apply:collections.defaultdict
+dictitems:
+  CBVSSRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: CENTRALE BANK VAN SURINAME
+  CBVSSRPASUR:
+    branch: null
+    city: PARAMARIBO
+    institution: CENTRALE BANK VAN SURINAME
+  FBNASRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: FINABANK N.V.
+  GODOSRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: COOPERATIEVE SPAAR-EN KREDIETBANK GODO G.A.
+  HAKRSRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: HAKRINBANK N.V.
+  ICTBSRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: FINATRUST, DE TRUSTBANK N.V.
+  LBNKSRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: LANDBOUWBANK N.V.
+  RBNKSRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: REPUBLIC BANK (SURINAME) N.V.
+  SDPOSRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: SURINAAMSE POSTSPAARBANK
+  SOUOSRPP:
+    branch: null
+    city: PARAMARIBO
+    institution: SOUTHERN COMMERCIAL BANK NV
+  SURBSRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: DSB BANK ALSO KNOWN AS DE SURINAAMSCHE BANK N.V. PARAMARIBO SR
+  SURCSRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: SURICHANGE BANK N.V.
+  VCBSSRPA:
+    branch: null
+    city: PARAMARIBO
+    institution: SURINAAMSE VOLKSCREDIETBANK
