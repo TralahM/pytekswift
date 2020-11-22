@@ -1,19 +1,17 @@
 """tekswift cli (command line interface)."""
 import argparse
-import collections
 import yaml
 from tekswift import dataloader
+from tekswift.utils import transform_country_data, bin_to_swifts
 
 
-def transform_country_data(country_data):
-    """Return a new flattened representation of the swiftcode_data."""
-    new_data = []
-    for key, value in country_data.items():
-        new_transform = collections.defaultdict()
-        new_transform["swiftcode"] = key
-        new_transform.update(value)
-        new_data.append(new_transform)
-    return new_data
+def bin2swift_lookup(args: argparse.Namespace):
+    """Return the Swift codes for the matching issuer."""
+    swifts, bin_data = bin_to_swifts(args.bin_code, args.threshold)
+    bin_data["swift_data"] = swifts
+    # print(yaml.dump(swifts))
+    print(yaml.dump(bin_data))
+    return
 
 
 def swift_lookup(args: argparse.Namespace):
@@ -79,6 +77,22 @@ def get_main_parser():
     country_sp.set_defaults(func=country_lookup)
     country_sp.add_argument(
         "country_code", help="ISO-2 or ISO-3 Country Code.")
+    bin_sp = subparsers.add_parser(
+        "bin",
+        aliases=["bn"],
+        help=bin2swift_lookup.__doc__,
+    )
+    bin_sp.set_defaults(func=bin2swift_lookup)
+    bin_sp.add_argument(
+        "-p",
+        "--probability-threshold",
+        action="store",
+        default=0.8,
+        dest="threshold",
+        help="threshold to use as a filter bettween [0,1].",
+        type=float,
+    )
+    bin_sp.add_argument("bin_code", help="Bank Indetification Code.")
     return parser
 
 
