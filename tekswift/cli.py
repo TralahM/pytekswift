@@ -7,10 +7,13 @@ from tekswift.utils import transform_country_data, bin_to_swifts
 
 def bin2swift_lookup(args: argparse.Namespace):
     """Return the Swift codes for the matching issuer."""
-    swifts, bin_data = bin_to_swifts(args.bin_code, args.threshold)
+    swifts, bin_data, pmap = bin_to_swifts(args.bin_code, args.threshold)
     bin_data["swift_data"] = swifts
-    # print(yaml.dump(swifts))
     print(yaml.dump(bin_data))
+    if args.verbose:
+        # [print(f"{k}: {b}") for k, b in pmap.items()]
+        print(pmap)
+    # print(yaml.dump(swifts))
     return
 
 
@@ -91,6 +94,14 @@ def get_main_parser():
         dest="threshold",
         help="threshold to use as a filter bettween [0,1].",
         type=float,
+    )
+    bin_sp.add_argument(
+        "-v",
+        "--verbose",
+        action="store_true",
+        default=False,
+        dest="verbose",
+        help="be verbose.",
     )
     bin_sp.add_argument("bin_code", help="Bank Indetification Code.")
     return parser

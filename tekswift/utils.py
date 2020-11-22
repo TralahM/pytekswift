@@ -93,4 +93,4 @@ def bin_to_swifts(bin_no, p=0.8):
     probmap = issuer_institutions_probmap(issuer, institutions)
     swifts = {c: dataloader.lookup_swiftcode(
         c) for c in filter_probmap(probmap, p)}
-    return swifts, bin_data
+    return swifts, bin_data, probmap
