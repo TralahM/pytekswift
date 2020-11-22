@@ -3,6 +3,7 @@ import string
 import collections
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
+from fuzzywuzzy import fuzz
 
 try:
     from nltk.corpus import stopwords
@@ -17,6 +18,11 @@ from tekswift import dataloader
 stopwords = stopwords.words("english")
 
 
+def fuzz_prob(issuer, institution):
+    """Return Fuzz wuzz simple ratio divided by 100."""
+    return fuzz.ratio(issuer, institution) / 100
+
+
 def transform_country_data(country_data):
     """Return a new flattened representation of the swiftcode_data."""
     new_data = []
@@ -29,6 +35,7 @@ def transform_country_data(country_data):
 
 
 def clean_string(text):
+    """Return cleaned string."""
     text = "".join([word for word in text if word not in string.punctuation])
     text = text.lower()
     text = "".join([word for word in text.split() if word not in stopwords])
@@ -69,13 +76,17 @@ def get_institutions_from_swift(country_code):
     return transform_country_data(dataloader.load_country_data(country_code))
 
 
-def issuer_institutions_probmap(issuer, institutions):
+def issuer_institutions_probmap(issuer, institutions, fuzz=False):
     """Return a map of swiftcode to probabilty"""
     probmap = collections.defaultdict()
     for ins in institutions:
-        probmap[ins.get("swiftcode")] = issuer_institution_similarity(
-            issuer, ins.get("institution")
-        )
+        if fuzz:
+            probmap[ins.get("swiftcode")] = fuzz_prob(
+                issuer, ins.get("institution"))
+        else:
+            probmap[ins.get("swiftcode")] = issuer_institution_similarity(
+                issuer, ins.get("institution")
+            )
     return probmap
 
 
@@ -84,13 +95,13 @@ def filter_probmap(probmap, probability):
     return [k for k, v in probmap.items() if v >= probability]
 
 
-def bin_to_swifts(bin_no, p=0.8):
+def bin_to_swifts(bin_no, p=0.8, fuzz=True):
     """Bank Identification Number to Swift matches."""
     bin_data = cctek.bin_checker(bin_no)
     issuer = bin_data.get("issuer")
     country_code = bin_data.get("country").get("alpha_2")
     institutions = get_institutions_from_swift(country_code)
-    probmap = issuer_institutions_probmap(issuer, institutions)
+    probmap = issuer_institutions_probmap(issuer, institutions, fuzz=fuzz)
     swifts = {c: dataloader.lookup_swiftcode(
         c) for c in filter_probmap(probmap, p)}
     return swifts, bin_data, probmap

@@ -7,7 +7,11 @@ from tekswift.utils import transform_country_data, bin_to_swifts
 
 def bin2swift_lookup(args: argparse.Namespace):
     """Return the Swift codes for the matching issuer."""
-    swifts, bin_data, pmap = bin_to_swifts(args.bin_code, args.threshold)
+    swifts, bin_data, pmap = bin_to_swifts(
+        args.bin_code,
+        args.threshold,
+        fuzz=True,
+    )
     bin_data["swift_data"] = swifts
     print(yaml.dump(bin_data))
     if args.verbose:
