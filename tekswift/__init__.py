@@ -30,6 +30,6 @@ __all__ = [
     "lookup_swiftcode",
 ]
 
-__version__ = "0.0.1"
+__version__ = "0.1.0"
 
 __author__ = "Tralah M Brian <https://github.com/TralahM>"
