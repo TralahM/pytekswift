@@ -1,5 +1,6 @@
 """Utilities for deriving functionality from pytekswift and pycctek."""
 import string
+import functools
 import collections
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
@@ -18,6 +19,7 @@ from tekswift import dataloader
 stopwords = stopwords.words("english")
 
 
+@functools.lru_cache(maxsize=128)
 def fuzz_prob(issuer, institution):
     """Return Fuzz wuzz simple ratio divided by 100."""
     return fuzz.ratio(issuer, institution) / 100
@@ -34,6 +36,7 @@ def transform_country_data(country_data):
     return new_data
 
 
+@functools.lru_cache(maxsize=128)
 def clean_string(text):
     """Return cleaned string."""
     text = "".join([word for word in text if word not in string.punctuation])
@@ -63,6 +66,7 @@ def vectorize(cleaned_strings: list):
     return vectors
 
 
+@functools.lru_cache(maxsize=128)
 def issuer_institution_similarity(issuer: str, institution: str) -> float:
     """Return prob[0,1] that issuer and institution strings are similar."""
     cleaned = list(map(clean_string, [issuer, institution]))
@@ -71,13 +75,14 @@ def issuer_institution_similarity(issuer: str, institution: str) -> float:
     return probability
 
 
+@functools.lru_cache(maxsize=128)
 def get_institutions_from_swift(country_code):
     """Return a list of institutions and swiftcodes from country code."""
     return transform_country_data(dataloader.load_country_data(country_code))
 
 
 def issuer_institutions_probmap(issuer, institutions, fuzz=False):
-    """Return a map of swiftcode to probabilty"""
+    """Return a map of swiftcode to probabilty."""
     probmap = collections.defaultdict()
     for ins in institutions:
         if fuzz:
@@ -95,6 +100,7 @@ def filter_probmap(probmap, probability):
     return [k for k, v in probmap.items() if v >= probability]
 
 
+@functools.lru_cache(maxsize=128)
 def bin_to_swifts(bin_no, p=0.8, fuzz=True):
     """Bank Identification Number to Swift matches."""
     bin_data = cctek.bin_checker(bin_no)

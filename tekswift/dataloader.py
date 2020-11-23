@@ -9,6 +9,7 @@ and lookup by countries.
 
 from yaml import load  # ,dump
 import os
+import functools
 
 try:
     from yaml import CLoader as Loader  # CDumper as Dumper
@@ -30,6 +31,7 @@ class InvalidSwiftCode(Exception):
     pass
 
 
+@functools.lru_cache(maxsize=128)
 def build_path(countrycode: str) -> str:
     """Build Path to YAML File."""
     countrycode = countrycode.lower()
@@ -41,6 +43,7 @@ def build_path(countrycode: str) -> str:
     return path
 
 
+@functools.lru_cache(maxsize=128)
 def load_country_data(countrycode):
     """Return a Python Object from the loaded yaml countrycode data file."""
     path = build_path(countrycode)
@@ -49,6 +52,7 @@ def load_country_data(countrycode):
     return document
 
 
+@functools.lru_cache(maxsize=128)
 def isvalid_swiftcode(code):
     """Is swiftcode valid, 8 chars or 11 chars?."""
     if len(code) == 8 or len(code) == 11:
@@ -57,6 +61,7 @@ def isvalid_swiftcode(code):
         return False
 
 
+@functools.lru_cache(maxsize=128)
 def countrycode_from_swiftcode(swiftcode: str):
     """Swift Code Structure.
 
@@ -87,6 +92,7 @@ def countrycode_from_swiftcode(swiftcode: str):
     return f"{swiftcode[4:6]}"
 
 
+@functools.lru_cache(maxsize=128)
 def lookup_swiftcode(swiftcode: str):
     """Get Details of provided swiftcode or None."""
     data = load_country_data(countrycode_from_swiftcode(swiftcode))
