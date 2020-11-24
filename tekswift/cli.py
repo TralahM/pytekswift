@@ -46,7 +46,7 @@ def bin2swift_lookup(args: argparse.Namespace):
         args.threshold,
         fuzz=True,
     )
-    bin_data["swift"] = swifts
+    bin_data.update(swifts)
     mdr_yml(yaml.dump(bin_data))
     if args.verbose:
         # [print(f"{k}: {b}") for k, b in pmap.items()]
