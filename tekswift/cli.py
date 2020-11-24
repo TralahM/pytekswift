@@ -1,8 +1,42 @@
 """tekswift cli (command line interface)."""
 import argparse
+import sys
 import yaml
 from tekswift import dataloader
-from tekswift.utils import transform_country_data, bin_to_swifts
+from tekswift.utils import (
+    transform_country_data,
+    bin_to_swifts,
+    gen_md,
+    load_file,
+    mdr_yml,
+    is_tool,
+)
+
+
+def yml2md(args):
+    """Return yml to markdown representation."""
+    data = load_file(args.filename)
+    print(gen_md(data))
+
+
+def yml2md_parser():
+    """Run main program."""
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "-f",
+        "--filename",
+        action="store",
+        dest="filename",
+        help="YAML file to render to markdown",
+        type=argparse.FileType("r"),
+        metavar="PATH",
+        default=sys.stdin,
+    )
+    parser.set_defaults(func=yml2md)
+    args = parser.parse_args()
+
+    args.func(args)
+    return
 
 
 def bin2swift_lookup(args: argparse.Namespace):
@@ -12,26 +46,26 @@ def bin2swift_lookup(args: argparse.Namespace):
         args.threshold,
         fuzz=True,
     )
-    bin_data["swift_data"] = swifts
-    print(yaml.dump(bin_data))
+    bin_data["swift"] = swifts
+    mdr_yml(yaml.dump(bin_data))
     if args.verbose:
         # [print(f"{k}: {b}") for k, b in pmap.items()]
         print(pmap)
-    # print(yaml.dump(swifts))
+    # mdr_yml(yaml.dump(swifts))
     return
 
 
 def swift_lookup(args: argparse.Namespace):
     """Lookup the given SWIFTCODE in the database."""
     info = dataloader.lookup_swiftcode(args.swiftcode)
-    print(yaml.dump(info))
+    mdr_yml(yaml.dump(info))
     return
 
 
 def country_lookup(args: argparse.Namespace):
     """Return details of all banks for the given country code."""
     country_data = dataloader.load_country_data(args.country_code)
-    print(yaml.dump(transform_country_data(country_data)))
+    mdr_yml(yaml.dump(transform_country_data(country_data)))
     return
 
 

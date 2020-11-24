@@ -1,10 +1,13 @@
 """Utilities for deriving functionality from pytekswift and pycctek."""
 import string
 import functools
+import yaml
 import collections
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
 from fuzzywuzzy import fuzz
+import os
+import collections.abc
 
 try:
     from nltk.corpus import stopwords
@@ -16,7 +19,76 @@ except LookupError:
 import cctek
 from tekswift import dataloader
 
+try:
+    from yaml import CLoader as Loader
+except ImportError:
+    from yaml import Loader
+
 stopwords = stopwords.words("english")
+
+base_dir = os.path.dirname(os.path.abspath(os.path.curdir))
+
+
+def load_file(filename):
+    """Load file to a python dict or list."""
+    data = yaml.load(filename, Loader=Loader)
+    return data
+
+
+def flatten(d, parent_key="", sep="_"):
+    """Flatten value if is a List or dict and return dict."""
+    items = []
+    for k, v in d.items():
+        new_key = parent_key + sep + k if parent_key else k
+        if isinstance(v, collections.abc.MutableMapping):
+            items.extend(flatten(v, new_key, sep=sep).items())
+        else:
+            items.append((new_key, v))
+    return dict(items)
+
+
+def list2str(lst):
+    """Return str from lst."""
+    tmp = "|".join([str(lv) for lv in lst])
+    return f"|{tmp}|"
+
+
+def gen_md(data):
+    """Generate Mardown representation of data."""
+    content = []
+    if isinstance(data, dict):
+        keys = list(flatten(data).keys())
+        headersep = [" ----- " for k in keys]
+        values = list(flatten(data).values())
+        content.append(list2str(keys))
+        content.append(list2str(headersep))
+        content.append(list2str(values))
+        return "\n".join(content)
+    elif isinstance(data, list):
+        keys = list(flatten(data[0]).keys())
+        headersep = [" ----- " for k in keys]
+        content.append(list2str(keys))
+        content.append(list2str(headersep))
+        [content.append(list2str(list(flatten(v).values()))) for v in data]
+        return "\n".join(content)
+
+
+def is_tool(name):
+    """Check whether `name` is on PATH and marked as executable."""
+    from shutil import which
+
+    return which(name) is not None
+
+
+def mdr_yml(ymldata):
+    """Call subprocess mdr to render markdown table from ymldata."""
+    prog = "mdr"
+    mkdwn = gen_md(yaml.load(ymldata, Loader=Loader))
+    if is_tool(prog) and mkdwn is not None:
+        os.system(f'echo "{mkdwn}"|{prog}')
+    else:
+        print(ymldata)
+    return
 
 
 @functools.lru_cache(maxsize=128)
