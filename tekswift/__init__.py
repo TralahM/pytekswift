@@ -18,6 +18,7 @@ from .dataloader import (
     load_country_data,
     lookup_swiftcode,
 )
+from .utils import bin_to_swifts
 
 
 __all__ = [
@@ -28,8 +29,9 @@ __all__ = [
     "isvalid_swiftcode",
     "load_country_data",
     "lookup_swiftcode",
+    "bin_to_swifts",
 ]
 
-__version__ = "0.1.2"
+__version__ = "0.1.5"
 
 __author__ = "Tralah M Brian <https://github.com/TralahM>"

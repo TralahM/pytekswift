@@ -1,5 +1,5 @@
 include tekswift/data *
-recursive-include tekswift/data
+recursive-include tekswift/data *.yml
 include LICENSE
 include *.md
 include *.rst

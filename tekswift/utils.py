@@ -176,6 +176,9 @@ def filter_probmap(probmap, probability):
 def bin_to_swifts(bin_no, p=0.8, fuzz=True):
     """Bank Identification Number to Swift matches."""
     bin_data = cctek.bin_checker(bin_no)
+    if not bin_data:
+        issuer = None
+        return None, None, None
     issuer = bin_data.get("issuer")
     country_code = bin_data.get("country").get("alpha_2")
     institutions = get_institutions_from_swift(country_code)
