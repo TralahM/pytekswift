@@ -8,6 +8,7 @@ Defines:
     InvalidCountryCode,
     InvalidSwiftCode,
 """
+
 # import
 from .dataloader import (
     InvalidCountryCode,
@@ -32,6 +33,6 @@ __all__ = [
     "bin_to_swifts",
 ]
 
-__version__ = "0.1.5"
+__version__ = "0.1.6"
 
 __author__ = "Tralah M Brian <https://github.com/TralahM>"
