@@ -1,14 +1,13 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  APDEVAVA:
-    branch: null
-    city: VATICAN CITY
-    institution: AMMINISTRAZIONE DEL PATRIMONIO DELLA SEDE APOSTOLICA
-  IOPRVAVX:
-    branch: null
-    city: VATICAN CITY
-    institution: ISTITUTO PER LE OPERE DI RELIGIONE
-  VATIVAV1:
-    branch: null
-    city: CITTA DEL VATICANO
-    institution: POSTE VATICANE
+---
+APDEVAVA:
+  branch: null
+  city: VATICAN CITY
+  institution: AMMINISTRAZIONE DEL PATRIMONIO DELLA SEDE APOSTOLICA
+IOPRVAVX:
+  branch: null
+  city: VATICAN CITY
+  institution: ISTITUTO PER LE OPERE DI RELIGIONE
+VATIVAV1:
+  branch: null
+  city: CITTA DEL VATICANO
+  institution: POSTE VATICANE

@@ -1,26 +1,25 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  BCBATCGP:
-    branch: null
-    city: PROVIDENCIALES
-    institution: BRITISH CARIBBEAN BANK LIMITED
-  BIBTTCG1:
-    branch: null
-    city: PROVIDENCIALES
-    institution: BORDIER INTERNATIONAL BANK AND TRUST LTD.
-  FCIBTCGP:
-    branch: null
-    city: PROVIDENCIALES
-    institution: FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED, TURKS AND CAICOS
-  FTNLTCG1:
-    branch: null
-    city: PROVIDENCIALES
-    institution: FIRST NATIONAL BANK LIMITED
-  NOSCTCGP:
-    branch: null
-    city: PROVIDENCIALES
-    institution: SCOTIABANK (TURKS AND CAICOS) LTD
-  TCBCTCGP:
-    branch: null
-    city: GRAND TURK
-    institution: TURKS AND CAICOS BANKING CO. LTD
+---
+BCBATCGP:
+  branch: null
+  city: PROVIDENCIALES
+  institution: BRITISH CARIBBEAN BANK LIMITED
+BIBTTCG1:
+  branch: null
+  city: PROVIDENCIALES
+  institution: BORDIER INTERNATIONAL BANK AND TRUST LTD.
+FCIBTCGP:
+  branch: null
+  city: PROVIDENCIALES
+  institution: FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED, TURKS AND CAICOS
+FTNLTCG1:
+  branch: null
+  city: PROVIDENCIALES
+  institution: FIRST NATIONAL BANK LIMITED
+NOSCTCGP:
+  branch: null
+  city: PROVIDENCIALES
+  institution: SCOTIABANK (TURKS AND CAICOS) LTD
+TCBCTCGP:
+  branch: null
+  city: GRAND TURK
+  institution: TURKS AND CAICOS BANKING CO. LTD

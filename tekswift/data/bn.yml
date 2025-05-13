@@ -1,62 +1,61 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  AMBDBNBB:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: AUTORITI MONETARI BRUNEI DARUSSALAM
-  BAIDBNBB:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: BAIDURI BANK BERHAD
-  BIAGBNB1:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: BRUNEI INVESTMENT AGENCY
-  BIBDBNBB:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: BANK ISLAM BRUNEI DARUSSALAM BERHAD
-  BKCHBNBB:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: BANK OF CHINA (HONG KONG) LIMITED, BRUNEI BRANCH
-  BRHPBNB1:
-    branch: null
-    city: SERIA
-    institution: BRUNEI SHELL PETROLEUM
-  CCBRBNB1:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: CREDIT CORPORATION (BRUNEI) BHD
-  HSBCBNBB:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE
-  MBBEBNBB:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: MALAYAN BANKING BERHAD
-  PTAIBNBB:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: PERBADANAN TABUNG AMANAH ISLAM BRUNEI
-  RHBBBNBB:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: RHB BANK BERHAD, BRUNEI
-  SCBLBNBB:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: STANDARD CHARTERED BANK - BRUNEI
-  UOVBBNBB:
-    branch: null
-    city: BANDAR SERI BEGAWAN
-    institution: UNITED OVERSEAS BANK LTD
-  UOVBBNBBCMS:
-    branch: (TRANSACTION BANKING)
-    city: BANDAR SERI BEGAWAN
-    institution: UNITED OVERSEAS BANK LTD
-  UOVBBNC1:
-    branch: (BANDAR SERI BEGAWAN BRANCH)
-    city: BANDAR SERI BEGAWAN
-    institution: UNITED OVERSEAS BANK LTD
+---
+AMBDBNBB:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: AUTORITI MONETARI BRUNEI DARUSSALAM
+BAIDBNBB:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: BAIDURI BANK BERHAD
+BIAGBNB1:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: BRUNEI INVESTMENT AGENCY
+BIBDBNBB:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: BANK ISLAM BRUNEI DARUSSALAM BERHAD
+BKCHBNBB:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: BANK OF CHINA (HONG KONG) LIMITED, BRUNEI BRANCH
+BRHPBNB1:
+  branch: null
+  city: SERIA
+  institution: BRUNEI SHELL PETROLEUM
+CCBRBNB1:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: CREDIT CORPORATION (BRUNEI) BHD
+HSBCBNBB:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE
+MBBEBNBB:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: MALAYAN BANKING BERHAD
+PTAIBNBB:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: PERBADANAN TABUNG AMANAH ISLAM BRUNEI
+RHBBBNBB:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: RHB BANK BERHAD, BRUNEI
+SCBLBNBB:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: STANDARD CHARTERED BANK - BRUNEI
+UOVBBNBB:
+  branch: null
+  city: BANDAR SERI BEGAWAN
+  institution: UNITED OVERSEAS BANK LTD
+UOVBBNBBCMS:
+  branch: (TRANSACTION BANKING)
+  city: BANDAR SERI BEGAWAN
+  institution: UNITED OVERSEAS BANK LTD
+UOVBBNC1:
+  branch: (BANDAR SERI BEGAWAN BRANCH)
+  city: BANDAR SERI BEGAWAN
+  institution: UNITED OVERSEAS BANK LTD

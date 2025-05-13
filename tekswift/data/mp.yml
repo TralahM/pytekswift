@@ -1,18 +1,17 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  ALMPMPMP:
-    branch: null
-    city: SAIPAN
-    institution: ALLIED MERCANTILE BANK CORPORATION
-  BOHIMPM1:
-    branch: null
-    city: SAIPAN
-    institution: BANK OF HAWAII
-  BSAIMPM1:
-    branch: null
-    city: SAIPAN
-    institution: BANK OF SAIPAN
-  GMBKMPM1:
-    branch: null
-    city: SAIPAN
-    institution: BANK OF GUAM
+---
+ALMPMPMP:
+  branch: null
+  city: SAIPAN
+  institution: ALLIED MERCANTILE BANK CORPORATION
+BOHIMPM1:
+  branch: null
+  city: SAIPAN
+  institution: BANK OF HAWAII
+BSAIMPM1:
+  branch: null
+  city: SAIPAN
+  institution: BANK OF SAIPAN
+GMBKMPM1:
+  branch: null
+  city: SAIPAN
+  institution: BANK OF GUAM

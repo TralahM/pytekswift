@@ -1,10 +1,9 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  BNAUNRN1:
-    branch: null
-    city: NAURU
-    institution: BANK OF NAURU
-  EGBNNRN1:
-    branch: null
-    city: NAURU
-    institution: EAGLE BANK INC.
+---
+BNAUNRN1:
+  branch: null
+  city: NAURU
+  institution: BANK OF NAURU
+EGBNNRN1:
+  branch: null
+  city: NAURU
+  institution: EAGLE BANK INC.

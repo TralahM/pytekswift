@@ -1,18 +1,17 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  CDCGWF2M:
-    branch: null
-    city: MATA UTU
-    institution: CAISSE DES DEPOTS ET CONSIGNATIONS
-  INDDWF21:
-    branch: null
-    city: MATA UTU
-    institution: IEOM MATA UTU
-  TRPUWF21:
-    branch: null
-    city: MATA UTU
-    institution: TRESOR PUBLIC UVEA MATA UTU
-  WAFTWF21:
-    branch: null
-    city: MATA UTU
-    institution: BANQUE DE WALLIS ET FUTUNA SA
+---
+CDCGWF2M:
+  branch: null
+  city: MATA UTU
+  institution: CAISSE DES DEPOTS ET CONSIGNATIONS
+INDDWF21:
+  branch: null
+  city: MATA UTU
+  institution: IEOM MATA UTU
+TRPUWF21:
+  branch: null
+  city: MATA UTU
+  institution: TRESOR PUBLIC UVEA MATA UTU
+WAFTWF21:
+  branch: null
+  city: MATA UTU
+  institution: BANQUE DE WALLIS ET FUTUNA SA

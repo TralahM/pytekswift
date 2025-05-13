@@ -1,230 +1,229 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  AISBPS22:
-    branch: null
-    city: RAMALLAH
-    institution: ARAB ISLAMIC BANK
-  ALDNPS22:
-    branch: null
-    city: RAMALLAH
-    institution: QUDS BANK
-  ALWSPS21:
-    branch: null
-    city: RAMALLAH
-    institution: ALWASTA SECURITIES CO
-  ARABPS22:
-    branch: null
-    city: RAMALLAH
-    institution: ARAB BANK PLC
-  ARABPS22020:
-    branch: (NABLUS BRANCH)
-    city: NABLUS
-    institution: ARAB BANK PLC
-  ARABPS22030:
-    branch: (AL-BIREH BRANCH)
-    city: AL-BIREH
-    institution: ARAB BANK PLC
-  ARABPS22040:
-    branch: (HEBRON BRANCH)
-    city: HEBRON
-    institution: ARAB BANK PLC
-  ARABPS22050:
-    branch: (BETHLEHEM BRANCH)
-    city: BETHLEHEM
-    institution: ARAB BANK PLC
-  ARABPS22060:
-    branch: (JENIN BRANCH)
-    city: JENIN
-    institution: ARAB BANK PLC
-  ARABPS22070:
-    branch: (TULKARM BRANCH)
-    city: TULKARM
-    institution: ARAB BANK PLC
-  ARABPS22080:
-    branch: (QALQILIAH BRANCH)
-    city: QALQILIAH
-    institution: ARAB BANK PLC
-  ARABPS22090:
-    branch: (AL MASYOON BRANCH)
-    city: RAMALLAH
-    institution: ARAB BANK PLC
-  ARABPS22100:
-    branch: (BETHANY BRANCH)
-    city: BETHANY
-    institution: ARAB BANK PLC
-  ARABPS22110:
-    branch: (AL-RAM BRANCH)
-    city: AL-RAM
-    institution: ARAB BANK PLC
-  ARABPS22500:
-    branch: (GAZA BRANCH)
-    city: GAZA
-    institution: ARAB BANK PLC
-  ARABPS22550:
-    branch: (JERICH BRANCH)
-    city: JERICHO
-    institution: ARAB BANK PLC
-  ARABPS22600:
-    branch: (RIMAL BRANCH)
-    city: GAZA
-    institution: ARAB BANK PLC
-  ARABPS22650:
-    branch: (KHAN YOUNIS BRANCH)
-    city: KHAN YOUNIS
-    institution: ARAB BANK PLC
-  ARABPS22COT:
-    branch: (CENTRALIZED OUTWARD TRANSFERS DEPT.)
-    city: RAMALLAH
-    institution: ARAB BANK PLC
-  ARABPS22COU:
-    branch: (CENTRAL OPERATIONS UNIT, TRADE FINANCE SERVICES)
-    city: RAMALLAH
-    institution: ARAB BANK PLC
-  ARABPS22DLR:
-    branch: (TREASURY OPERATIONS)
-    city: RAMALLAH
-    institution: ARAB BANK PLC
-  ARIRPS21:
-    branch: null
-    city: RAMALLAH
-    institution: AL ARABI INVESTMENT GROUP CO.
-  ARLBPS22:
-    branch: null
-    city: RAMALLAH
-    institution: EGYPTIAN ARAB LAND BANK
-  BJORPS22:
-    branch: null
-    city: RAMALLAH
-    institution: BANK OF JORDAN PLC
-  CAABPS22:
-    branch: null
-    city: RAMALLAH
-    institution: CAIRO AMMAN BANK
-  CDSEPS21:
-    branch: null
-    city: NABLUS
-    institution: THE CLEARING, DEPOSITORY AND SETTLEMENT DEPARTMEN(CDS)
-  GLSUPS21:
-    branch: null
-    city: NABLUS
-    institution: GLOBAL SECURITIES CO
-  HBHOPS22:
-    branch: null
-    city: RAMALLAH
-    institution: THE HOUSING BANK FOR TRADE AND FINANCE/RAMALLAH
-  JCBAPS22:
-    branch: null
-    city: RAMALLAH
-    institution: JORDAN COMMERCIAL BANK
-  JGBAPS21:
-    branch: null
-    city: GAZA
-    institution: JORDAN GULF BANK
-  JKBAPS22:
-    branch: null
-    city: RAMALLAH
-    institution: JORDAN KUWAIT BANK
-  JONBPS22:
-    branch: null
-    city: RAMALLAH
-    institution: JORDAN AHLI BANK-PLC FOREIGN PUBLIC COMPANY
-  JOPFPS21:
-    branch: null
-    city: RAMALLAH
-    institution: JORDAN PALESTINE CO. FOR FINANCIAL INVESTMENT
-  JPAIPS21:
-    branch: null
-    city: RAMALLAH
-    institution: JORDAN AND PALESTINE INVESTMENT CO.
-  LOFNPS21:
-    branch: null
-    city: RAMALLAH
-    institution: LOTUS FINANCIAL INVESTMENT CO.
-  NAFIPS21:
-    branch: null
-    city: BETHLEHEM
-    institution: AL NAWRAS FINANCIAL INVESTMENT CO.
-  NAWRPS21:
-    branch: null
-    city: BETHLEHEM
-    institution: NAWRAS BROKERAGE CO.
-  NCSIPS21:
-    branch: null
-    city: RAMALLAH
-    institution: NATIONAL COMPANY FOR SECURITIES INVESTMENT
-  PALSPS22:
-    branch: null
-    city: RAMALLAH
-    institution: BANK OF PALESTINE PLC
-  PIBCPS22:
-    branch: null
-    city: RAMALLAH
-    institution: PALESTINE ISLAMIC BANK
-  PINVPS22:
-    branch: null
-    city: RAMALLAH
-    institution: PALESTINE INVESTMENT BANK
-  PMAPPS22:
-    branch: null
-    city: AL-BIREH
-    institution: PALESTINE MONETARY AUTHORITY
-  PMAPPS22ACH:
-    branch: null
-    city: RAMALLAH
-    institution: PALESTINE MONETARY AUTHORITY
-  PMAPPS22ASA:
-    branch: (AUTHORIZED SETTLEMENT AGENRT)
-    city: RAMALLAH
-    institution: PALESTINE MONETARY AUTHORITY
-  PMAPPS22PEX:
-    branch: (CSD)
-    city: AL-BIREH
-    institution: PALESTINE MONETARY AUTHORITY
-  PMAPPS22TIA:
-    branch: (TECHNICAL INFRATRUCTURE AGENT)
-    city: RAMALLAH
-    institution: PALESTINE MONETARY AUTHORITY
-  PMAPPS2P:
-    branch: null
-    city: RAMALLAH
-    institution: PALESTINE MONETARY AUTHORITY
-  QUDSPS21:
-    branch: null
-    city: GAZA
-    institution: AL QUDUS BANK FOR DEVELOPMENT AND INVESTMENT
-  SAFKPS22:
-    branch: null
-    city: RAMALLAH
-    institution: SAFA BANK
-  STIPPS21:
-    branch: null
-    city: RAMALLAH
-    institution: SAHEM TRADING AND INVESTMENT COMPANY
-  TARVPS21:
-    branch: null
-    city: NABLUS
-    institution: TARGET INVESTMENT CO.
-  TJPSPS21:
-    branch: null
-    city: RAMALLAH
-    institution: TARGET JORDAN PALESTINE SECURITIES
-  TNBCPS22:
-    branch: null
-    city: RAMALLAH
-    institution: THE NATIONAL BANK PLC (FORMERLY AL RAFAH MICROFINANCE BANK)
-  UNTEPS21:
-    branch: null
-    city: RAMALLAH
-    institution: UNITED SECURITIES CO
-  WASUPS21:
-    branch: null
-    city: GAZA
-    institution: AL WASATA SECURITIES CO. LTD
-  WATTPS21:
-    branch: null
-    city: RAMALLAH
-    institution: WATANIYA SECURITIES CO
-  XPAEPS21:
-    branch: null
-    city: NABLUS
-    institution: PALESTINE SECURITIES EXCHANGE
+---
+AISBPS22:
+  branch: null
+  city: RAMALLAH
+  institution: ARAB ISLAMIC BANK
+ALDNPS22:
+  branch: null
+  city: RAMALLAH
+  institution: QUDS BANK
+ALWSPS21:
+  branch: null
+  city: RAMALLAH
+  institution: ALWASTA SECURITIES CO
+ARABPS22:
+  branch: null
+  city: RAMALLAH
+  institution: ARAB BANK PLC
+ARABPS22020:
+  branch: (NABLUS BRANCH)
+  city: NABLUS
+  institution: ARAB BANK PLC
+ARABPS22030:
+  branch: (AL-BIREH BRANCH)
+  city: AL-BIREH
+  institution: ARAB BANK PLC
+ARABPS22040:
+  branch: (HEBRON BRANCH)
+  city: HEBRON
+  institution: ARAB BANK PLC
+ARABPS22050:
+  branch: (BETHLEHEM BRANCH)
+  city: BETHLEHEM
+  institution: ARAB BANK PLC
+ARABPS22060:
+  branch: (JENIN BRANCH)
+  city: JENIN
+  institution: ARAB BANK PLC
+ARABPS22070:
+  branch: (TULKARM BRANCH)
+  city: TULKARM
+  institution: ARAB BANK PLC
+ARABPS22080:
+  branch: (QALQILIAH BRANCH)
+  city: QALQILIAH
+  institution: ARAB BANK PLC
+ARABPS22090:
+  branch: (AL MASYOON BRANCH)
+  city: RAMALLAH
+  institution: ARAB BANK PLC
+ARABPS22100:
+  branch: (BETHANY BRANCH)
+  city: BETHANY
+  institution: ARAB BANK PLC
+ARABPS22110:
+  branch: (AL-RAM BRANCH)
+  city: AL-RAM
+  institution: ARAB BANK PLC
+ARABPS22500:
+  branch: (GAZA BRANCH)
+  city: GAZA
+  institution: ARAB BANK PLC
+ARABPS22550:
+  branch: (JERICH BRANCH)
+  city: JERICHO
+  institution: ARAB BANK PLC
+ARABPS22600:
+  branch: (RIMAL BRANCH)
+  city: GAZA
+  institution: ARAB BANK PLC
+ARABPS22650:
+  branch: (KHAN YOUNIS BRANCH)
+  city: KHAN YOUNIS
+  institution: ARAB BANK PLC
+ARABPS22COT:
+  branch: (CENTRALIZED OUTWARD TRANSFERS DEPT.)
+  city: RAMALLAH
+  institution: ARAB BANK PLC
+ARABPS22COU:
+  branch: (CENTRAL OPERATIONS UNIT, TRADE FINANCE SERVICES)
+  city: RAMALLAH
+  institution: ARAB BANK PLC
+ARABPS22DLR:
+  branch: (TREASURY OPERATIONS)
+  city: RAMALLAH
+  institution: ARAB BANK PLC
+ARIRPS21:
+  branch: null
+  city: RAMALLAH
+  institution: AL ARABI INVESTMENT GROUP CO.
+ARLBPS22:
+  branch: null
+  city: RAMALLAH
+  institution: EGYPTIAN ARAB LAND BANK
+BJORPS22:
+  branch: null
+  city: RAMALLAH
+  institution: BANK OF JORDAN PLC
+CAABPS22:
+  branch: null
+  city: RAMALLAH
+  institution: CAIRO AMMAN BANK
+CDSEPS21:
+  branch: null
+  city: NABLUS
+  institution: THE CLEARING, DEPOSITORY AND SETTLEMENT DEPARTMEN(CDS)
+GLSUPS21:
+  branch: null
+  city: NABLUS
+  institution: GLOBAL SECURITIES CO
+HBHOPS22:
+  branch: null
+  city: RAMALLAH
+  institution: THE HOUSING BANK FOR TRADE AND FINANCE/RAMALLAH
+JCBAPS22:
+  branch: null
+  city: RAMALLAH
+  institution: JORDAN COMMERCIAL BANK
+JGBAPS21:
+  branch: null
+  city: GAZA
+  institution: JORDAN GULF BANK
+JKBAPS22:
+  branch: null
+  city: RAMALLAH
+  institution: JORDAN KUWAIT BANK
+JONBPS22:
+  branch: null
+  city: RAMALLAH
+  institution: JORDAN AHLI BANK-PLC FOREIGN PUBLIC COMPANY
+JOPFPS21:
+  branch: null
+  city: RAMALLAH
+  institution: JORDAN PALESTINE CO. FOR FINANCIAL INVESTMENT
+JPAIPS21:
+  branch: null
+  city: RAMALLAH
+  institution: JORDAN AND PALESTINE INVESTMENT CO.
+LOFNPS21:
+  branch: null
+  city: RAMALLAH
+  institution: LOTUS FINANCIAL INVESTMENT CO.
+NAFIPS21:
+  branch: null
+  city: BETHLEHEM
+  institution: AL NAWRAS FINANCIAL INVESTMENT CO.
+NAWRPS21:
+  branch: null
+  city: BETHLEHEM
+  institution: NAWRAS BROKERAGE CO.
+NCSIPS21:
+  branch: null
+  city: RAMALLAH
+  institution: NATIONAL COMPANY FOR SECURITIES INVESTMENT
+PALSPS22:
+  branch: null
+  city: RAMALLAH
+  institution: BANK OF PALESTINE PLC
+PIBCPS22:
+  branch: null
+  city: RAMALLAH
+  institution: PALESTINE ISLAMIC BANK
+PINVPS22:
+  branch: null
+  city: RAMALLAH
+  institution: PALESTINE INVESTMENT BANK
+PMAPPS22:
+  branch: null
+  city: AL-BIREH
+  institution: PALESTINE MONETARY AUTHORITY
+PMAPPS22ACH:
+  branch: null
+  city: RAMALLAH
+  institution: PALESTINE MONETARY AUTHORITY
+PMAPPS22ASA:
+  branch: (AUTHORIZED SETTLEMENT AGENRT)
+  city: RAMALLAH
+  institution: PALESTINE MONETARY AUTHORITY
+PMAPPS22PEX:
+  branch: (CSD)
+  city: AL-BIREH
+  institution: PALESTINE MONETARY AUTHORITY
+PMAPPS22TIA:
+  branch: (TECHNICAL INFRATRUCTURE AGENT)
+  city: RAMALLAH
+  institution: PALESTINE MONETARY AUTHORITY
+PMAPPS2P:
+  branch: null
+  city: RAMALLAH
+  institution: PALESTINE MONETARY AUTHORITY
+QUDSPS21:
+  branch: null
+  city: GAZA
+  institution: AL QUDUS BANK FOR DEVELOPMENT AND INVESTMENT
+SAFKPS22:
+  branch: null
+  city: RAMALLAH
+  institution: SAFA BANK
+STIPPS21:
+  branch: null
+  city: RAMALLAH
+  institution: SAHEM TRADING AND INVESTMENT COMPANY
+TARVPS21:
+  branch: null
+  city: NABLUS
+  institution: TARGET INVESTMENT CO.
+TJPSPS21:
+  branch: null
+  city: RAMALLAH
+  institution: TARGET JORDAN PALESTINE SECURITIES
+TNBCPS22:
+  branch: null
+  city: RAMALLAH
+  institution: THE NATIONAL BANK PLC (FORMERLY AL RAFAH MICROFINANCE BANK)
+UNTEPS21:
+  branch: null
+  city: RAMALLAH
+  institution: UNITED SECURITIES CO
+WASUPS21:
+  branch: null
+  city: GAZA
+  institution: AL WASATA SECURITIES CO. LTD
+WATTPS21:
+  branch: null
+  city: RAMALLAH
+  institution: WATANIYA SECURITIES CO
+XPAEPS21:
+  branch: null
+  city: NABLUS
+  institution: PALESTINE SECURITIES EXCHANGE

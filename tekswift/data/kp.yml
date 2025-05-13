@@ -1,50 +1,49 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  BOELKPP1:
-    branch: null
-    city: PYONGYANG
-    institution: BANK OF EAST LAND, PYONGYANG
-  BRBKKPP1:
-    branch: null
-    city: PYONGYANG
-    institution: BRILLIANCE BANKING CORPORATION LTD.
-  DCBKKPP1:
-    branch: null
-    city: PYONGYANG
-    institution: DAEDONG CREDIT BANK
-  FTBDKPP1:
-    branch: null
-    city: PYONGYANG
-    institution: FOREIGN TRADE BANK OF THE D.P.R. OF KOREA
-  FTBDKPP1KBC:
-    branch: null
-    city: PYONGYANG
-    institution: FOREIGN TRADE BANK OF THE D.P.R. OF KOREA
-  KCBKKPP1:
-    branch: null
-    city: PYONGYANG
-    institution: KORYO COMMERCIAL BANK LTD.
-  KDBKKPP1:
-    branch: null
-    city: PYONGYANG
-    institution: KOREA DAESONG BANK
-  KGCBKPP1:
-    branch: null
-    city: PYONGYANG
-    institution: KORYO CREDIT DEVELOPMENT BANK
-  KGTBKPP1:
-    branch: null
-    city: NAMSAN
-    institution: GOLDEN TRIANGLE BANK
-  KKBCKPP1:
-    branch: null
-    city: PYONGYANG
-    institution: KOREA KWANGSON BANKING CORP.
-  KMBKKPP1:
-    branch: null
-    city: PYONGYANG
-    institution: KUMGANG BANK
-  NEABKPP1:
-    branch: null
-    city: PYONGYANG
-    institution: NORTH EAST ASIA BANK
+---
+BOELKPP1:
+  branch: null
+  city: PYONGYANG
+  institution: BANK OF EAST LAND, PYONGYANG
+BRBKKPP1:
+  branch: null
+  city: PYONGYANG
+  institution: BRILLIANCE BANKING CORPORATION LTD.
+DCBKKPP1:
+  branch: null
+  city: PYONGYANG
+  institution: DAEDONG CREDIT BANK
+FTBDKPP1:
+  branch: null
+  city: PYONGYANG
+  institution: FOREIGN TRADE BANK OF THE D.P.R. OF KOREA
+FTBDKPP1KBC:
+  branch: null
+  city: PYONGYANG
+  institution: FOREIGN TRADE BANK OF THE D.P.R. OF KOREA
+KCBKKPP1:
+  branch: null
+  city: PYONGYANG
+  institution: KORYO COMMERCIAL BANK LTD.
+KDBKKPP1:
+  branch: null
+  city: PYONGYANG
+  institution: KOREA DAESONG BANK
+KGCBKPP1:
+  branch: null
+  city: PYONGYANG
+  institution: KORYO CREDIT DEVELOPMENT BANK
+KGTBKPP1:
+  branch: null
+  city: NAMSAN
+  institution: GOLDEN TRIANGLE BANK
+KKBCKPP1:
+  branch: null
+  city: PYONGYANG
+  institution: KOREA KWANGSON BANKING CORP.
+KMBKKPP1:
+  branch: null
+  city: PYONGYANG
+  institution: KUMGANG BANK
+NEABKPP1:
+  branch: null
+  city: PYONGYANG
+  institution: NORTH EAST ASIA BANK

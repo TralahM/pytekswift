@@ -1,70 +1,69 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  BCADNCNN:
-    branch: null
-    city: NOUMEA
-    institution: BANQUE CALEDONIENNE D'INVESTISSEMENT
-  BNPANCNX:
-    branch: null
-    city: NOUMEA
-    institution: BNP PARIBAS NOUVELLE CALEDONIE NOUMEA
-  BNPANCNXKOU:
-    branch: null
-    city: KOUMAC
-    institution: BNP PARIBAS NOUVELLE CALEDONIE NOUMEA
-  CCAENCN1:
-    branch: null
-    city: NOUMEA
-    institution: CSSE CIT AGRICOLE MUTUEL NLLE CALEDONIE
-  CCTCNCN1:
-    branch: null
-    city: NOUMEA
-    institution: CREDIT CALEDONIEN ET TAHITIEN
-  CDCGNCNN:
-    branch: null
-    city: NOUMEA
-    institution: CAISSE DES DEPOTS ET CONSIGNATIONS
-  CDNCNCN1:
-    branch: null
-    city: NOUMEA
-    institution: CAISSE D'EPARGNE DE NOUVELLE CALEDONIE
-  CEFNNCN1:
-    branch: null
-    city: NOUMEA
-    institution: CENTRE FINANCIER DE NOUMEA
-  CEPANCNM:
-    branch: null
-    city: NOUMEA
-    institution: BANQUE DE NOUVELLE CALEDONIE
-  FPSSNCN1:
-    branch: null
-    city: NOUMEA
-    institution: GE FINANCEMENT PACIFIQUE SAS
-  INDDNCN1:
-    branch: null
-    city: NOUMEA
-    institution: INSITITUT D EMISSION D OUTRE-MER
-  JOGPNCN1:
-    branch: null
-    city: NOUMEA
-    institution: JOC GESTION PRIVEE
-  NOUCNCN1:
-    branch: null
-    city: NOUMEA
-    institution: NOUMEA CREDIT
-  OCLNNCN1:
-    branch: null
-    city: NOUMEA
-    institution: OCEOR LEASE NOUMEA
-  PARBNCN1:
-    branch: null
-    city: NOUMEA
-    institution: BANQUE PARIBAS PACIFIQUE
-  SOGENCNN:
-    branch: null
-    city: NOUMEA
-    institution: SOCIETE GENERALE CALEDONIENNE DE BANQUE S G C B
-  TRPUNCN1:
-    branch: null
-    city: NOUMEA
-    institution: TRESOR PUBLIC NOUMEA
+---
+BCADNCNN:
+  branch: null
+  city: NOUMEA
+  institution: BANQUE CALEDONIENNE D'INVESTISSEMENT
+BNPANCNX:
+  branch: null
+  city: NOUMEA
+  institution: BNP PARIBAS NOUVELLE CALEDONIE NOUMEA
+BNPANCNXKOU:
+  branch: null
+  city: KOUMAC
+  institution: BNP PARIBAS NOUVELLE CALEDONIE NOUMEA
+CCAENCN1:
+  branch: null
+  city: NOUMEA
+  institution: CSSE CIT AGRICOLE MUTUEL NLLE CALEDONIE
+CCTCNCN1:
+  branch: null
+  city: NOUMEA
+  institution: CREDIT CALEDONIEN ET TAHITIEN
+CDCGNCNN:
+  branch: null
+  city: NOUMEA
+  institution: CAISSE DES DEPOTS ET CONSIGNATIONS
+CDNCNCN1:
+  branch: null
+  city: NOUMEA
+  institution: CAISSE D'EPARGNE DE NOUVELLE CALEDONIE
+CEFNNCN1:
+  branch: null
+  city: NOUMEA
+  institution: CENTRE FINANCIER DE NOUMEA
+CEPANCNM:
+  branch: null
+  city: NOUMEA
+  institution: BANQUE DE NOUVELLE CALEDONIE
+FPSSNCN1:
+  branch: null
+  city: NOUMEA
+  institution: GE FINANCEMENT PACIFIQUE SAS
+INDDNCN1:
+  branch: null
+  city: NOUMEA
+  institution: INSITITUT D EMISSION D OUTRE-MER
+JOGPNCN1:
+  branch: null
+  city: NOUMEA
+  institution: JOC GESTION PRIVEE
+NOUCNCN1:
+  branch: null
+  city: NOUMEA
+  institution: NOUMEA CREDIT
+OCLNNCN1:
+  branch: null
+  city: NOUMEA
+  institution: OCEOR LEASE NOUMEA
+PARBNCN1:
+  branch: null
+  city: NOUMEA
+  institution: BANQUE PARIBAS PACIFIQUE
+SOGENCNN:
+  branch: null
+  city: NOUMEA
+  institution: SOCIETE GENERALE CALEDONIENNE DE BANQUE S G C B
+TRPUNCN1:
+  branch: null
+  city: NOUMEA
+  institution: TRESOR PUBLIC NOUMEA

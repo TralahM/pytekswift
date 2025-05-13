@@ -1,34 +1,33 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  AFFSSTST:
-    branch: null
-    city: SAO TOME
-    institution: AFRILAND FIRST BANK STP
-  BGFISTST:
-    branch: null
-    city: SAO TOME
-    institution: BGFIBANK SAO TOME ET PRINCIPE
-  BNSTSTS1:
-    branch: null
-    city: SAO TOME
-    institution: BANCO NACIONAL DE SAO TOME E PRINCIPE
-  BPACSTST:
-    branch: null
-    city: SAO TOME
-    institution: BANCO PRIVADO SAO TOME E PRINCIPE
-  CSTPSTST:
-    branch: null
-    city: SAO TOME
-    institution: BANCO CENTRAL DE SAO TOME E PRINCIPE
-  ECOCSTST:
-    branch: null
-    city: SAO TOME
-    institution: ECOBANK SAO TOME
-  ESTPSTST:
-    branch: null
-    city: SAO TOME
-    institution: ENERGYBANK SAO TOME E PRICIPE S.A
-  INOISTST:
-    branch: null
-    city: SAO TOME
-    institution: BANCO INTERNACIONAL DE SAO TOME E PRINCIPE
+---
+AFFSSTST:
+  branch: null
+  city: SAO TOME
+  institution: AFRILAND FIRST BANK STP
+BGFISTST:
+  branch: null
+  city: SAO TOME
+  institution: BGFIBANK SAO TOME ET PRINCIPE
+BNSTSTS1:
+  branch: null
+  city: SAO TOME
+  institution: BANCO NACIONAL DE SAO TOME E PRINCIPE
+BPACSTST:
+  branch: null
+  city: SAO TOME
+  institution: BANCO PRIVADO SAO TOME E PRINCIPE
+CSTPSTST:
+  branch: null
+  city: SAO TOME
+  institution: BANCO CENTRAL DE SAO TOME E PRINCIPE
+ECOCSTST:
+  branch: null
+  city: SAO TOME
+  institution: ECOBANK SAO TOME
+ESTPSTST:
+  branch: null
+  city: SAO TOME
+  institution: ENERGYBANK SAO TOME E PRICIPE S.A
+INOISTST:
+  branch: null
+  city: SAO TOME
+  institution: BANCO INTERNACIONAL DE SAO TOME E PRINCIPE

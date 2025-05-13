@@ -1,139 +1,138 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  BPBXXKPR:
-    branch: null
-    city: PRISTINA
-    institution: BANKA PER BIZNES SH.A.
-  CBRKXKPR:
-    branch: null
-    city: PRISTINA
-    institution: CENTRAL BANK OF THE REPUBLIC OF KOSOVO
-  EKOMXKPR:
-    branch: null
-    city: PRISTINA
-    institution: BANKA EKONOMIKE SH.A
-  ISBKXKPR:
-    branch: null
-    city: PRISTINA
-    institution: TURKIYE IS BANKASI A.S. ALL KOSOVO BRANCHES
-  JJKMXK21:
-    branch: null
-    city: KOSOVSKA MITROVICA
-    institution: JUGOBANKA, JUGOBANKA A.D. KOSOVSKA MITROVICA
-  MBKOXKPR:
-    branch: null
-    city: PRISTINA
-    institution: PROCREDIT BANK KOSOVO (FORMERLY MICRO ENTERPRISE BANK, PRISTINA,
-      KOSOVO)
-  NCBAXKPR:
-    branch: null
-    city: PRISTINA
-    institution: BANKA KOMBETARE TREGTARE SH.A
-  NLPRXKPR:
-    branch: null
-    city: PRISTINA
-    institution: NLB PRISHTINA SH.A.
-  RBKOXKPR:
-    branch: null
-    city: PRISTINA
-    institution: RAIFFEISEN BANK KOSOVO
-  TCZBXKPR:
-    branch: null
-    city: PRISTINA
-    institution: TURKIYE CUMHURIYETI ZIRAAT BANKASI
-  TEBKXKPR:
-    branch: null
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR011:
-    branch: (MAIN)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR012:
-    branch: (SHADERVAN)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR013:
-    branch: (FERIZAJ)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR014:
-    branch: (FUSHE KOSOVA)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR015:
-    branch: (PEJA)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR016:
-    branch: (VUSHTRRI)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR017:
-    branch: (GJILAN)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR018:
-    branch: (GJAKOVA)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR019:
-    branch: (RAHOVEC)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR020:
-    branch: (DARDANIA)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR021:
-    branch: (ULPIANA)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR022:
-    branch: (SKENDERAJ)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR023:
-    branch: (MALISHEVA)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR024:
-    branch: (DRENAS)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR025:
-    branch: (THERANDA)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR026:
-    branch: (LYPJAN)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR027:
-    branch: (MITROVICA)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR028:
-    branch: (PRIZREN MAIN)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR029:
-    branch: (HANI ELEZIT)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR030:
-    branch: (KLINA)
-    city: KLINA
-    institution: TEB SHA
-  TEBKXKPR031:
-    branch: (PEJA CITY OFFICE)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR033:
-    branch: (QAFA CITY OFFICE)
-    city: PRISTINA
-    institution: TEB SHA
-  TEBKXKPR034:
-    branch: (PRISTINA QENDRA)
-    city: PRISTINA
-    institution: TEB SHA
+---
+BPBXXKPR:
+  branch: null
+  city: PRISTINA
+  institution: BANKA PER BIZNES SH.A.
+CBRKXKPR:
+  branch: null
+  city: PRISTINA
+  institution: CENTRAL BANK OF THE REPUBLIC OF KOSOVO
+EKOMXKPR:
+  branch: null
+  city: PRISTINA
+  institution: BANKA EKONOMIKE SH.A
+ISBKXKPR:
+  branch: null
+  city: PRISTINA
+  institution: TURKIYE IS BANKASI A.S. ALL KOSOVO BRANCHES
+JJKMXK21:
+  branch: null
+  city: KOSOVSKA MITROVICA
+  institution: JUGOBANKA, JUGOBANKA A.D. KOSOVSKA MITROVICA
+MBKOXKPR:
+  branch: null
+  city: PRISTINA
+  institution: PROCREDIT BANK KOSOVO (FORMERLY MICRO ENTERPRISE BANK, PRISTINA,
+    KOSOVO)
+NCBAXKPR:
+  branch: null
+  city: PRISTINA
+  institution: BANKA KOMBETARE TREGTARE SH.A
+NLPRXKPR:
+  branch: null
+  city: PRISTINA
+  institution: NLB PRISHTINA SH.A.
+RBKOXKPR:
+  branch: null
+  city: PRISTINA
+  institution: RAIFFEISEN BANK KOSOVO
+TCZBXKPR:
+  branch: null
+  city: PRISTINA
+  institution: TURKIYE CUMHURIYETI ZIRAAT BANKASI
+TEBKXKPR:
+  branch: null
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR011:
+  branch: (MAIN)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR012:
+  branch: (SHADERVAN)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR013:
+  branch: (FERIZAJ)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR014:
+  branch: (FUSHE KOSOVA)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR015:
+  branch: (PEJA)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR016:
+  branch: (VUSHTRRI)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR017:
+  branch: (GJILAN)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR018:
+  branch: (GJAKOVA)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR019:
+  branch: (RAHOVEC)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR020:
+  branch: (DARDANIA)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR021:
+  branch: (ULPIANA)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR022:
+  branch: (SKENDERAJ)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR023:
+  branch: (MALISHEVA)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR024:
+  branch: (DRENAS)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR025:
+  branch: (THERANDA)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR026:
+  branch: (LYPJAN)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR027:
+  branch: (MITROVICA)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR028:
+  branch: (PRIZREN MAIN)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR029:
+  branch: (HANI ELEZIT)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR030:
+  branch: (KLINA)
+  city: KLINA
+  institution: TEB SHA
+TEBKXKPR031:
+  branch: (PEJA CITY OFFICE)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR033:
+  branch: (QAFA CITY OFFICE)
+  city: PRISTINA
+  institution: TEB SHA
+TEBKXKPR034:
+  branch: (PRISTINA QENDRA)
+  city: PRISTINA
+  institution: TEB SHA

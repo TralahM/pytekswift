@@ -1,6 +1,5 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  BHELSHJJ:
-    branch: null
-    city: JAMESTOWN
-    institution: BANK OF ST. HELENA
+---
+BHELSHJJ:
+  branch: null
+  city: JAMESTOWN
+  institution: BANK OF ST. HELENA

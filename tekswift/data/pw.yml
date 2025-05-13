@@ -1,6 +1,5 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  BOHIPW21:
-    branch: null
-    city: KOROR
-    institution: BANK OF HAWAII
+---
+BOHIPW21:
+  branch: null
+  city: KOROR
+  institution: BANK OF HAWAII

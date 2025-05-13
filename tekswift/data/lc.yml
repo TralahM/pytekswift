@@ -1,58 +1,57 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  BKNOLCL1:
-    branch: null
-    city: RODNEY BAY
-    institution: BANKINNO INC
-  BOSLLCLC:
-    branch: null
-    city: CASTRIES
-    institution: BANK OF SAINT LUCIA LIMITED
-  BSLULCLC:
-    branch: null
-    city: GROS-ISLET
-    institution: BOSLIL BANK LIMITED
-  CIPVLCL1:
-    branch: null
-    city: CASTRIES
-    institution: CARIBBEAN PRIVATE BANK LIMITED
-  EULULCL1:
-    branch: null
-    city: GROS-ISLET
-    institution: EUROEXIM BANK (ST. LUCIA) LTD
-  FCIBLCLC:
-    branch: null
-    city: CASTRIES
-    institution: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED
-  GVLCLCLC:
-    branch: null
-    city: CASTRIES
-    institution: GOVERNMENT OF SAINT LUCIA
-  HEMMLCL2:
-    branch: null
-    city: GROS-ISLET
-    institution: HERMES BANK LIMITED
-  LUOBLCLC:
-    branch: null
-    city: CASTRIES
-    institution: 1ST NATIONAL BANK ST.LUCIA LIMITED
-  NOSCLCLC:
-    branch: null
-    city: CASTRIES
-    institution: BANK OF NOVA SCOTIA,THE
-  PLGCLCLC:
-    branch: null
-    city: CASTRIES
-    institution: PLG CAPITAL BANK LTD
-  PTRVLCLC:
-    branch: null
-    city: CASTRIES
-    institution: PETRUS PRIVATE BANK
-  ROYCLCLC:
-    branch: null
-    city: CASTRIES
-    institution: ROYAL BANK OF CANADA
-  STTTLCLC:
-    branch: null
-    city: CASTRIES
-    institution: STATETRUST BANK AND TRUST LTD.
+---
+BKNOLCL1:
+  branch: null
+  city: RODNEY BAY
+  institution: BANKINNO INC
+BOSLLCLC:
+  branch: null
+  city: CASTRIES
+  institution: BANK OF SAINT LUCIA LIMITED
+BSLULCLC:
+  branch: null
+  city: GROS-ISLET
+  institution: BOSLIL BANK LIMITED
+CIPVLCL1:
+  branch: null
+  city: CASTRIES
+  institution: CARIBBEAN PRIVATE BANK LIMITED
+EULULCL1:
+  branch: null
+  city: GROS-ISLET
+  institution: EUROEXIM BANK (ST. LUCIA) LTD
+FCIBLCLC:
+  branch: null
+  city: CASTRIES
+  institution: FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED
+GVLCLCLC:
+  branch: null
+  city: CASTRIES
+  institution: GOVERNMENT OF SAINT LUCIA
+HEMMLCL2:
+  branch: null
+  city: GROS-ISLET
+  institution: HERMES BANK LIMITED
+LUOBLCLC:
+  branch: null
+  city: CASTRIES
+  institution: 1ST NATIONAL BANK ST.LUCIA LIMITED
+NOSCLCLC:
+  branch: null
+  city: CASTRIES
+  institution: BANK OF NOVA SCOTIA,THE
+PLGCLCLC:
+  branch: null
+  city: CASTRIES
+  institution: PLG CAPITAL BANK LTD
+PTRVLCLC:
+  branch: null
+  city: CASTRIES
+  institution: PETRUS PRIVATE BANK
+ROYCLCLC:
+  branch: null
+  city: CASTRIES
+  institution: ROYAL BANK OF CANADA
+STTTLCLC:
+  branch: null
+  city: CASTRIES
+  institution: STATETRUST BANK AND TRUST LTD.

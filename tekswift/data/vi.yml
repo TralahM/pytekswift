@@ -1,26 +1,25 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  CITIVIV1:
-    branch: null
-    city: ST. THOMAS
-    institution: CITIBANK, N.A.
-  ESLOVIV1:
-    branch: null
-    city: CHRISTIANSTED
-    institution: EPAY SYSTEMS LIMITED LIABILITY COM
-  ESLOVIV1707:
-    branch: (DEPARTMENT)
-    city: CHRISTIANSTED
-    institution: EPAY SYSTEMS LIMITED LIABILITY COM
-  ESLOVIV1INV:
-    branch: (FINANCIAL SERVICES)
-    city: CHRISTIANSTED
-    institution: EPAY SYSTEMS LIMITED LIABILITY COM
-  MCSNVIVI:
-    branch: null
-    city: ST JOHN
-    institution: FOREIGN EXCHANGE BANK CORP.
-  NOSCVIVI:
-    branch: null
-    city: ST. THOMAS
-    institution: BANK OF NOVA SCOTIA,THE
+---
+CITIVIV1:
+  branch: null
+  city: ST. THOMAS
+  institution: CITIBANK, N.A.
+ESLOVIV1:
+  branch: null
+  city: CHRISTIANSTED
+  institution: EPAY SYSTEMS LIMITED LIABILITY COM
+ESLOVIV1707:
+  branch: (DEPARTMENT)
+  city: CHRISTIANSTED
+  institution: EPAY SYSTEMS LIMITED LIABILITY COM
+ESLOVIV1INV:
+  branch: (FINANCIAL SERVICES)
+  city: CHRISTIANSTED
+  institution: EPAY SYSTEMS LIMITED LIABILITY COM
+MCSNVIVI:
+  branch: null
+  city: ST JOHN
+  institution: FOREIGN EXCHANGE BANK CORP.
+NOSCVIVI:
+  branch: null
+  city: ST. THOMAS
+  institution: BANK OF NOVA SCOTIA,THE

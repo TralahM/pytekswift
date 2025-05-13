@@ -1,18 +1,17 @@
-!!python/object/apply:collections.defaultdict
-dictitems:
-  BKMOMSMS:
-    branch: null
-    city: BRADES
-    institution: BANK OF MONTSERRAT LIMITED
-  CAPBMSMS:
-    branch: null
-    city: BRADES
-    institution: CAPITAL INTERNATIONAL BANK INC.
-  GVMSMSMS:
-    branch: null
-    city: BRADES
-    institution: GOVERNMENT OF MONTSERRAT
-  ROYCMSMS:
-    branch: null
-    city: PLYMOUTH
-    institution: RBC ROYAL BANK OF CANADA
+---
+BKMOMSMS:
+  branch: null
+  city: BRADES
+  institution: BANK OF MONTSERRAT LIMITED
+CAPBMSMS:
+  branch: null
+  city: BRADES
+  institution: CAPITAL INTERNATIONAL BANK INC.
+GVMSMSMS:
+  branch: null
+  city: BRADES
+  institution: GOVERNMENT OF MONTSERRAT
+ROYCMSMS:
+  branch: null
+  city: PLYMOUTH
+  institution: RBC ROYAL BANK OF CANADA
