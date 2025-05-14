@@ -1,13 +1,15 @@
 """Utilities for deriving functionality from pytekswift and pycctek."""
-import string
-import functools
-import yaml
+
 import collections
-from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.feature_extraction.text import CountVectorizer
-from fuzzywuzzy import fuzz
-import os
 import collections.abc
+import functools
+import os
+import string
+
+import yaml
+from fuzzywuzzy import fuzz
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 try:
     from nltk.corpus import stopwords
@@ -17,12 +19,13 @@ except LookupError:
     nltk.download("stopwords")
 
 import cctek
+
 from tekswift import dataloader
 
 try:
     from yaml import CLoader as Loader
 except ImportError:
-    from yaml import Loader
+    from yaml import Loader  # type: ignore[assignment]
 
 stopwords = stopwords.words("english")
 
@@ -58,7 +61,7 @@ def gen_md(data):
     content = []
     if isinstance(data, dict):
         keys = list(flatten(data).keys())
-        headersep = [" ----- " for k in keys]
+        headersep = [" :-----: " for k in keys]
         values = list(flatten(data).values())
         content.append(list2str(keys))
         content.append(list2str(headersep))
@@ -66,7 +69,7 @@ def gen_md(data):
         return "\n".join(content)
     elif isinstance(data, list):
         keys = list(flatten(data[0]).keys())
-        headersep = [" ----- " for k in keys]
+        headersep = [" :-----: " for k in keys]
         content.append(list2str(keys))
         content.append(list2str(headersep))
         [content.append(list2str(list(flatten(v).values()))) for v in data]
@@ -158,8 +161,7 @@ def issuer_institutions_probmap(issuer, institutions, fuzz=False):
     probmap = collections.defaultdict()
     for ins in institutions:
         if fuzz:
-            probmap[ins.get("swiftcode")] = fuzz_prob(
-                issuer, ins.get("institution"))
+            probmap[ins.get("swiftcode")] = fuzz_prob(issuer, ins.get("institution"))
         else:
             probmap[ins.get("swiftcode")] = issuer_institution_similarity(
                 issuer, ins.get("institution")
@@ -183,6 +185,5 @@ def bin_to_swifts(bin_no, p=0.8, fuzz=True):
     country_code = bin_data.get("country").get("alpha_2")
     institutions = get_institutions_from_swift(country_code)
     probmap = issuer_institutions_probmap(issuer, institutions, fuzz=fuzz)
-    swifts = {c: dataloader.lookup_swiftcode(
-        c) for c in filter_probmap(probmap, p)}
+    swifts = {c: dataloader.lookup_swiftcode(c) for c in filter_probmap(probmap, p)}
     return swifts, bin_data, probmap

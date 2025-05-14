@@ -33,6 +33,6 @@ __all__ = [
     "bin_to_swifts",
 ]
 
-__version__ = "0.1.6"
+__version__ = "0.1.7"
 
 __author__ = "Tralah M Brian <https://github.com/TralahM>"
