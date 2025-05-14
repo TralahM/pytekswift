@@ -1,5 +1,5 @@
 build:
-	python setupy.py sdist bdist_wheel
+	python setup.py sdist bdist_wheel
 
 clean:
 	rm -rf build dist
